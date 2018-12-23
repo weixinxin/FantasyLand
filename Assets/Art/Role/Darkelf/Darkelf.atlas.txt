@@ -1,0 +1,279 @@
+
+Darkelf.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Darkelf/arm_inner_down_1
+  rotate: false
+  xy: 666, 370
+  size: 79, 186
+  orig: 79, 186
+  offset: 0, 0
+  index: -1
+Darkelf/arm_inner_down_2
+  rotate: true
+  xy: 787, 30
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+Darkelf/arm_inner_up
+  rotate: false
+  xy: 555, 546
+  size: 101, 231
+  orig: 101, 231
+  offset: 0, 0
+  index: -1
+Darkelf/arm_out_down
+  rotate: true
+  xy: 293, 779
+  size: 154, 361
+  orig: 154, 361
+  offset: 0, 0
+  index: -1
+Darkelf/arm_out_up
+  rotate: false
+  xy: 232, 298
+  size: 155, 274
+  orig: 155, 274
+  offset: 0, 0
+  index: -1
+Darkelf/blood
+  rotate: false
+  xy: 747, 440
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+Darkelf/blood_1
+  rotate: false
+  xy: 232, 273
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Darkelf/blood_2
+  rotate: true
+  xy: 389, 298
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+Darkelf/body
+  rotate: true
+  xy: 389, 315
+  size: 257, 159
+  orig: 257, 159
+  offset: 0, 0
+  index: -1
+Darkelf/body2
+  rotate: false
+  xy: 2, 596
+  size: 289, 426
+  orig: 289, 426
+  offset: 0, 0
+  index: -1
+Darkelf/ear_2
+  rotate: false
+  xy: 650, 21
+  size: 135, 78
+  orig: 135, 78
+  offset: 0, 0
+  index: -1
+Darkelf/eye_2_Battle_Weak
+  rotate: false
+  xy: 431, 3
+  size: 108, 28
+  orig: 108, 28
+  offset: 0, 0
+  index: -1
+Darkelf/eye_2_Normal_1
+  rotate: true
+  xy: 986, 574
+  size: 109, 32
+  orig: 109, 32
+  offset: 0, 0
+  index: -1
+Darkelf/eye_2_Normal_2
+  rotate: true
+  xy: 747, 453
+  size: 103, 32
+  orig: 103, 32
+  offset: 0, 0
+  index: -1
+Darkelf/eye_2_Normal_3
+  rotate: true
+  xy: 781, 488
+  size: 98, 34
+  orig: 98, 34
+  offset: 0, 0
+  index: -1
+Darkelf/face_2
+  rotate: false
+  xy: 2, 2
+  size: 293, 251
+  orig: 293, 251
+  offset: 0, 0
+  index: -1
+Darkelf/hair_2_1
+  rotate: true
+  xy: 293, 935
+  size: 87, 451
+  orig: 87, 451
+  offset: 0, 0
+  index: -1
+Darkelf/hair_2_2
+  rotate: false
+  xy: 950, 775
+  size: 70, 143
+  orig: 70, 143
+  offset: 0, 0
+  index: -1
+Darkelf/hair_2_3
+  rotate: false
+  xy: 758, 588
+  size: 91, 181
+  orig: 91, 181
+  offset: 0, 0
+  index: -1
+Darkelf/hair_2_4
+  rotate: false
+  xy: 550, 320
+  size: 114, 224
+  orig: 114, 224
+  offset: 0, 0
+  index: -1
+Darkelf/hair_2_5
+  rotate: false
+  xy: 658, 558
+  size: 98, 211
+  orig: 98, 211
+  offset: 0, 0
+  index: -1
+Darkelf/hand_inner
+  rotate: true
+  xy: 666, 327
+  size: 41, 89
+  orig: 41, 89
+  offset: 0, 0
+  index: -1
+Darkelf/jianjia_inner
+  rotate: false
+  xy: 851, 570
+  size: 133, 113
+  orig: 133, 113
+  offset: 0, 0
+  index: -1
+Darkelf/jianjia_out_1
+  rotate: false
+  xy: 732, 771
+  size: 216, 147
+  orig: 216, 147
+  offset: 0, 0
+  index: -1
+Darkelf/jianjia_out_2
+  rotate: false
+  xy: 851, 685
+  size: 171, 84
+  orig: 171, 84
+  offset: 0, 0
+  index: -1
+Darkelf/leg_inner
+  rotate: false
+  xy: 431, 33
+  size: 136, 280
+  orig: 136, 280
+  offset: 0, 0
+  index: -1
+Darkelf/leg_out
+  rotate: false
+  xy: 650, 101
+  size: 203, 217
+  orig: 203, 217
+  offset: 0, 0
+  index: -1
+Darkelf/mouth_2_Battle_Weak
+  rotate: false
+  xy: 991, 1004
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Darkelf/mouth_2_Normal_A
+  rotate: false
+  xy: 541, 17
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+Darkelf/mouth_2_Normal_B
+  rotate: false
+  xy: 569, 52
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Darkelf/mouth_2_Normal_C
+  rotate: false
+  xy: 232, 575
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+Darkelf/mouth_2_Normal_D
+  rotate: true
+  xy: 758, 564
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Darkelf/neck
+  rotate: false
+  xy: 656, 785
+  size: 74, 148
+  orig: 74, 148
+  offset: 0, 0
+  index: -1
+Darkelf/point
+  rotate: false
+  xy: 666, 320
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Darkelf/qunbai_out_1
+  rotate: false
+  xy: 297, 6
+  size: 132, 290
+  orig: 132, 290
+  offset: 0, 0
+  index: -1
+Darkelf/qunbai_out_2
+  rotate: false
+  xy: 2, 255
+  size: 228, 339
+  orig: 228, 339
+  offset: 0, 0
+  index: -1
+Darkelf/yaojia_inner_1
+  rotate: false
+  xy: 569, 72
+  size: 79, 246
+  orig: 79, 246
+  offset: 0, 0
+  index: -1
+Darkelf/yaojia_inner_2
+  rotate: true
+  xy: 746, 920
+  size: 102, 243
+  orig: 102, 243
+  offset: 0, 0
+  index: -1
+Darkelf/yaojia_out
+  rotate: true
+  xy: 293, 574
+  size: 203, 260
+  orig: 203, 260
+  offset: 0, 0
+  index: -1

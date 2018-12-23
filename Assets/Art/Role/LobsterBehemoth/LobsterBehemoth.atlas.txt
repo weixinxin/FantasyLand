@@ -1,0 +1,146 @@
+
+LobsterBehemoth.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 1476, 271
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 1476, 475
+  size: 201, 218
+  orig: 201, 218
+  offset: 0, 0
+  index: -1
+arm_out_dowm
+  rotate: true
+  xy: 645, 53
+  size: 205, 170
+  orig: 205, 170
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 1193, 238
+  size: 281, 311
+  orig: 281, 311
+  offset: 0, 0
+  index: -1
+blood
+  rotate: true
+  xy: 817, 107
+  size: 92, 208
+  orig: 92, 208
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 324
+  size: 446, 698
+  orig: 446, 698
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 863, 691
+  size: 331, 488
+  orig: 331, 488
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 822, 201
+  size: 348, 369
+  orig: 348, 369
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 450, 588
+  size: 411, 434
+  orig: 411, 434
+  offset: 0, 0
+  index: -1
+jianjia_inner
+  rotate: true
+  xy: 373, 71
+  size: 187, 270
+  orig: 187, 270
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: true
+  xy: 1353, 695
+  size: 327, 376
+  orig: 327, 376
+  offset: 0, 0
+  index: -1
+neck_1
+  rotate: true
+  xy: 450, 260
+  size: 326, 370
+  orig: 326, 370
+  offset: 0, 0
+  index: -1
+neck_2
+  rotate: true
+  xy: 2, 23
+  size: 299, 369
+  orig: 299, 369
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 2026, 1017
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: true
+  xy: 1353, 615
+  size: 78, 121
+  orig: 78, 121
+  offset: 0, 0
+  index: -1
+toushi_2
+  rotate: true
+  xy: 470, 11
+  size: 58, 115
+  orig: 58, 115
+  offset: 0, 0
+  index: -1
+toushi_3
+  rotate: true
+  xy: 863, 551
+  size: 138, 370
+  orig: 138, 370
+  offset: 0, 0
+  index: -1
+toushi_4
+  rotate: false
+  xy: 1027, 108
+  size: 142, 91
+  orig: 142, 91
+  offset: 0, 0
+  index: -1
+toushi_5
+  rotate: true
+  xy: 373, 2
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+toushi_6
+  rotate: false
+  xy: 1731, 689
+  size: 293, 333
+  orig: 293, 333
+  offset: 0, 0
+  index: -1

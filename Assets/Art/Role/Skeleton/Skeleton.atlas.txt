@@ -1,0 +1,76 @@
+
+Skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Skeleton_body
+  rotate: false
+  xy: 2, 186
+  size: 268, 323
+  orig: 268, 323
+  offset: 0, 0
+  index: -1
+Skeleton_eye_inner
+  rotate: false
+  xy: 1002, 497
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+Skeleton_eye_outer
+  rotate: false
+  xy: 601, 288
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Skeleton_head
+  rotate: false
+  xy: 601, 304
+  size: 243, 205
+  orig: 243, 205
+  offset: 0, 0
+  index: -1
+Skeleton_head_inner
+  rotate: false
+  xy: 272, 283
+  size: 327, 226
+  orig: 327, 226
+  offset: 0, 0
+  index: -1
+Skeleton_head_out
+  rotate: true
+  xy: 2, 2
+  size: 182, 257
+  orig: 182, 257
+  offset: 0, 0
+  index: -1
+Skeleton_jawbone
+  rotate: true
+  xy: 272, 171
+  size: 110, 113
+  orig: 110, 113
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 387, 279
+  size: 6, 2
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 846, 333
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 846, 395
+  size: 154, 114
+  orig: 154, 114
+  offset: 0, 0
+  index: -1

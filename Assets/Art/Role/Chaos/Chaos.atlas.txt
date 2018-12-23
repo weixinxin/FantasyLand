@@ -1,0 +1,83 @@
+
+Chaos.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 804, 564
+  size: 93, 71
+  orig: 93, 71
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 899, 582
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 804, 504
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 176, 110
+  size: 61, 81
+  orig: 61, 81
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 489, 428
+  size: 594, 313
+  orig: 594, 313
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: true
+  xy: 804, 637
+  size: 385, 202
+  orig: 385, 202
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 2, 17
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: false
+  xy: 460, 56
+  size: 344, 370
+  orig: 344, 370
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: false
+  xy: 2, 193
+  size: 456, 399
+  orig: 456, 399
+  offset: 0, 0
+  index: -1
+pifeng_3
+  rotate: false
+  xy: 2, 594
+  size: 485, 428
+  orig: 485, 428
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 1008, 1017
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

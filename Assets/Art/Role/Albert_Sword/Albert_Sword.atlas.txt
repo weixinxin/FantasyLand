@@ -1,0 +1,258 @@
+
+Albert_Sword.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Albert/Albert_Sword/Albert_Fighter_1/arminnerup
+  rotate: false
+  xy: 204, 2
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/armoutdown
+  rotate: true
+  xy: 352, 59
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/armoutup
+  rotate: false
+  xy: 403, 79
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/body
+  rotate: true
+  xy: 268, 126
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/hand_inner
+  rotate: false
+  xy: 458, 130
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/hand_out
+  rotate: false
+  xy: 356, 33
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/handinner1
+  rotate: false
+  xy: 356, 9
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/hudang
+  rotate: true
+  xy: 232, 10
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/jianjiainner
+  rotate: true
+  xy: 437, 85
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/jianjiaout
+  rotate: false
+  xy: 352, 82
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/leginnerdown
+  rotate: false
+  xy: 321, 73
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/leginnerup
+  rotate: false
+  xy: 277, 69
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/legoutdown
+  rotate: true
+  xy: 160, 2
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/legoutup
+  rotate: false
+  xy: 281, 19
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/weapon
+  rotate: false
+  xy: 268, 182
+  size: 222, 72
+  orig: 222, 72
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/yaojiainner
+  rotate: true
+  xy: 321, 48
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Albert/Albert_Sword/Albert_Fighter_1/yaojiaout
+  rotate: false
+  xy: 318, 9
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Albert/dd
+  rotate: false
+  xy: 492, 178
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Albert/eyebrow
+  rotate: true
+  xy: 492, 184
+  size: 70, 11
+  orig: 70, 11
+  offset: 0, 0
+  index: -1
+Albert/eyehard
+  rotate: false
+  xy: 419, 157
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+Albert/eyehard1
+  rotate: true
+  xy: 252, 49
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+Albert/eyehard2
+  rotate: false
+  xy: 343, 130
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Albert/eyehard3
+  rotate: false
+  xy: 86, 18
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Albert/eyesffuer
+  rotate: true
+  xy: 233, 122
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+Albert/eyeyun
+  rotate: true
+  xy: 218, 49
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+Albert/face
+  rotate: false
+  xy: 2, 43
+  size: 161, 150
+  orig: 161, 150
+  offset: 0, 0
+  index: -1
+Albert/hair1
+  rotate: false
+  xy: 165, 35
+  size: 51, 85
+  orig: 51, 85
+  offset: 0, 0
+  index: -1
+Albert/hair2
+  rotate: false
+  xy: 165, 122
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+Albert/hair3
+  rotate: true
+  xy: 419, 130
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Albert/huzi
+  rotate: false
+  xy: 393, 61
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+Albert/mouth02
+  rotate: false
+  xy: 2, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Albert/mouth03
+  rotate: false
+  xy: 22, 3
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Albert/mouth04
+  rotate: true
+  xy: 505, 235
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Albert/toushi
+  rotate: false
+  xy: 2, 19
+  size: 82, 22
+  orig: 82, 22
+  offset: 0, 0
+  index: -1
+Elwin/Pike
+  rotate: false
+  xy: 2, 195
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 343, 155
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

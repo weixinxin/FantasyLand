@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animators>
+  <Animator id="1" avatar="Role/Elwin">
+    <Animation name="Move" loop="true" duration="16"/>
+    <Animation name="Idle" loop="true" duration="30"/>
+	<Animation name="Attack" loop="false" duration="36">
+      <Event frame="12" name="attack" />
+    </Animation>
+  </Animator>
+</Animators>

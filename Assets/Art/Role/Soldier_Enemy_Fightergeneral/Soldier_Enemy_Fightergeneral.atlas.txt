@@ -1,0 +1,496 @@
+
+Soldier_Enemy_Fightergeneral.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pike
+  rotate: false
+  xy: 2, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 223, 375
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/arm_inner
+  rotate: false
+  xy: 318, 180
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/arm_inner1
+  rotate: true
+  xy: 442, 167
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/arm_out
+  rotate: false
+  xy: 478, 275
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/arm_out1
+  rotate: true
+  xy: 311, 41
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/body
+  rotate: false
+  xy: 149, 89
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/hand_inner
+  rotate: false
+  xy: 346, 45
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/hand_out
+  rotate: true
+  xy: 284, 83
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/hatout
+  rotate: false
+  xy: 268, 378
+  size: 153, 132
+  orig: 153, 132
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/hatout1
+  rotate: true
+  xy: 423, 387
+  size: 123, 63
+  orig: 123, 63
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/hudang
+  rotate: true
+  xy: 393, 168
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/jianjiainner
+  rotate: false
+  xy: 448, 344
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/jianjiaout
+  rotate: false
+  xy: 149, 36
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/leginnerdown
+  rotate: false
+  xy: 481, 156
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/leginnerup
+  rotate: false
+  xy: 199, 105
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/legoutdown
+  rotate: true
+  xy: 350, 115
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/legoutup
+  rotate: false
+  xy: 392, 252
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/weapon
+  rotate: false
+  xy: 2, 362
+  size: 219, 87
+  orig: 219, 87
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/yaojiainner
+  rotate: true
+  xy: 431, 66
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_FighterHigh/yaojiaout
+  rotate: true
+  xy: 199, 69
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/arm_inner
+  rotate: true
+  xy: 440, 204
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/arm_out
+  rotate: false
+  xy: 311, 134
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/arm_out1
+  rotate: true
+  xy: 149, 2
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/body
+  rotate: true
+  xy: 76, 152
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/hand_inner
+  rotate: true
+  xy: 284, 58
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/hand_out
+  rotate: false
+  xy: 242, 46
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/handinner1
+  rotate: true
+  xy: 488, 387
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/hatout
+  rotate: false
+  xy: 210, 224
+  size: 126, 136
+  orig: 126, 136
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/hudang
+  rotate: true
+  xy: 448, 307
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/jianjiainner
+  rotate: false
+  xy: 439, 130
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/jianjiaout
+  rotate: true
+  xy: 346, 185
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/leginnerdown
+  rotate: true
+  xy: 393, 99
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/leginnerup
+  rotate: true
+  xy: 263, 181
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/legoutdown
+  rotate: true
+  xy: 439, 97
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/legoutup
+  rotate: true
+  xy: 263, 146
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/weapon
+  rotate: true
+  xy: 2, 138
+  size: 222, 72
+  orig: 222, 72
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/yaojiainner
+  rotate: false
+  xy: 488, 443
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Fightergeneral/yaojiaout
+  rotate: true
+  xy: 440, 227
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Soldier_FighterHigh/arm_inner
+  rotate: false
+  xy: 483, 201
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Soldier_FighterHigh/arm_out
+  rotate: false
+  xy: 478, 243
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Soldier_FighterHigh/body
+  rotate: true
+  xy: 149, 155
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+Soldier_FighterHigh/hatout
+  rotate: true
+  xy: 76, 206
+  size: 154, 132
+  orig: 154, 132
+  offset: 0, 0
+  index: -1
+Soldier_FighterHigh/hudang
+  rotate: false
+  xy: 413, 329
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Soldier_FighterHigh/jianjiainner
+  rotate: false
+  xy: 430, 264
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Soldier_FighterHigh/jianjiaout
+  rotate: false
+  xy: 215, 171
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Soldier_FighterHigh/leginnerdown
+  rotate: false
+  xy: 481, 111
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Soldier_FighterHigh/legoutdown
+  rotate: true
+  xy: 198, 36
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Soldier_FighterHigh/yaojiainner
+  rotate: true
+  xy: 311, 104
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Soldier_FighterHigh/yaojiaout
+  rotate: true
+  xy: 350, 148
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Soldier_Fightergeneral/arm_inner
+  rotate: false
+  xy: 240, 128
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Soldier_Fightergeneral/arm_out
+  rotate: true
+  xy: 393, 129
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Soldier_Fightergeneral/body
+  rotate: false
+  xy: 338, 234
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1
+Soldier_Fightergeneral/hatout
+  rotate: true
+  xy: 2, 3
+  size: 133, 145
+  orig: 133, 145
+  offset: 0, 0
+  index: -1
+Soldier_Fightergeneral/hudang
+  rotate: true
+  xy: 263, 109
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Soldier_Fightergeneral/jianjiainner
+  rotate: false
+  xy: 242, 72
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+Soldier_Fightergeneral/jianjiaout
+  rotate: true
+  xy: 393, 203
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+Soldier_Fightergeneral/leginnerdown
+  rotate: true
+  xy: 311, 74
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Soldier_Fightergeneral/legoutdown
+  rotate: true
+  xy: 200, 3
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Soldier_Fightergeneral/yaojiainner
+  rotate: false
+  xy: 488, 412
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Soldier_Fightergeneral/yaojiaout
+  rotate: false
+  xy: 356, 77
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 442, 381
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+eyehard
+  rotate: true
+  xy: 488, 474
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: false
+  xy: 393, 70
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: true
+  xy: 481, 73
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 338, 307
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 423, 378
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 496, 368
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+mouth03
+  rotate: false
+  xy: 223, 364
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+mouth04
+  rotate: false
+  xy: 76, 144
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1

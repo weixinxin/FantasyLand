@@ -1,0 +1,104 @@
+
+Tiamat.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragon_eye
+  rotate: false
+  xy: 198, 41
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+Dragon_eyelid_1
+  rotate: false
+  xy: 682, 178
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+Dragon_eyelid_2
+  rotate: false
+  xy: 263, 42
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+Dragon_head
+  rotate: true
+  xy: 2, 19
+  size: 488, 194
+  orig: 488, 194
+  offset: 0, 0
+  index: -1
+Dragon_jawbone
+  rotate: false
+  xy: 704, 313
+  size: 194, 227
+  orig: 194, 227
+  offset: 0, 0
+  index: -1
+Dragon_jiao_in
+  rotate: false
+  xy: 367, 20
+  size: 296, 160
+  orig: 296, 160
+  offset: 0, 0
+  index: -1
+Dragon_jiao_out
+  rotate: false
+  xy: 377, 739
+  size: 534, 279
+  orig: 534, 279
+  offset: 0, 0
+  index: -1
+Dragon_neck_1
+  rotate: false
+  xy: 2, 509
+  size: 373, 509
+  orig: 373, 509
+  offset: 0, 0
+  index: -1
+Dragon_neck_2
+  rotate: false
+  xy: 377, 542
+  size: 510, 195
+  orig: 510, 195
+  offset: 0, 0
+  index: -1
+Dragon_neck_3
+  rotate: true
+  xy: 913, 760
+  size: 258, 105
+  orig: 258, 105
+  offset: 0, 0
+  index: -1
+Dragon_neck_4
+  rotate: false
+  xy: 377, 382
+  size: 325, 158
+  orig: 325, 158
+  offset: 0, 0
+  index: -1
+Dragon_neck_5
+  rotate: true
+  xy: 198, 84
+  size: 423, 167
+  orig: 423, 167
+  offset: 0, 0
+  index: -1
+Dragon_toushi
+  rotate: false
+  xy: 682, 216
+  size: 200, 95
+  orig: 200, 95
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 367, 182
+  size: 313, 198
+  orig: 313, 198
+  offset: 0, 0
+  index: -1

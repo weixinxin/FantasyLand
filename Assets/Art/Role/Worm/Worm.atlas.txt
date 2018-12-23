@@ -1,0 +1,286 @@
+
+Worm.png
+size: 383,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 183, 178
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/body
+  rotate: false
+  xy: 232, 130
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/body1
+  rotate: false
+  xy: 2, 202
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/leginner1_1
+  rotate: false
+  xy: 226, 2
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/leginner1_2
+  rotate: false
+  xy: 183, 138
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/leginner2_1
+  rotate: false
+  xy: 365, 346
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/leginner2_2
+  rotate: false
+  xy: 300, 95
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/leginner3_1
+  rotate: false
+  xy: 365, 277
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/leginner3_2
+  rotate: true
+  xy: 39, 2
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/legout1_1
+  rotate: false
+  xy: 301, 123
+  size: 19, 53
+  orig: 19, 53
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/legout1_2
+  rotate: false
+  xy: 269, 71
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/legout2
+  rotate: false
+  xy: 221, 58
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/legout3_1
+  rotate: false
+  xy: 271, 135
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Worm/EcplodeWorm/legout3_2
+  rotate: true
+  xy: 275, 96
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/body
+  rotate: false
+  xy: 183, 50
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/body1
+  rotate: false
+  xy: 183, 218
+  size: 180, 163
+  orig: 180, 163
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/leginner1_1
+  rotate: false
+  xy: 249, 4
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/leginner1_2
+  rotate: false
+  xy: 259, 178
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/leginner2_1
+  rotate: true
+  xy: 2, 2
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/leginner2_2
+  rotate: true
+  xy: 322, 94
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/leginner3_1
+  rotate: false
+  xy: 365, 245
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/leginner3_2
+  rotate: true
+  xy: 70, 2
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/legout1_1
+  rotate: false
+  xy: 346, 124
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/legout1_2
+  rotate: false
+  xy: 322, 69
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/legout2
+  rotate: false
+  xy: 245, 60
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/legout3_1
+  rotate: true
+  xy: 183, 21
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Worm/InfectWorm/legout3_2
+  rotate: true
+  xy: 356, 179
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/body
+  rotate: true
+  xy: 308, 179
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/body1
+  rotate: false
+  xy: 2, 21
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/leginner1_1
+  rotate: false
+  xy: 322, 117
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/leginner1_2
+  rotate: false
+  xy: 183, 98
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/leginner2_1
+  rotate: false
+  xy: 365, 309
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/leginner2_2
+  rotate: false
+  xy: 299, 67
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/leginner3_1
+  rotate: true
+  xy: 132, 4
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/leginner3_2
+  rotate: true
+  xy: 101, 2
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/legout1_1
+  rotate: false
+  xy: 272, 16
+  size: 19, 53
+  orig: 19, 53
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/legout1_2
+  rotate: true
+  xy: 350, 94
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/legout2
+  rotate: false
+  xy: 293, 27
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/legout3_1
+  rotate: true
+  xy: 232, 100
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Worm/ZombieWorm/legout3_2
+  rotate: false
+  xy: 293, 2
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1

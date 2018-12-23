@@ -1,0 +1,314 @@
+
+Schelfaniel_Skin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyebrow
+  rotate: false
+  xy: 496, 283
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard
+  rotate: false
+  xy: 576, 384
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard1
+  rotate: false
+  xy: 872, 366
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard2
+  rotate: true
+  xy: 206, 86
+  size: 66, 15
+  orig: 66, 15
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard3
+  rotate: false
+  xy: 500, 371
+  size: 66, 9
+  orig: 66, 9
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyesffuer
+  rotate: false
+  xy: 422, 52
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyeyun
+  rotate: true
+  xy: 339, 69
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/face
+  rotate: false
+  xy: 299, 266
+  size: 139, 109
+  orig: 139, 109
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hair
+  rotate: true
+  xy: 941, 343
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hair1
+  rotate: true
+  xy: 109, 11
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/mouth01
+  rotate: false
+  xy: 109, 2
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/mouth02
+  rotate: true
+  xy: 1008, 374
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/mouth04
+  rotate: false
+  xy: 422, 126
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/arminner1
+  rotate: false
+  xy: 221, 155
+  size: 72, 122
+  orig: 72, 122
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/armout
+  rotate: true
+  xy: 371, 131
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/armout1
+  rotate: false
+  xy: 446, 121
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/armout3
+  rotate: false
+  xy: 445, 187
+  size: 61, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/body
+  rotate: false
+  xy: 223, 90
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/body2
+  rotate: true
+  xy: 274, 81
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/hairback
+  rotate: false
+  xy: 299, 377
+  size: 199, 133
+  orig: 199, 133
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/handinner
+  rotate: false
+  xy: 173, 4
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/handinner2
+  rotate: false
+  xy: 485, 52
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/handout
+  rotate: false
+  xy: 274, 138
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/handout1
+  rotate: true
+  xy: 558, 342
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/hantinner
+  rotate: false
+  xy: 2, 47
+  size: 202, 105
+  orig: 202, 105
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/hatout
+  rotate: false
+  xy: 500, 409
+  size: 202, 101
+  orig: 202, 101
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/hudanginner
+  rotate: true
+  xy: 374, 183
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/jianjiainner
+  rotate: false
+  xy: 422, 85
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/leginnerdown
+  rotate: false
+  xy: 496, 295
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/leginnerup
+  rotate: false
+  xy: 486, 81
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/legoutdown
+  rotate: true
+  xy: 645, 378
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/legoutup
+  rotate: false
+  xy: 78, 2
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/qunbai2
+  rotate: false
+  xy: 2, 3
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/qunbaiback
+  rotate: true
+  xy: 440, 271
+  size: 104, 54
+  orig: 104, 54
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/qunbaiinner
+  rotate: false
+  xy: 371, 69
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/qunbaiout
+  rotate: false
+  xy: 295, 187
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/shipin
+  rotate: true
+  xy: 534, 295
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/shipininner
+  rotate: false
+  xy: 496, 342
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/toushi
+  rotate: false
+  xy: 2, 154
+  size: 217, 123
+  orig: 217, 123
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/toushi1
+  rotate: true
+  xy: 872, 391
+  size: 119, 146
+  orig: 119, 146
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/toushi2
+  rotate: false
+  xy: 2, 279
+  size: 295, 231
+  orig: 295, 231
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/weapon
+  rotate: true
+  xy: 295, 132
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Skin/weapon 1
+  rotate: true
+  xy: 704, 376
+  size: 134, 166
+  orig: 134, 166
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 500, 382
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

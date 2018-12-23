@@ -1,0 +1,69 @@
+
+Slime.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC_slime_blue
+  rotate: true
+  xy: 2, 9
+  size: 500, 335
+  orig: 500, 335
+  offset: 0, 0
+  index: -1
+NPC_slime_green
+  rotate: true
+  xy: 339, 9
+  size: 500, 335
+  orig: 500, 335
+  offset: 0, 0
+  index: -1
+NPC_slime_red
+  rotate: true
+  xy: 676, 59
+  size: 450, 335
+  orig: 450, 335
+  offset: 0, 0
+  index: -1
+highlight_blue
+  rotate: false
+  xy: 676, 8
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+highlight_red
+  rotate: false
+  xy: 736, 8
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 2, 2
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+shuidi_blue
+  rotate: true
+  xy: 796, 46
+  size: 11, 60
+  orig: 11, 60
+  offset: 0, 0
+  index: -1
+shuidi_green
+  rotate: true
+  xy: 858, 46
+  size: 11, 60
+  orig: 11, 60
+  offset: 0, 0
+  index: -1
+shuidi_red
+  rotate: true
+  xy: 920, 46
+  size: 11, 60
+  orig: 11, 60
+  offset: 0, 0
+  index: -1

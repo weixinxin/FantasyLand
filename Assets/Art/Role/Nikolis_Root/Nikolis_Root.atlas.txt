@@ -1,0 +1,300 @@
+
+Nikolis_Root.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC_Bust/Nikolis/blood_1
+  rotate: false
+  xy: 942, 521
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/blood_2
+  rotate: false
+  xy: 473, 176
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/blood_3
+  rotate: true
+  xy: 908, 332
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/body_1
+  rotate: false
+  xy: 791, 329
+  size: 115, 182
+  orig: 115, 182
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/body_2
+  rotate: true
+  xy: 2, 17
+  size: 170, 225
+  orig: 170, 225
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/body_3
+  rotate: false
+  xy: 2, 529
+  size: 289, 493
+  orig: 289, 493
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/eye_Normal
+  rotate: false
+  xy: 791, 288
+  size: 110, 39
+  orig: 110, 39
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/eye_Weak
+  rotate: false
+  xy: 781, 254
+  size: 97, 32
+  orig: 97, 32
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/hair_1
+  rotate: true
+  xy: 2, 2
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/hair_2
+  rotate: false
+  xy: 999, 942
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/hair_3
+  rotate: true
+  xy: 489, 210
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/hair_4
+  rotate: true
+  xy: 880, 260
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/mouth_Normal
+  rotate: true
+  xy: 942, 541
+  size: 62, 22
+  orig: 62, 22
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/mouth_Weak
+  rotate: false
+  xy: 443, 236
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+NPC_Bust/Nikolis/point
+  rotate: false
+  xy: 603, 728
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/arm_inner_up
+  rotate: false
+  xy: 229, 42
+  size: 143, 132
+  orig: 143, 132
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/blood_1
+  rotate: true
+  xy: 443, 176
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/blood_2
+  rotate: true
+  xy: 823, 228
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/body_up
+  rotate: false
+  xy: 293, 716
+  size: 308, 306
+  orig: 308, 306
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/eye_1_Hurt
+  rotate: false
+  xy: 229, 9
+  size: 133, 31
+  orig: 133, 31
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/eye_1_Normal_1
+  rotate: true
+  xy: 977, 606
+  size: 133, 29
+  orig: 133, 29
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/eye_1_Normal_2
+  rotate: true
+  xy: 908, 386
+  size: 133, 29
+  orig: 133, 29
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/eye_1_Normal_3
+  rotate: true
+  xy: 939, 386
+  size: 133, 29
+  orig: 133, 29
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/face
+  rotate: false
+  xy: 284, 269
+  size: 245, 246
+  orig: 245, 246
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/hair_1_1
+  rotate: true
+  xy: 284, 176
+  size: 91, 157
+  orig: 91, 157
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/hair_1_2
+  rotate: false
+  xy: 932, 852
+  size: 65, 170
+  orig: 65, 170
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/hair_1_3
+  rotate: true
+  xy: 531, 252
+  size: 60, 126
+  orig: 60, 126
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/hair_1_4
+  rotate: false
+  xy: 932, 741
+  size: 67, 109
+  orig: 67, 109
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/jianjia_out_1
+  rotate: false
+  xy: 293, 517
+  size: 332, 197
+  orig: 332, 197
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/jianjia_out_2
+  rotate: false
+  xy: 627, 513
+  size: 252, 222
+  orig: 252, 222
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/lingzi_inner_1
+  rotate: false
+  xy: 881, 521
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/lingzi_inner_2
+  rotate: true
+  xy: 659, 238
+  size: 74, 120
+  orig: 74, 120
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/lingzi_out
+  rotate: false
+  xy: 881, 605
+  size: 94, 130
+  orig: 94, 130
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/mouth_1_Hurt
+  rotate: false
+  xy: 781, 228
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/mouth_1_Normal_A
+  rotate: true
+  xy: 999, 896
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/mouth_1_Normal_B
+  rotate: true
+  xy: 999, 978
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/mouth_1_Normal_C
+  rotate: false
+  xy: 443, 209
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/mouth_1_Normal_D
+  rotate: false
+  xy: 908, 358
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/neck
+  rotate: true
+  xy: 374, 27
+  size: 147, 117
+  orig: 147, 117
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/pifeng_inner
+  rotate: false
+  xy: 2, 189
+  size: 280, 338
+  orig: 280, 338
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/pifeng_out_1
+  rotate: false
+  xy: 531, 314
+  size: 258, 197
+  orig: 258, 197
+  offset: 0, 0
+  index: -1
+NPC_Bust/Root/pifeng_out_2
+  rotate: true
+  xy: 603, 737
+  size: 285, 327
+  orig: 285, 327
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<BuffEffect ID="500001" Desc="魔法伤害" BuffEffectType="1" isPermanent="true" BaseDelta="0" CurDelta="20" CurPercent="0.0" BasePercent="0.0" />
+	<BuffEffect ID="500002" Desc="小型百分比魔法伤害" BuffEffectType="1" isPermanent="true" BaseDelta="0" CurDelta="0" CurPercent="0" BasePercent="0.1" />
+	<BuffEffect ID="500003" Desc="免疫物理伤害" BuffEffectType="16" isPermanent="false" BaseDelta="0" CurDelta="0" CurPercent="0" BasePercent="0" />
+	<BuffEffect ID="500004" Desc="免疫魔法伤害" BuffEffectType="17" isPermanent="false" BaseDelta="0" CurDelta="0" CurPercent="0.0" BasePercent="0" />
+</root>

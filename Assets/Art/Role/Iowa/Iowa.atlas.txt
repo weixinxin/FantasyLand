@@ -1,0 +1,174 @@
+
+Iowa.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Iowa/arminnerdown
+  rotate: true
+  xy: 70, 14
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+Iowa/arminnerup
+  rotate: true
+  xy: 279, 56
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Iowa/armoutdown
+  rotate: false
+  xy: 426, 149
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+Iowa/armoutup
+  rotate: false
+  xy: 426, 114
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Iowa/body
+  rotate: false
+  xy: 138, 117
+  size: 102, 134
+  orig: 102, 134
+  offset: 0, 0
+  index: -1
+Iowa/eyebrow
+  rotate: false
+  xy: 426, 232
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+Iowa/eyehard
+  rotate: false
+  xy: 148, 46
+  size: 59, 17
+  orig: 59, 17
+  offset: 0, 0
+  index: -1
+Iowa/eyesffuer
+  rotate: false
+  xy: 138, 65
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+Iowa/eyeyun
+  rotate: false
+  xy: 70, 40
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+Iowa/face
+  rotate: false
+  xy: 2, 65
+  size: 134, 186
+  orig: 134, 186
+  offset: 0, 0
+  index: -1
+Iowa/hair
+  rotate: false
+  xy: 242, 80
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+Iowa/handinner
+  rotate: true
+  xy: 315, 53
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Iowa/handout
+  rotate: true
+  xy: 383, 81
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Iowa/jianjiainner
+  rotate: false
+  xy: 383, 137
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+Iowa/jianjiaout
+  rotate: false
+  xy: 2, 2
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+Iowa/jianjiaout1
+  rotate: true
+  xy: 361, 81
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Iowa/leginnerdown
+  rotate: false
+  xy: 216, 54
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+Iowa/leginnerup
+  rotate: true
+  xy: 383, 104
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Iowa/legoutdown
+  rotate: true
+  xy: 242, 53
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Iowa/legoutup
+  rotate: false
+  xy: 471, 159
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Iowa/shipin
+  rotate: true
+  xy: 138, 90
+  size: 25, 91
+  orig: 25, 91
+  offset: 0, 0
+  index: -1
+Iowa/shipin1
+  rotate: false
+  xy: 361, 105
+  size: 20, 90
+  orig: 20, 90
+  offset: 0, 0
+  index: -1
+Iowa/weapon
+  rotate: false
+  xy: 242, 197
+  size: 182, 54
+  orig: 182, 54
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 426, 205
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

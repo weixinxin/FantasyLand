@@ -1,0 +1,118 @@
+
+Octopus.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 742, 561
+  size: 218, 205
+  orig: 218, 205
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 485
+  size: 294, 524
+  orig: 294, 524
+  offset: 0, 0
+  index: -1
+huxu_2_1
+  rotate: true
+  xy: 429, 556
+  size: 109, 177
+  orig: 109, 177
+  offset: 0, 0
+  index: -1
+huxu_2_10
+  rotate: true
+  xy: 370, 291
+  size: 200, 143
+  orig: 200, 143
+  offset: 0, 0
+  index: -1
+huxu_2_11
+  rotate: false
+  xy: 429, 667
+  size: 175, 342
+  orig: 175, 342
+  offset: 0, 0
+  index: -1
+huxu_2_12
+  rotate: false
+  xy: 298, 493
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+huxu_2_13
+  rotate: false
+  xy: 298, 598
+  size: 129, 411
+  orig: 129, 411
+  offset: 0, 0
+  index: -1
+huxu_2_2
+  rotate: false
+  xy: 248, 279
+  size: 120, 204
+  orig: 120, 204
+  offset: 0, 0
+  index: -1
+huxu_2_3
+  rotate: false
+  xy: 606, 684
+  size: 134, 325
+  orig: 134, 325
+  offset: 0, 0
+  index: -1
+huxu_2_4
+  rotate: true
+  xy: 738, 422
+  size: 137, 161
+  orig: 137, 161
+  offset: 0, 0
+  index: -1
+huxu_2_5
+  rotate: false
+  xy: 444, 99
+  size: 142, 190
+  orig: 142, 190
+  offset: 0, 0
+  index: -1
+huxu_2_6
+  rotate: false
+  xy: 742, 768
+  size: 195, 241
+  orig: 195, 241
+  offset: 0, 0
+  index: -1
+huxu_2_7
+  rotate: false
+  xy: 248, 74
+  size: 194, 203
+  orig: 194, 203
+  offset: 0, 0
+  index: -1
+huxu_2_8
+  rotate: false
+  xy: 2, 9
+  size: 244, 474
+  orig: 244, 474
+  offset: 0, 0
+  index: -1
+huxu_2_9
+  rotate: true
+  xy: 608, 549
+  size: 133, 128
+  orig: 133, 128
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 2, 2
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

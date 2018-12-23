@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<Buff ID="400001" Desc="一次性魔法伤害" Groups="1" RejectionGroups="0" OverlayTactics="0" Delay="0" isLoop="false" Duration="0" isIndividual="true" isClearable="false" isNegative="true" isScriptBuff="false" BuffEffect="500001"/>
+	<Buff ID="400002" Desc="一次性小魔法伤害" Groups="1" RejectionGroups="0" OverlayTactics="0" Delay="0" isLoop="false" Duration="4.0" isIndividual="false" isClearable="false" isNegative="true" isScriptBuff="false" BuffEffect="500002"/>
+	<Buff ID="400003" Desc="物理免疫" Groups="1" RejectionGroups="0" OverlayTactics="0" Delay="0" isLoop="false" Duration="3.0" isIndividual="false" isClearable="false" isNegative="false" isScriptBuff="false" BuffEffect="500003"/>
+	<Buff ID="400004" Desc="魔法免疫" Groups="1" RejectionGroups="0" OverlayTactics="0" Delay="0" isLoop="false" Duration="5.0" isIndividual="false" isClearable="false" isNegative="false" isScriptBuff="false" BuffEffect="500004"/>
+	<Buff ID="400005" Desc="伤害减免" Groups="1" RejectionGroups="0" OverlayTactics="0" Delay="0" isLoop="false" Duration="5.0" isIndividual="false" isClearable="false" isNegative="false" isScriptBuff="true" BuffEffect=""/>
+</root>

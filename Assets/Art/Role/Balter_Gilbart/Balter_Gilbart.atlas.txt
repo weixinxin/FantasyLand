@@ -1,0 +1,272 @@
+
+Balter_Gilbart.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Balter/blood_1
+  rotate: false
+  xy: 513, 6
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+Balter/blood_2
+  rotate: false
+  xy: 533, 105
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Balter/blood_3
+  rotate: true
+  xy: 318, 450
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Balter/body_1
+  rotate: false
+  xy: 632, 448
+  size: 255, 340
+  orig: 255, 340
+  offset: 0, 0
+  index: -1
+Balter/body_2
+  rotate: true
+  xy: 260, 475
+  size: 313, 370
+  orig: 313, 370
+  offset: 0, 0
+  index: -1
+Balter/body_3
+  rotate: false
+  xy: 2, 450
+  size: 256, 572
+  orig: 256, 572
+  offset: 0, 0
+  index: -1
+Balter/eye_Normal
+  rotate: true
+  xy: 559, 101
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+Balter/eye_Weak
+  rotate: false
+  xy: 616, 80
+  size: 91, 45
+  orig: 91, 45
+  offset: 0, 0
+  index: -1
+Balter/hair
+  rotate: false
+  xy: 874, 97
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Balter/mouth_Normal
+  rotate: false
+  xy: 709, 70
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+Balter/mouth_Weak
+  rotate: true
+  xy: 904, 117
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+Gilbart/arm_inner_up
+  rotate: false
+  xy: 938, 448
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+Gilbart/arm_out_up
+  rotate: false
+  xy: 422, 2
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+Gilbart/blood_1
+  rotate: false
+  xy: 148, 9
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Gilbart/blood_2
+  rotate: false
+  xy: 889, 454
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Gilbart/blood_3
+  rotate: false
+  xy: 356, 450
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Gilbart/body_up
+  rotate: true
+  xy: 851, 804
+  size: 218, 49
+  orig: 218, 49
+  offset: 0, 0
+  index: -1
+Gilbart/eye_1_Hurt
+  rotate: false
+  xy: 422, 144
+  size: 135, 52
+  orig: 135, 52
+  offset: 0, 0
+  index: -1
+Gilbart/eye_1_Normal_1
+  rotate: true
+  xy: 889, 631
+  size: 136, 47
+  orig: 136, 47
+  offset: 0, 0
+  index: -1
+Gilbart/eye_1_Normal_2
+  rotate: true
+  xy: 889, 493
+  size: 136, 47
+  orig: 136, 47
+  offset: 0, 0
+  index: -1
+Gilbart/eye_1_Normal_3
+  rotate: true
+  xy: 938, 631
+  size: 136, 47
+  orig: 136, 47
+  offset: 0, 0
+  index: -1
+Gilbart/face
+  rotate: false
+  xy: 422, 198
+  size: 200, 275
+  orig: 200, 275
+  offset: 0, 0
+  index: -1
+Gilbart/hair_1
+  rotate: true
+  xy: 260, 450
+  size: 23, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1
+Gilbart/hair_2
+  rotate: true
+  xy: 70, 9
+  size: 25, 76
+  orig: 25, 76
+  offset: 0, 0
+  index: -1
+Gilbart/lingzi_inner
+  rotate: false
+  xy: 624, 127
+  size: 278, 80
+  orig: 278, 80
+  offset: 0, 0
+  index: -1
+Gilbart/lingzi_out_1
+  rotate: true
+  xy: 902, 769
+  size: 253, 84
+  orig: 253, 84
+  offset: 0, 0
+  index: -1
+Gilbart/lingzi_out_2
+  rotate: true
+  xy: 422, 68
+  size: 74, 109
+  orig: 74, 109
+  offset: 0, 0
+  index: -1
+Gilbart/lingzi_out_3
+  rotate: false
+  xy: 938, 516
+  size: 54, 113
+  orig: 54, 113
+  offset: 0, 0
+  index: -1
+Gilbart/mouth_1_Hurt
+  rotate: true
+  xy: 983, 380
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+Gilbart/mouth_1_Normal_A
+  rotate: true
+  xy: 988, 820
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+Gilbart/mouth_1_Normal_B
+  rotate: true
+  xy: 988, 888
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+Gilbart/mouth_1_Normal_C
+  rotate: false
+  xy: 2, 2
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Gilbart/mouth_1_Normal_D
+  rotate: true
+  xy: 988, 956
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+Gilbart/neck
+  rotate: false
+  xy: 802, 70
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+Gilbart/pijian_out_1
+  rotate: false
+  xy: 2, 36
+  size: 251, 412
+  orig: 251, 412
+  offset: 0, 0
+  index: -1
+Gilbart/pijian_out_2
+  rotate: false
+  xy: 255, 42
+  size: 165, 406
+  orig: 165, 406
+  offset: 0, 0
+  index: -1
+Gilbart/xiongjia_1
+  rotate: false
+  xy: 624, 209
+  size: 357, 237
+  orig: 357, 237
+  offset: 0, 0
+  index: -1
+Gilbart/xiongjia_2
+  rotate: false
+  xy: 260, 790
+  size: 589, 232
+  orig: 589, 232
+  offset: 0, 0
+  index: -1

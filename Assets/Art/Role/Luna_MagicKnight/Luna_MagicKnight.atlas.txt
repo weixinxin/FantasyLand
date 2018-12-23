@@ -1,0 +1,314 @@
+
+Luna_MagicKnight.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leon/Pike
+  rotate: false
+  xy: 502, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/body
+  rotate: false
+  xy: 279, 200
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/eyebrow
+  rotate: false
+  xy: 165, 2
+  size: 56, 8
+  orig: 56, 8
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/eyehard
+  rotate: false
+  xy: 776, 356
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/eyehard1
+  rotate: false
+  xy: 651, 331
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/eyehard2
+  rotate: true
+  xy: 426, 189
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/eyehard3
+  rotate: false
+  xy: 2, 3
+  size: 65, 12
+  orig: 65, 12
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/eyesffuer
+  rotate: false
+  xy: 445, 188
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/eyeyun
+  rotate: false
+  xy: 651, 303
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/face
+  rotate: true
+  xy: 141, 170
+  size: 118, 136
+  orig: 118, 136
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/hair
+  rotate: false
+  xy: 658, 353
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/hair1
+  rotate: true
+  xy: 135, 74
+  size: 94, 136
+  orig: 94, 136
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/hair2
+  rotate: false
+  xy: 335, 256
+  size: 108, 91
+  orig: 108, 91
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/hairinner
+  rotate: false
+  xy: 2, 224
+  size: 137, 225
+  orig: 137, 225
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/hairinner1
+  rotate: true
+  xy: 2, 17
+  size: 63, 118
+  orig: 63, 118
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/mouth01
+  rotate: true
+  xy: 858, 446
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/mouth02
+  rotate: true
+  xy: 69, 2
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/mouth04
+  rotate: true
+  xy: 329, 182
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Luna/Luna_MagicKnight/Luna_UnicornKnight_2/toushi
+  rotate: false
+  xy: 776, 378
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_backlegdown
+  rotate: false
+  xy: 273, 120
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_backlegup
+  rotate: true
+  xy: 334, 190
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_body
+  rotate: false
+  xy: 335, 349
+  size: 167, 100
+  orig: 167, 100
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_frontlegdown
+  rotate: true
+  xy: 165, 12
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_frontlegup
+  rotate: false
+  xy: 601, 281
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_guajian2
+  rotate: false
+  xy: 445, 249
+  size: 77, 98
+  orig: 77, 98
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_hair
+  rotate: true
+  xy: 866, 441
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_head
+  rotate: false
+  xy: 141, 290
+  size: 192, 159
+  orig: 192, 159
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_neck
+  rotate: false
+  xy: 524, 256
+  size: 75, 102
+  orig: 75, 102
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_weiba
+  rotate: false
+  xy: 504, 360
+  size: 152, 89
+  orig: 152, 89
+  offset: 0, 0
+  index: -1
+Mount/dd
+  rotate: false
+  xy: 135, 218
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Sonia/dd
+  rotate: false
+  xy: 135, 218
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 165, 47
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/handinner
+  rotate: true
+  xy: 273, 74
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/handinner1
+  rotate: false
+  xy: 893, 408
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/handout
+  rotate: true
+  xy: 956, 441
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/handout1
+  rotate: false
+  xy: 858, 407
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/horse_mana
+  rotate: true
+  xy: 2, 82
+  size: 140, 131
+  orig: 140, 131
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/jianjiainner
+  rotate: true
+  xy: 122, 2
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/jianjiaout1
+  rotate: false
+  xy: 768, 461
+  size: 96, 49
+  orig: 96, 49
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/jianjiaoutinner
+  rotate: false
+  xy: 445, 216
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/legdownout
+  rotate: true
+  xy: 241, 43
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/legoutup
+  rotate: true
+  xy: 279, 169
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/weapon
+  rotate: false
+  xy: 2, 451
+  size: 498, 59
+  orig: 498, 59
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/yaojia
+  rotate: false
+  xy: 956, 466
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1

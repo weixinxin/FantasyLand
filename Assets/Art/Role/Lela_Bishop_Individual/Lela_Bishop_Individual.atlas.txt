@@ -1,0 +1,237 @@
+
+Lela_Bishop_Individual.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JellioruLela/Lela_Avatar_3/body
+  rotate: true
+  xy: 373, 420
+  size: 90, 137
+  orig: 90, 137
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/jianjiaout
+  rotate: false
+  xy: 148, 160
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/toushi
+  rotate: true
+  xy: 101, 136
+  size: 124, 45
+  orig: 124, 45
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/weapon
+  rotate: false
+  xy: 135, 421
+  size: 236, 89
+  orig: 236, 89
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/weibo
+  rotate: false
+  xy: 437, 285
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/weibo1
+  rotate: false
+  xy: 331, 314
+  size: 107, 104
+  orig: 107, 104
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/yaoshi
+  rotate: false
+  xy: 482, 278
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/arminner1
+  rotate: false
+  xy: 400, 279
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/armout1
+  rotate: false
+  xy: 147, 84
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/body
+  rotate: false
+  xy: 135, 283
+  size: 90, 136
+  orig: 90, 136
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyebrow
+  rotate: false
+  xy: 226, 232
+  size: 67, 8
+  orig: 67, 8
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyehard
+  rotate: false
+  xy: 331, 288
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyehard1
+  rotate: true
+  xy: 178, 201
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyehard2
+  rotate: false
+  xy: 101, 2
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyehard3
+  rotate: false
+  xy: 135, 270
+  size: 67, 11
+  orig: 67, 11
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyesffuer
+  rotate: true
+  xy: 148, 201
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyeyun
+  rotate: false
+  xy: 226, 242
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/face
+  rotate: false
+  xy: 227, 299
+  size: 102, 120
+  orig: 102, 120
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/hair1
+  rotate: false
+  xy: 440, 310
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/hair2
+  rotate: false
+  xy: 101, 20
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/hair3
+  rotate: false
+  xy: 187, 78
+  size: 15, 56
+  orig: 15, 56
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/hair4
+  rotate: false
+  xy: 204, 163
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/hairback
+  rotate: false
+  xy: 2, 262
+  size: 131, 248
+  orig: 131, 248
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/handinner
+  rotate: true
+  xy: 147, 32
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/handout
+  rotate: true
+  xy: 148, 136
+  size: 22, 58
+  orig: 22, 58
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/mouth01
+  rotate: true
+  xy: 295, 254
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/yaodai
+  rotate: false
+  xy: 179, 39
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/yaodaipeijian
+  rotate: true
+  xy: 204, 223
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/weapon
+  rotate: true
+  xy: 2, 8
+  size: 252, 97
+  orig: 252, 97
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 227, 272
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth02
+  rotate: false
+  xy: 303, 283
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth03
+  rotate: false
+  xy: 226, 223
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth04
+  rotate: false
+  xy: 2, 3
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,419 @@
+
+DarkElfgeneral.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DarkElfgeneral/Elfgeneral/arminnerdown
+  rotate: true
+  xy: 338, 138
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/arminnerup
+  rotate: true
+  xy: 316, 148
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/armoutdown
+  rotate: false
+  xy: 216, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/armoutup
+  rotate: true
+  xy: 375, 227
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/bao
+  rotate: false
+  xy: 199, 36
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/body
+  rotate: false
+  xy: 375, 332
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/eyebrow
+  rotate: true
+  xy: 264, 116
+  size: 79, 9
+  orig: 79, 9
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/eyesffuer
+  rotate: true
+  xy: 458, 328
+  size: 77, 29
+  orig: 77, 29
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/eyeyun
+  rotate: true
+  xy: 375, 253
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/face
+  rotate: false
+  xy: 2, 80
+  size: 140, 143
+  orig: 140, 143
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/hair1
+  rotate: true
+  xy: 2, 19
+  size: 59, 118
+  orig: 59, 118
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/hair2
+  rotate: true
+  xy: 144, 87
+  size: 48, 107
+  orig: 48, 107
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/hair3
+  rotate: true
+  xy: 316, 407
+  size: 103, 167
+  orig: 103, 167
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/handinner
+  rotate: false
+  xy: 369, 158
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/handout
+  rotate: true
+  xy: 243, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/jianjiaout
+  rotate: false
+  xy: 408, 257
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/leginnerdown
+  rotate: false
+  xy: 378, 180
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/leginnerup
+  rotate: true
+  xy: 326, 184
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/legoutdown
+  rotate: true
+  xy: 140, 6
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/legoutup
+  rotate: true
+  xy: 407, 184
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/pidai
+  rotate: true
+  xy: 487, 273
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/weapon
+  rotate: false
+  xy: 2, 225
+  size: 85, 285
+  orig: 85, 285
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/Elfgeneral/weapon1
+  rotate: true
+  xy: 280, 179
+  size: 186, 21
+  orig: 186, 21
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/arminnerdown
+  rotate: true
+  xy: 366, 136
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/arminnerup
+  rotate: false
+  xy: 338, 161
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/armoutdown
+  rotate: false
+  xy: 485, 407
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/armoutup
+  rotate: false
+  xy: 189, 2
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/bao
+  rotate: false
+  xy: 292, 89
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/body
+  rotate: false
+  xy: 326, 226
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/dd
+  rotate: false
+  xy: 292, 69
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/eyebrow
+  rotate: false
+  xy: 144, 76
+  size: 80, 9
+  orig: 80, 9
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/eyehard
+  rotate: true
+  xy: 489, 331
+  size: 74, 16
+  orig: 74, 16
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/eyehard1
+  rotate: true
+  xy: 122, 4
+  size: 74, 16
+  orig: 74, 16
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/eyehard2
+  rotate: false
+  xy: 2, 2
+  size: 74, 15
+  orig: 74, 15
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/eyehard3
+  rotate: true
+  xy: 253, 70
+  size: 65, 9
+  orig: 65, 9
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/eyesffuer
+  rotate: false
+  xy: 408, 296
+  size: 77, 30
+  orig: 77, 30
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/eyeyun
+  rotate: true
+  xy: 425, 328
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/face
+  rotate: false
+  xy: 176, 367
+  size: 138, 143
+  orig: 138, 143
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/hair1
+  rotate: true
+  xy: 144, 137
+  size: 58, 118
+  orig: 58, 118
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/hair2
+  rotate: false
+  xy: 326, 299
+  size: 47, 106
+  orig: 47, 106
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/hair3
+  rotate: false
+  xy: 176, 197
+  size: 102, 168
+  orig: 102, 168
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/handinner
+  rotate: true
+  xy: 459, 230
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/handout
+  rotate: true
+  xy: 268, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/jianjiainner
+  rotate: false
+  xy: 144, 200
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/jianjiainnerinner
+  rotate: false
+  xy: 78, 2
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/jianjiaout
+  rotate: false
+  xy: 140, 38
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/leginnerdown
+  rotate: false
+  xy: 264, 69
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/leginnerup
+  rotate: false
+  xy: 275, 128
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/legoutdown
+  rotate: true
+  xy: 410, 226
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/legoutup
+  rotate: false
+  xy: 252, 21
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/mouth01
+  rotate: true
+  xy: 100, 2
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/mouth02
+  rotate: false
+  xy: 292, 75
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/mouth03
+  rotate: true
+  xy: 316, 371
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/mouth04
+  rotate: true
+  xy: 507, 388
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/pidai
+  rotate: true
+  xy: 228, 32
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/pidaiinner
+  rotate: true
+  xy: 316, 386
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/weapon
+  rotate: false
+  xy: 89, 225
+  size: 85, 285
+  orig: 85, 285
+  offset: 0, 0
+  index: -1
+DarkElfgeneral/weapon1
+  rotate: true
+  xy: 303, 180
+  size: 185, 21
+  orig: 185, 21
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 485, 436
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

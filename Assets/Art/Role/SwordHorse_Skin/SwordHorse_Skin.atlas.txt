@@ -1,0 +1,335 @@
+
+SwordHorse_Skin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CavalryMan/CavalryManSkin/CavalryManSkin01/bear_backlegdown
+  rotate: false
+  xy: 329, 147
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/bear_backlegup
+  rotate: false
+  xy: 262, 37
+  size: 80, 92
+  orig: 80, 92
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/bear_body
+  rotate: false
+  xy: 850, 373
+  size: 143, 137
+  orig: 143, 137
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/bear_body1
+  rotate: true
+  xy: 518, 181
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/bear_frontlegdown
+  rotate: false
+  xy: 784, 317
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/bear_frontlegup
+  rotate: false
+  xy: 2, 2
+  size: 86, 125
+  orig: 86, 125
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/bear_head
+  rotate: true
+  xy: 225, 226
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/bear_mana
+  rotate: false
+  xy: 551, 406
+  size: 151, 104
+  orig: 151, 104
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/bear_neck
+  rotate: true
+  xy: 108, 119
+  size: 74, 116
+  orig: 74, 116
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/bear_weiba
+  rotate: false
+  xy: 640, 213
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/body
+  rotate: false
+  xy: 640, 249
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/handinner
+  rotate: true
+  xy: 933, 317
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/handout
+  rotate: false
+  xy: 712, 268
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/handout1
+  rotate: false
+  xy: 665, 329
+  size: 36, 75
+  orig: 36, 75
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/hatout
+  rotate: false
+  xy: 165, 361
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/jianjiainner
+  rotate: false
+  xy: 609, 200
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/jianjiaout
+  rotate: true
+  xy: 609, 226
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/legoutdown
+  rotate: false
+  xy: 995, 478
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/legoutup
+  rotate: false
+  xy: 344, 63
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin01/weapon
+  rotate: false
+  xy: 317, 408
+  size: 232, 40
+  orig: 232, 40
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_backlegdown
+  rotate: false
+  xy: 380, 147
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_backlegup
+  rotate: false
+  xy: 180, 24
+  size: 80, 93
+  orig: 80, 93
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_body
+  rotate: false
+  xy: 704, 372
+  size: 144, 138
+  orig: 144, 138
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_body1
+  rotate: false
+  xy: 430, 242
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_frontlegdown
+  rotate: false
+  xy: 859, 318
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_frontlegup
+  rotate: false
+  xy: 342, 239
+  size: 86, 120
+  orig: 86, 120
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_guajian
+  rotate: true
+  xy: 442, 334
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_guajian1
+  rotate: true
+  xy: 317, 361
+  size: 45, 123
+  orig: 45, 123
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_head
+  rotate: true
+  xy: 108, 195
+  size: 134, 115
+  orig: 134, 115
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_mana
+  rotate: true
+  xy: 2, 129
+  size: 200, 104
+  orig: 200, 104
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_mana1
+  rotate: false
+  xy: 789, 217
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_neck
+  rotate: true
+  xy: 547, 329
+  size: 75, 116
+  orig: 75, 116
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/bear_weiba
+  rotate: false
+  xy: 344, 110
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/body
+  rotate: false
+  xy: 90, 10
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/handinner
+  rotate: false
+  xy: 929, 260
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/handout
+  rotate: false
+  xy: 859, 254
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/handout1
+  rotate: true
+  xy: 712, 227
+  size: 39, 75
+  orig: 39, 75
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/hatout
+  rotate: false
+  xy: 2, 331
+  size: 161, 179
+  orig: 161, 179
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/jianjiaout
+  rotate: false
+  xy: 518, 268
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryManSkin/CavalryManSkin02/weapon
+  rotate: false
+  xy: 317, 450
+  size: 232, 60
+  orig: 232, 60
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 342, 199
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+SwordMan/eyehard
+  rotate: false
+  xy: 782, 268
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+SwordMan/eyesffuer
+  rotate: false
+  xy: 846, 217
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+SwordMan/eyeyun
+  rotate: false
+  xy: 703, 332
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+SwordMan/face
+  rotate: false
+  xy: 226, 131
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 90, 3
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 165, 333
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

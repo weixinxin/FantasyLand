@@ -1,0 +1,83 @@
+
+Kraken.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kraken/Kraken/body
+  rotate: false
+  xy: 196, 311
+  size: 125, 98
+  orig: 125, 98
+  offset: 0, 0
+  index: -1
+Kraken/Kraken/body1
+  rotate: false
+  xy: 118, 132
+  size: 93, 112
+  orig: 93, 112
+  offset: 0, 0
+  index: -1
+Kraken/Kraken/body2
+  rotate: true
+  xy: 118, 15
+  size: 115, 67
+  orig: 115, 67
+  offset: 0, 0
+  index: -1
+Kraken/Kraken/body3
+  rotate: true
+  xy: 2, 7
+  size: 237, 114
+  orig: 237, 114
+  offset: 0, 0
+  index: -1
+Kraken/Kraken/eyehard
+  rotate: false
+  xy: 457, 414
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Kraken/Kraken/eyesffuer
+  rotate: false
+  xy: 196, 263
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Kraken/Kraken/eyeyun
+  rotate: false
+  xy: 232, 269
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Kraken/Kraken/face
+  rotate: false
+  xy: 2, 246
+  size: 192, 163
+  orig: 192, 163
+  offset: 0, 0
+  index: -1
+Kraken/Kraken/face1
+  rotate: false
+  xy: 457, 456
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+Kraken/Kraken/water
+  rotate: false
+  xy: 2, 411
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Kraken/Kraken/xiaba
+  rotate: true
+  xy: 339, 412
+  size: 93, 116
+  orig: 93, 116
+  offset: 0, 0
+  index: -1

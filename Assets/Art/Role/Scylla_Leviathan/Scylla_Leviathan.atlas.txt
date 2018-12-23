@@ -1,0 +1,251 @@
+
+Scylla_Leviathan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leviathan/arm_inner_up
+  rotate: true
+  xy: 413, 107
+  size: 88, 241
+  orig: 88, 241
+  offset: 0, 0
+  index: -1
+Leviathan/arm_out_up
+  rotate: false
+  xy: 517, 512
+  size: 316, 142
+  orig: 316, 142
+  offset: 0, 0
+  index: -1
+Leviathan/blood_1
+  rotate: false
+  xy: 890, 196
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Leviathan/blood_2
+  rotate: true
+  xy: 857, 24
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Leviathan/body
+  rotate: true
+  xy: 266, 467
+  size: 214, 249
+  orig: 214, 249
+  offset: 0, 0
+  index: -1
+Leviathan/chest
+  rotate: true
+  xy: 274, 29
+  size: 202, 137
+  orig: 202, 137
+  offset: 0, 0
+  index: -1
+Leviathan/face
+  rotate: false
+  xy: 247, 233
+  size: 214, 232
+  orig: 214, 232
+  offset: 0, 0
+  index: -1
+Leviathan/hair_1
+  rotate: false
+  xy: 835, 527
+  size: 133, 138
+  orig: 133, 138
+  offset: 0, 0
+  index: -1
+Leviathan/hair_2
+  rotate: false
+  xy: 2, 16
+  size: 142, 523
+  orig: 142, 523
+  offset: 0, 0
+  index: -1
+Leviathan/hair_3
+  rotate: false
+  xy: 146, 188
+  size: 99, 351
+  orig: 99, 351
+  offset: 0, 0
+  index: -1
+Leviathan/hair_4
+  rotate: true
+  xy: 656, 111
+  size: 70, 238
+  orig: 70, 238
+  offset: 0, 0
+  index: -1
+Leviathan/hair_5
+  rotate: true
+  xy: 413, 37
+  size: 68, 270
+  orig: 68, 270
+  offset: 0, 0
+  index: -1
+Leviathan/hair_6
+  rotate: true
+  xy: 535, 889
+  size: 126, 377
+  orig: 126, 377
+  offset: 0, 0
+  index: -1
+Leviathan/hair_7
+  rotate: false
+  xy: 793, 667
+  size: 161, 220
+  orig: 161, 220
+  offset: 0, 0
+  index: -1
+Leviathan/hair_8
+  rotate: false
+  xy: 517, 378
+  size: 322, 132
+  orig: 322, 132
+  offset: 0, 0
+  index: -1
+Leviathan/hair_inner
+  rotate: false
+  xy: 684, 183
+  size: 204, 193
+  orig: 204, 193
+  offset: 0, 0
+  index: -1
+Leviathan/mouth_2_Hurt
+  rotate: true
+  xy: 247, 200
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Leviathan/mouth_2_Normal_A
+  rotate: true
+  xy: 857, 59
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+Leviathan/mouth_2_Normal_B
+  rotate: false
+  xy: 274, 2
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+Leviathan/mouth_2_Normal_C
+  rotate: false
+  xy: 463, 378
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+Leviathan/mouth_2_Normal_D
+  rotate: false
+  xy: 890, 224
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+Leviathan/neck
+  rotate: true
+  xy: 914, 943
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 685, 15
+  size: 170, 94
+  orig: 170, 94
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 914, 891
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+eyelid_1
+  rotate: true
+  xy: 413, 201
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+eyelid_2
+  rotate: false
+  xy: 951, 904
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 266, 683
+  size: 267, 332
+  orig: 267, 332
+  offset: 0, 0
+  index: -1
+jawbone
+  rotate: true
+  xy: 463, 197
+  size: 179, 219
+  orig: 179, 219
+  offset: 0, 0
+  index: -1
+neck_1
+  rotate: false
+  xy: 2, 541
+  size: 262, 474
+  orig: 262, 474
+  offset: 0, 0
+  index: -1
+neck_2
+  rotate: true
+  xy: 841, 378
+  size: 147, 54
+  orig: 147, 54
+  offset: 0, 0
+  index: -1
+neck_3
+  rotate: false
+  xy: 897, 381
+  size: 105, 144
+  orig: 105, 144
+  offset: 0, 0
+  index: -1
+neck_4
+  rotate: false
+  xy: 890, 255
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+neck_5
+  rotate: false
+  xy: 463, 408
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+toushi_inner
+  rotate: false
+  xy: 146, 2
+  size: 126, 184
+  orig: 126, 184
+  offset: 0, 0
+  index: -1
+toushi_out
+  rotate: true
+  xy: 535, 656
+  size: 231, 256
+  orig: 231, 256
+  offset: 0, 0
+  index: -1

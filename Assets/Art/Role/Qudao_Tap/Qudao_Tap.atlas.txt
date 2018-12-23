@@ -1,0 +1,167 @@
+
+Qudao_Tap.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 314, 107
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/body
+  rotate: true
+  xy: 310, 183
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/body1
+  rotate: true
+  xy: 197, 2
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/eyebrow
+  rotate: true
+  xy: 422, 108
+  size: 83, 20
+  orig: 83, 20
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/eyehard
+  rotate: false
+  xy: 152, 58
+  size: 77, 24
+  orig: 77, 24
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/eyesffuer
+  rotate: true
+  xy: 354, 100
+  size: 81, 32
+  orig: 81, 32
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/eyeyun
+  rotate: true
+  xy: 388, 110
+  size: 81, 32
+  orig: 81, 32
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/face
+  rotate: false
+  xy: 2, 85
+  size: 166, 162
+  orig: 166, 162
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/hair
+  rotate: true
+  xy: 170, 84
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/hair1
+  rotate: false
+  xy: 444, 144
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/handinner
+  rotate: false
+  xy: 459, 184
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/handout
+  rotate: false
+  xy: 265, 103
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/handout1
+  rotate: true
+  xy: 388, 193
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/leginnerdown
+  rotate: false
+  xy: 394, 72
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/leginnerup
+  rotate: true
+  xy: 314, 70
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/legoutdown
+  rotate: false
+  xy: 488, 104
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/legoutup
+  rotate: false
+  xy: 152, 9
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/mouth01
+  rotate: true
+  xy: 309, 82
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/toushi
+  rotate: false
+  xy: 170, 177
+  size: 138, 70
+  orig: 138, 70
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/toushi1
+  rotate: true
+  xy: 444, 103
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/toushi2
+  rotate: true
+  xy: 265, 77
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Tap/weapon
+  rotate: false
+  xy: 2, 7
+  size: 148, 76
+  orig: 148, 76
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 354, 72
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

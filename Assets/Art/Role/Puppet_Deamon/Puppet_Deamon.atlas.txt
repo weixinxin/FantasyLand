@@ -1,0 +1,251 @@
+
+Puppet_Deamon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 976, 436
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_1/armoutdown
+  rotate: true
+  xy: 587, 233
+  size: 137, 170
+  orig: 137, 170
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_1/armoutup
+  rotate: false
+  xy: 215, 80
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_1/body
+  rotate: false
+  xy: 401, 312
+  size: 184, 198
+  orig: 184, 198
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_1/face
+  rotate: true
+  xy: 796, 376
+  size: 134, 178
+  orig: 134, 178
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_1/leginnerup
+  rotate: false
+  xy: 276, 142
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_1/legoutup
+  rotate: false
+  xy: 942, 59
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_2/armoutdown
+  rotate: true
+  xy: 401, 173
+  size: 137, 170
+  orig: 137, 170
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_2/armoutup
+  rotate: true
+  xy: 846, 187
+  size: 94, 102
+  orig: 94, 102
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_2/body
+  rotate: false
+  xy: 2, 32
+  size: 211, 214
+  orig: 211, 214
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_2/eyehard
+  rotate: false
+  xy: 18, 16
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_2/eyesffuer
+  rotate: true
+  xy: 2, 2
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_2/eyeyun
+  rotate: true
+  xy: 573, 294
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_2/face
+  rotate: true
+  xy: 587, 372
+  size: 138, 207
+  orig: 138, 207
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_2/handout
+  rotate: false
+  xy: 311, 204
+  size: 83, 64
+  orig: 83, 64
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_2/leginnerup
+  rotate: true
+  xy: 745, 49
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_2/legoutdown
+  rotate: false
+  xy: 955, 201
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_2/legoutup
+  rotate: true
+  xy: 745, 114
+  size: 106, 91
+  orig: 106, 91
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/arminnerdown
+  rotate: false
+  xy: 759, 222
+  size: 85, 148
+  orig: 85, 148
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/arminnerup
+  rotate: false
+  xy: 955, 284
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/armoutdown
+  rotate: true
+  xy: 573, 71
+  size: 160, 170
+  orig: 160, 170
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/armoutup
+  rotate: true
+  xy: 838, 92
+  size: 93, 102
+  orig: 93, 102
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/body
+  rotate: false
+  xy: 2, 248
+  size: 221, 262
+  orig: 221, 262
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/eyehard
+  rotate: false
+  xy: 456, 152
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/eyesffuer
+  rotate: false
+  xy: 976, 412
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/eyeyun
+  rotate: false
+  xy: 919, 73
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/face
+  rotate: false
+  xy: 225, 270
+  size: 174, 240
+  orig: 174, 240
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/face1
+  rotate: false
+  xy: 942, 127
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/handinner
+  rotate: true
+  xy: 341, 131
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/handout
+  rotate: false
+  xy: 225, 204
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/leginnerdown
+  rotate: false
+  xy: 215, 129
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/leginnerup
+  rotate: true
+  xy: 832, 27
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/legoutdown
+  rotate: true
+  xy: 215, 2
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/legoutup
+  rotate: false
+  xy: 846, 283
+  size: 107, 91
+  orig: 107, 91
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Deamon/Puppet_Deamon_3/legoutup1
+  rotate: false
+  xy: 395, 134
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1

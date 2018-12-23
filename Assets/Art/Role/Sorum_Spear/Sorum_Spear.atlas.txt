@@ -1,0 +1,181 @@
+
+Sorum_Spear.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bargas/Bargas_Spear/Bargas_Sergeant_1/arminnerdown
+  rotate: false
+  xy: 257, 11
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/arminnerup
+  rotate: true
+  xy: 124, 3
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/armoutdown
+  rotate: false
+  xy: 254, 54
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/armoutup
+  rotate: false
+  xy: 288, 58
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/handinner
+  rotate: false
+  xy: 406, 98
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/handout
+  rotate: false
+  xy: 370, 92
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/leginnerdown
+  rotate: false
+  xy: 292, 15
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/leginnerup
+  rotate: true
+  xy: 193, 4
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/legoutdown
+  rotate: false
+  xy: 334, 66
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/legoutup
+  rotate: true
+  xy: 188, 50
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/weapon
+  rotate: false
+  xy: 2, 171
+  size: 377, 83
+  orig: 377, 83
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/dd
+  rotate: false
+  xy: 88, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 370, 129
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/body
+  rotate: true
+  xy: 381, 179
+  size: 75, 107
+  orig: 75, 107
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/eyebrow
+  rotate: false
+  xy: 2, 7
+  size: 84, 18
+  orig: 84, 18
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/eyehard
+  rotate: false
+  xy: 198, 103
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/eyehard1
+  rotate: false
+  xy: 381, 156
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/eyehard2
+  rotate: true
+  xy: 490, 178
+  size: 76, 17
+  orig: 76, 17
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/eyehard3
+  rotate: false
+  xy: 284, 112
+  size: 76, 16
+  orig: 76, 16
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/eyesffuer
+  rotate: false
+  xy: 198, 126
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/eyeyun
+  rotate: false
+  xy: 284, 130
+  size: 84, 39
+  orig: 84, 39
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/face
+  rotate: false
+  xy: 2, 27
+  size: 120, 142
+  orig: 120, 142
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/jianjiainner
+  rotate: false
+  xy: 124, 44
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/jianjiaout
+  rotate: false
+  xy: 124, 105
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+Sorum/Sorum_Spear/mouth01
+  rotate: false
+  xy: 88, 8
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1

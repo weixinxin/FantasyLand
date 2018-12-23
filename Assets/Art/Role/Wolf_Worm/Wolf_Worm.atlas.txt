@@ -1,0 +1,237 @@
+
+Wolf_Worm.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC_Bust/Wolf/Wolf_body
+  rotate: true
+  xy: 385, 607
+  size: 145, 235
+  orig: 145, 235
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wolf/Wolf_ear_inner
+  rotate: false
+  xy: 348, 293
+  size: 74, 114
+  orig: 74, 114
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wolf/Wolf_ear_out
+  rotate: false
+  xy: 348, 409
+  size: 103, 125
+  orig: 103, 125
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wolf/Wolf_eye
+  rotate: true
+  xy: 551, 437
+  size: 95, 28
+  orig: 95, 28
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wolf/Wolf_eyelid_1
+  rotate: true
+  xy: 424, 309
+  size: 98, 27
+  orig: 98, 27
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wolf/Wolf_eyelid_2
+  rotate: true
+  xy: 522, 436
+  size: 98, 27
+  orig: 98, 27
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wolf/Wolf_head
+  rotate: false
+  xy: 385, 754
+  size: 335, 268
+  orig: 335, 268
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wolf/Wolf_leg_in
+  rotate: false
+  xy: 453, 413
+  size: 67, 121
+  orig: 67, 121
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wolf/Wolf_leg_out
+  rotate: false
+  xy: 218, 76
+  size: 91, 209
+  orig: 91, 209
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wolf/Wolf_neck
+  rotate: false
+  xy: 2, 72
+  size: 214, 213
+  orig: 214, 213
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wolf/point
+  rotate: false
+  xy: 218, 72
+  size: 5, 2
+  orig: 5, 2
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wolf/yan
+  rotate: true
+  xy: 622, 598
+  size: 154, 114
+  orig: 154, 114
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/blood
+  rotate: true
+  xy: 453, 328
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/body
+  rotate: false
+  xy: 2, 287
+  size: 344, 268
+  orig: 344, 268
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/eye_1_Hurt_1
+  rotate: true
+  xy: 348, 541
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/eye_1_Hurt_2
+  rotate: false
+  xy: 687, 549
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/head
+  rotate: false
+  xy: 2, 557
+  size: 381, 465
+  orig: 381, 465
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/kouqi_1
+  rotate: false
+  xy: 934, 606
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/kouqi_2
+  rotate: false
+  xy: 225, 24
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_inner_1_1
+  rotate: false
+  xy: 2, 2
+  size: 115, 68
+  orig: 115, 68
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_inner_1_2
+  rotate: false
+  xy: 722, 773
+  size: 175, 122
+  orig: 175, 122
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_inner_1_3
+  rotate: false
+  xy: 722, 897
+  size: 185, 125
+  orig: 185, 125
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_inner_2_1
+  rotate: true
+  xy: 934, 673
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_inner_2_2
+  rotate: false
+  xy: 738, 617
+  size: 111, 154
+  orig: 111, 154
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_inner_3_1
+  rotate: true
+  xy: 311, 183
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_inner_3_2
+  rotate: false
+  xy: 311, 85
+  size: 83, 96
+  orig: 83, 96
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_out_1_1
+  rotate: false
+  xy: 909, 875
+  size: 106, 147
+  orig: 106, 147
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_out_1_2
+  rotate: true
+  xy: 556, 534
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_out_1_3
+  rotate: false
+  xy: 851, 617
+  size: 81, 154
+  orig: 81, 154
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_out_2_1
+  rotate: true
+  xy: 385, 536
+  size: 69, 169
+  orig: 69, 169
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_out_2_2
+  rotate: false
+  xy: 608, 556
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_out_3_1
+  rotate: true
+  xy: 899, 787
+  size: 86, 117
+  orig: 86, 117
+  offset: 0, 0
+  index: -1
+NPC_Bust/Worm/leg_out_3_2
+  rotate: false
+  xy: 119, 25
+  size: 104, 45
+  orig: 104, 45
+  offset: 0, 0
+  index: -1

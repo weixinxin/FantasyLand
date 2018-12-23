@@ -1,0 +1,104 @@
+
+Garius.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 993, 676
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 779, 515
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 629, 297
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 779, 547
+  size: 212, 223
+  orig: 212, 223
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 779, 772
+  size: 233, 250
+  orig: 233, 250
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: true
+  xy: 2, 66
+  size: 303, 625
+  orig: 303, 625
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 2, 371
+  size: 775, 651
+  orig: 775, 651
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: true
+  xy: 99, 2
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: true
+  xy: 993, 708
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 35, 2
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: true
+  xy: 2, 2
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+mouth_Normal
+  rotate: true
+  xy: 67, 2
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+mouth_Weak
+  rotate: false
+  xy: 128, 32
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 1014, 1008
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

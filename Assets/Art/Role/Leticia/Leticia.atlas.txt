@@ -1,0 +1,90 @@
+
+Leticia.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 604, 84
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 817, 155
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 848, 231
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 463, 46
+  size: 139, 208
+  orig: 139, 208
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 604, 149
+  size: 105, 211
+  orig: 105, 211
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: true
+  xy: 2, 39
+  size: 215, 459
+  orig: 215, 459
+  offset: 0, 0
+  index: -1
+eye_Normal
+  rotate: false
+  xy: 2, 2
+  size: 108, 35
+  orig: 108, 35
+  offset: 0, 0
+  index: -1
+eye_Weak
+  rotate: false
+  xy: 604, 111
+  size: 108, 36
+  orig: 108, 36
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 817, 178
+  size: 29, 76
+  orig: 29, 76
+  offset: 0, 0
+  index: -1
+mouth_Normal
+  rotate: false
+  xy: 714, 131
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+mouth_Weak
+  rotate: true
+  xy: 112, 2
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 463, 39
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

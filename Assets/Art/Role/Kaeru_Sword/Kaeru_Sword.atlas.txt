@@ -1,0 +1,265 @@
+
+Kaeru_Sword.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: false
+  xy: 2, 195
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/arminnerdown
+  rotate: false
+  xy: 463, 74
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/arminnerup
+  rotate: true
+  xy: 212, 5
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/armoutdown
+  rotate: true
+  xy: 123, 11
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/armoutup
+  rotate: true
+  xy: 221, 155
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/body
+  rotate: false
+  xy: 121, 32
+  size: 57, 79
+  orig: 57, 79
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/hand_inner
+  rotate: true
+  xy: 72, 2
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/hand_out
+  rotate: false
+  xy: 162, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/handinner1
+  rotate: true
+  xy: 99, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/jianjiainner
+  rotate: true
+  xy: 221, 106
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/jianjiainner1
+  rotate: false
+  xy: 268, 51
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/jianjiainnerinner1
+  rotate: true
+  xy: 415, 135
+  size: 42, 74
+  orig: 42, 74
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/jianjiaout
+  rotate: false
+  xy: 212, 42
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/jianjiaout1
+  rotate: false
+  xy: 412, 57
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/jianjiaoutinner
+  rotate: false
+  xy: 268, 14
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/leginnerdown
+  rotate: true
+  xy: 344, 7
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/leginnerup
+  rotate: false
+  xy: 382, 7
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/legoutdown
+  rotate: true
+  xy: 303, 7
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/legoutup
+  rotate: false
+  xy: 376, 71
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/pifeng
+  rotate: false
+  xy: 2, 27
+  size: 117, 84
+  orig: 117, 84
+  offset: 0, 0
+  index: -1
+Kaeru/Kaeru_Sword/Kaeru_Fighter_1/weapon
+  rotate: false
+  xy: 2, 113
+  size: 217, 80
+  orig: 217, 80
+  offset: 0, 0
+  index: -1
+Kaeru/dd
+  rotate: false
+  xy: 212, 107
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Kaeru/eyebrow
+  rotate: false
+  xy: 2, 11
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+Kaeru/eyehard
+  rotate: true
+  xy: 491, 113
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Kaeru/eyehard1
+  rotate: true
+  xy: 491, 47
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Kaeru/eyehard2
+  rotate: false
+  xy: 303, 38
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+Kaeru/eyehard3
+  rotate: false
+  xy: 2, 2
+  size: 61, 7
+  orig: 61, 7
+  offset: 0, 0
+  index: -1
+Kaeru/eyesffuer
+  rotate: false
+  xy: 303, 89
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+Kaeru/eyeyun
+  rotate: false
+  xy: 303, 56
+  size: 71, 31
+  orig: 71, 31
+  offset: 0, 0
+  index: -1
+Kaeru/face
+  rotate: true
+  xy: 268, 123
+  size: 131, 145
+  orig: 131, 145
+  offset: 0, 0
+  index: -1
+Kaeru/hair1
+  rotate: false
+  xy: 180, 28
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+Kaeru/hair2
+  rotate: false
+  xy: 415, 179
+  size: 93, 75
+  orig: 93, 75
+  offset: 0, 0
+  index: -1
+Kaeru/mouth01
+  rotate: false
+  xy: 424, 28
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Kaeru/mouth02
+  rotate: false
+  xy: 463, 54
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+Kaeru/mouth03
+  rotate: false
+  xy: 376, 53
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Kaeru/mouth04
+  rotate: false
+  xy: 424, 42
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 415, 108
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

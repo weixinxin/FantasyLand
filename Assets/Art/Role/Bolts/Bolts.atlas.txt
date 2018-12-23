@@ -1,0 +1,160 @@
+
+Bolts.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC_Bust/Bolts/arm_out_up
+  rotate: true
+  xy: 402, 562
+  size: 204, 319
+  orig: 204, 319
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/bahen_1
+  rotate: false
+  xy: 723, 684
+  size: 16, 82
+  orig: 16, 82
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/bahen_2
+  rotate: false
+  xy: 379, 591
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/blood_1
+  rotate: true
+  xy: 498, 411
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/blood_2
+  rotate: false
+  xy: 344, 583
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/body_up
+  rotate: false
+  xy: 2, 681
+  size: 398, 336
+  orig: 398, 336
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/eye_1_Hurt
+  rotate: false
+  xy: 244, 55
+  size: 128, 55
+  orig: 128, 55
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/eye_1_Normal_1
+  rotate: false
+  xy: 344, 354
+  size: 129, 58
+  orig: 129, 58
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/eye_1_Normal_2
+  rotate: false
+  xy: 498, 502
+  size: 129, 58
+  orig: 129, 58
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/eye_1_Normal_3
+  rotate: false
+  xy: 498, 442
+  size: 129, 58
+  orig: 129, 58
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/face
+  rotate: true
+  xy: 748, 833
+  size: 184, 274
+  orig: 184, 274
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/jianjia_inner_1
+  rotate: false
+  xy: 2, 333
+  size: 340, 346
+  orig: 340, 346
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/jianjia_inner_2
+  rotate: true
+  xy: 402, 768
+  size: 249, 344
+  orig: 249, 344
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/mouth_1_Hurt
+  rotate: false
+  xy: 316, 13
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/mouth_1_Normal_A
+  rotate: false
+  xy: 244, 12
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/mouth_1_Normal_B
+  rotate: false
+  xy: 629, 517
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/mouth_1_Normal_C
+  rotate: true
+  xy: 344, 609
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/mouth_1_Normal_D
+  rotate: false
+  xy: 629, 476
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/neck
+  rotate: false
+  xy: 344, 414
+  size: 152, 146
+  orig: 152, 146
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/weapon
+  rotate: true
+  xy: 748, 587
+  size: 244, 269
+  orig: 244, 269
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/weijin_1
+  rotate: false
+  xy: 2, 112
+  size: 369, 219
+  orig: 369, 219
+  offset: 0, 0
+  index: -1
+NPC_Bust/Bolts/weijin_2
+  rotate: false
+  xy: 2, 2
+  size: 240, 108
+  orig: 240, 108
+  offset: 0, 0
+  index: -1

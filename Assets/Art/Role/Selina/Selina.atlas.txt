@@ -1,0 +1,111 @@
+
+Selina.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 473, 443
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 333, 141
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 144, 20
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 333, 283
+  size: 103, 223
+  orig: 103, 223
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 41
+  size: 329, 465
+  orig: 329, 465
+  offset: 0, 0
+  index: -1
+eye_Firm
+  rotate: true
+  xy: 438, 396
+  size: 110, 33
+  orig: 110, 33
+  offset: 0, 0
+  index: -1
+eye_Normal
+  rotate: true
+  xy: 333, 169
+  size: 112, 33
+  orig: 112, 33
+  offset: 0, 0
+  index: -1
+eye_Weak
+  rotate: false
+  xy: 2, 2
+  size: 113, 37
+  orig: 113, 37
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 333, 123
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 438, 374
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 117, 8
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+mouth_Firm
+  rotate: false
+  xy: 473, 488
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+mouth_Normal
+  rotate: false
+  xy: 473, 469
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+mouth_Weak
+  rotate: false
+  xy: 368, 262
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 368, 253
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1

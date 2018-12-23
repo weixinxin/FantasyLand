@@ -1,0 +1,9 @@
+<Skill>
+	<SequenceAction>
+		<SelectTargetAction filter = "kNearestEnemy" range = "kCirclefield" radius = "4.0" />
+		<AoeFieldAction duration = "0" interval = "0.1" >
+			<CircleRegion radius = "3.0"/>
+			<BuffEmitter filter = "kEnemy" buffs = "400001"/>
+		</AoeFieldAction>
+	</SequenceAction>
+</Skill>

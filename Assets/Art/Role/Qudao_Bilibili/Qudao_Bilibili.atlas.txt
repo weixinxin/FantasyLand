@@ -1,0 +1,146 @@
+
+Qudao_Bilibili.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 178, 76
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/body
+  rotate: true
+  xy: 149, 152
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/body1
+  rotate: true
+  xy: 231, 153
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/eyebrow
+  rotate: false
+  xy: 2, 12
+  size: 55, 8
+  orig: 55, 8
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/eyehard
+  rotate: true
+  xy: 218, 72
+  size: 78, 22
+  orig: 78, 22
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/eyesffuer
+  rotate: false
+  xy: 149, 212
+  size: 116, 42
+  orig: 116, 42
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/eyeyun
+  rotate: false
+  xy: 433, 210
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/handinner
+  rotate: true
+  xy: 121, 2
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/handout
+  rotate: true
+  xy: 352, 206
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/handout1
+  rotate: false
+  xy: 121, 58
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/hatout
+  rotate: false
+  xy: 2, 138
+  size: 145, 116
+  orig: 145, 116
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/leginnerdown
+  rotate: false
+  xy: 259, 171
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/leginnerup
+  rotate: false
+  xy: 282, 173
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/legoutdown
+  rotate: false
+  xy: 242, 107
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/legoutup
+  rotate: false
+  xy: 242, 61
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/mouth01
+  rotate: false
+  xy: 310, 190
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/mouth02
+  rotate: false
+  xy: 59, 3
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/toushi
+  rotate: false
+  xy: 267, 213
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/toushi1
+  rotate: false
+  xy: 2, 22
+  size: 106, 9
+  orig: 106, 9
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Bilibili02/weapon
+  rotate: false
+  xy: 2, 33
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,468 @@
+
+Soldier_Enemy_Archergeneral.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 282, 172
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/arminnerdown
+  rotate: false
+  xy: 490, 281
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/arminnerup
+  rotate: false
+  xy: 416, 130
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/armoutdown
+  rotate: true
+  xy: 415, 191
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/armoutup
+  rotate: false
+  xy: 404, 85
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/body
+  rotate: false
+  xy: 357, 220
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/hair
+  rotate: true
+  xy: 246, 164
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/handinner
+  rotate: true
+  xy: 406, 346
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/handout
+  rotate: false
+  xy: 459, 216
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/hatout
+  rotate: false
+  xy: 2, 191
+  size: 139, 144
+  orig: 139, 144
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/jianjiaout
+  rotate: false
+  xy: 246, 119
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/leginnerdown
+  rotate: true
+  xy: 419, 295
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/leginnerup
+  rotate: true
+  xy: 245, 73
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/legoutdown
+  rotate: false
+  xy: 436, 4
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/legoutup
+  rotate: false
+  xy: 435, 231
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/pifeng1
+  rotate: false
+  xy: 282, 283
+  size: 122, 88
+  orig: 122, 88
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/pifenginner
+  rotate: true
+  xy: 2, 2
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/pifengout
+  rotate: false
+  xy: 477, 396
+  size: 28, 74
+  orig: 28, 74
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/weapon
+  rotate: false
+  xy: 2, 425
+  size: 278, 85
+  orig: 278, 85
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/weapon1
+  rotate: true
+  xy: 427, 321
+  size: 189, 25
+  orig: 189, 25
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/yaodai
+  rotate: true
+  xy: 477, 339
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/yaodai2
+  rotate: true
+  xy: 406, 304
+  size: 40, 11
+  orig: 40, 11
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/yaojiaout
+  rotate: false
+  xy: 391, 40
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/yibaiinner
+  rotate: true
+  xy: 358, 171
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/yibaiinnerinner
+  rotate: true
+  xy: 105, 4
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+Soldier_ArcherHigh/yibaiout
+  rotate: false
+  xy: 203, 18
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+Soldier_Archergeneral/arminnerdown
+  rotate: false
+  xy: 446, 191
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Soldier_Archergeneral/armoutdown
+  rotate: false
+  xy: 458, 295
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Soldier_Archergeneral/body
+  rotate: false
+  xy: 142, 128
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+Soldier_Archergeneral/hatout
+  rotate: false
+  xy: 143, 192
+  size: 137, 143
+  orig: 137, 143
+  offset: 0, 0
+  index: -1
+Soldier_Archergeneral/jianjiaout
+  rotate: false
+  xy: 352, 40
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Soldier_Archergeneral/yibaiinner
+  rotate: false
+  xy: 255, 18
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Soldier_Archergeneral/yibaiout
+  rotate: false
+  xy: 283, 121
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_ArcherHigh/arminnerdown
+  rotate: false
+  xy: 459, 241
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_ArcherHigh/armoutdown
+  rotate: true
+  xy: 416, 159
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_ArcherHigh/body
+  rotate: false
+  xy: 193, 129
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_ArcherHigh/hatout
+  rotate: false
+  xy: 2, 45
+  size: 138, 144
+  orig: 138, 144
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_ArcherHigh/jianjiaout
+  rotate: false
+  xy: 379, 125
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_ArcherHigh/yibaiinner
+  rotate: false
+  xy: 154, 8
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_ArcherHigh/yibaiout
+  rotate: false
+  xy: 193, 73
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/arminnerdown
+  rotate: false
+  xy: 447, 140
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/arminnerup
+  rotate: true
+  xy: 490, 309
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/armoutdown
+  rotate: false
+  xy: 410, 262
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/armoutup
+  rotate: false
+  xy: 477, 472
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/body
+  rotate: false
+  xy: 142, 65
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/handinner
+  rotate: true
+  xy: 447, 165
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/handout
+  rotate: false
+  xy: 468, 191
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/hatout
+  rotate: true
+  xy: 282, 373
+  size: 137, 143
+  orig: 137, 143
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/jianjiaout
+  rotate: false
+  xy: 421, 40
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/leginnerdown
+  rotate: false
+  xy: 410, 223
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/leginnerup
+  rotate: false
+  xy: 65, 2
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/legoutdown
+  rotate: true
+  xy: 442, 267
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/legoutup
+  rotate: false
+  xy: 338, 125
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/weapon
+  rotate: false
+  xy: 2, 337
+  size: 275, 86
+  orig: 275, 86
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/weapon1
+  rotate: true
+  xy: 454, 328
+  size: 182, 21
+  orig: 182, 21
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/yibaiinner
+  rotate: true
+  xy: 294, 73
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/yibaiinnerinner
+  rotate: false
+  xy: 303, 18
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Archergeneral/yibaiout
+  rotate: false
+  xy: 349, 74
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 154, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+eyehard
+  rotate: true
+  xy: 412, 2
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: true
+  xy: 383, 2
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: true
+  xy: 352, 2
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 282, 212
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 503, 377
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+mouth03
+  rotate: false
+  xy: 404, 74
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+mouth04
+  rotate: true
+  xy: 419, 325
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1

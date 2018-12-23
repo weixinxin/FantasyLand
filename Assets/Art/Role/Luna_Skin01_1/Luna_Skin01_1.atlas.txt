@@ -1,0 +1,363 @@
+
+Luna_Skin01_1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Grenier/Grenier_qb/Grenier_3/horse_backlegup
+  rotate: false
+  xy: 149, 51
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_body
+  rotate: false
+  xy: 261, 417
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_frontlegup
+  rotate: true
+  xy: 346, 154
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_mana
+  rotate: false
+  xy: 251, 281
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_tunjia1
+  rotate: false
+  xy: 583, 389
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_weiba
+  rotate: true
+  xy: 204, 167
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/weapon1
+  rotate: false
+  xy: 261, 399
+  size: 176, 16
+  orig: 176, 16
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/eyebrow
+  rotate: false
+  xy: 98, 2
+  size: 56, 8
+  orig: 56, 8
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/eyehard
+  rotate: false
+  xy: 267, 156
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/eyehard1
+  rotate: true
+  xy: 304, 89
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/eyehard2
+  rotate: false
+  xy: 216, 45
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/eyehard3
+  rotate: false
+  xy: 419, 417
+  size: 65, 12
+  orig: 65, 12
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/eyesffuer
+  rotate: false
+  xy: 213, 17
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/eyeyun
+  rotate: false
+  xy: 481, 335
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/face
+  rotate: false
+  xy: 141, 374
+  size: 118, 136
+  orig: 118, 136
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/hair
+  rotate: false
+  xy: 721, 414
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/hair1
+  rotate: true
+  xy: 583, 416
+  size: 94, 136
+  orig: 94, 136
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/hair2
+  rotate: false
+  xy: 141, 281
+  size: 108, 91
+  orig: 108, 91
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/hairinner
+  rotate: false
+  xy: 2, 285
+  size: 137, 225
+  orig: 137, 225
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/hairinner1
+  rotate: false
+  xy: 959, 392
+  size: 63, 118
+  orig: 63, 118
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/mouth01
+  rotate: true
+  xy: 407, 208
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/mouth02
+  rotate: true
+  xy: 334, 163
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/mouth04
+  rotate: false
+  xy: 126, 134
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/arminnerup
+  rotate: true
+  xy: 648, 389
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/armoutup
+  rotate: false
+  xy: 527, 363
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/body
+  rotate: false
+  xy: 343, 284
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/handinner
+  rotate: false
+  xy: 440, 329
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/handout
+  rotate: false
+  xy: 398, 288
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/handout1
+  rotate: true
+  xy: 278, 64
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/horse_backlegdown
+  rotate: true
+  xy: 149, 15
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/horse_frontlegdown
+  rotate: false
+  xy: 407, 223
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/horse_head
+  rotate: false
+  xy: 2, 123
+  size: 122, 160
+  orig: 122, 160
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/horse_neck
+  rotate: false
+  xy: 126, 167
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/horse_neck1
+  rotate: false
+  xy: 278, 89
+  size: 24, 65
+  orig: 24, 65
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/horse_shipin
+  rotate: true
+  xy: 261, 372
+  size: 25, 129
+  orig: 25, 129
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/horse_shipin1
+  rotate: false
+  xy: 398, 329
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/horse_shipin2
+  rotate: true
+  xy: 98, 12
+  size: 109, 49
+  orig: 109, 49
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/horse_shipin3
+  rotate: true
+  xy: 126, 139
+  size: 26, 130
+  orig: 26, 130
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/horse_tuijia
+  rotate: false
+  xy: 267, 178
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/horse_xiongjia
+  rotate: true
+  xy: 839, 420
+  size: 90, 118
+  orig: 90, 118
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/jianjiainner
+  rotate: false
+  xy: 618, 389
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/jianjiaout
+  rotate: false
+  xy: 477, 363
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/legoutdown
+  rotate: false
+  xy: 562, 392
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/legoutup
+  rotate: false
+  xy: 445, 292
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/pifeng
+  rotate: true
+  xy: 2, 2
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/shipin
+  rotate: false
+  xy: 216, 64
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/toushi
+  rotate: false
+  xy: 346, 208
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/weapon
+  rotate: false
+  xy: 419, 431
+  size: 162, 79
+  orig: 162, 79
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/weapon1
+  rotate: false
+  xy: 839, 405
+  size: 112, 13
+  orig: 112, 13
+  offset: 0, 0
+  index: -1
+Luna/Luna_Skin01_1/yaojiaout
+  rotate: false
+  xy: 440, 362
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 486, 404
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

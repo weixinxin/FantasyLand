@@ -1,0 +1,433 @@
+
+werewolf.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 271, 50
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/arminner1
+  rotate: true
+  xy: 361, 245
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/arminner1
+  rotate: true
+  xy: 361, 245
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/arminner2
+  rotate: true
+  xy: 355, 13
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/arminner2
+  rotate: true
+  xy: 355, 13
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/armout1
+  rotate: true
+  xy: 403, 146
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/armout1
+  rotate: true
+  xy: 403, 146
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/armout2
+  rotate: false
+  xy: 389, 194
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/armout2
+  rotate: false
+  xy: 389, 194
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/body
+  rotate: false
+  xy: 66, 86
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/body
+  rotate: false
+  xy: 66, 86
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/earinner
+  rotate: false
+  xy: 324, 8
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/earinner
+  rotate: false
+  xy: 324, 8
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/earout
+  rotate: false
+  xy: 401, 292
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/earout
+  rotate: false
+  xy: 401, 292
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/eyeffuer
+  rotate: false
+  xy: 454, 175
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/eyehard
+  rotate: false
+  xy: 2, 9
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/eyeyun
+  rotate: false
+  xy: 454, 150
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/hairinner
+  rotate: false
+  xy: 153, 253
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/hairinner1
+  rotate: false
+  xy: 2, 201
+  size: 149, 144
+  orig: 149, 144
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/hairinner1
+  rotate: false
+  xy: 2, 201
+  size: 149, 144
+  orig: 149, 144
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/handinner
+  rotate: true
+  xy: 271, 2
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/handinner
+  rotate: true
+  xy: 271, 2
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/handout
+  rotate: false
+  xy: 66, 15
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/handout
+  rotate: false
+  xy: 66, 15
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/headdown
+  rotate: false
+  xy: 268, 183
+  size: 84, 68
+  orig: 84, 68
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/headdown
+  rotate: false
+  xy: 268, 183
+  size: 84, 68
+  orig: 84, 68
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/headup
+  rotate: false
+  xy: 390, 353
+  size: 109, 73
+  orig: 109, 73
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/headup
+  rotate: false
+  xy: 390, 353
+  size: 109, 73
+  orig: 109, 73
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/leginnerdown
+  rotate: false
+  xy: 271, 126
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/leginnerdown
+  rotate: false
+  xy: 271, 126
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/leginnerup
+  rotate: false
+  xy: 214, 4
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/leginnerup
+  rotate: false
+  xy: 214, 4
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/legoutdown
+  rotate: false
+  xy: 146, 2
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/legoutdown1
+  rotate: false
+  xy: 311, 66
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/legoutdown1
+  rotate: false
+  xy: 311, 66
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/legoutup
+  rotate: false
+  xy: 401, 246
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/legoutup
+  rotate: false
+  xy: 401, 246
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf01/weiba
+  rotate: true
+  xy: 2, 22
+  size: 177, 62
+  orig: 177, 62
+  offset: 0, 0
+  index: -1
+Wereeolf/wereeolf02/weiba
+  rotate: true
+  xy: 2, 22
+  size: 177, 62
+  orig: 177, 62
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/arminner1
+  rotate: false
+  xy: 451, 206
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/arminner2
+  rotate: true
+  xy: 372, 141
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/armout1
+  rotate: true
+  xy: 423, 198
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/armout2
+  rotate: false
+  xy: 354, 194
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/body
+  rotate: true
+  xy: 153, 178
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/earinner
+  rotate: false
+  xy: 361, 274
+  size: 38, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/earout
+  rotate: false
+  xy: 221, 105
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/eyehard
+  rotate: true
+  xy: 494, 484
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/hairinner
+  rotate: false
+  xy: 257, 253
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/hairinner1
+  rotate: false
+  xy: 2, 347
+  size: 177, 163
+  orig: 177, 163
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/hairup
+  rotate: false
+  xy: 181, 422
+  size: 200, 88
+  orig: 200, 88
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/handinner
+  rotate: false
+  xy: 444, 300
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/handout
+  rotate: false
+  xy: 141, 107
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/headdown
+  rotate: true
+  xy: 146, 25
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/headup
+  rotate: false
+  xy: 383, 428
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/leginnerdown
+  rotate: true
+  xy: 214, 44
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/leginnerup
+  rotate: true
+  xy: 332, 126
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/legoutdown
+  rotate: true
+  xy: 431, 156
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/legoutdown1
+  rotate: false
+  xy: 347, 66
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/legoutup
+  rotate: false
+  xy: 439, 246
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf03/weiba
+  rotate: false
+  xy: 181, 347
+  size: 207, 73
+  orig: 207, 73
+  offset: 0, 0
+  index: -1

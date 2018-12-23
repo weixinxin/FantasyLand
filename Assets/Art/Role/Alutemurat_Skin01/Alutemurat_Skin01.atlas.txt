@@ -1,0 +1,398 @@
+
+Alutemurat_Skin01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_arm
+  rotate: false
+  xy: 676, 639
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_body
+  rotate: false
+  xy: 316, 520
+  size: 149, 113
+  orig: 149, 113
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_footout
+  rotate: false
+  xy: 765, 661
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_head
+  rotate: false
+  xy: 750, 857
+  size: 126, 165
+  orig: 126, 165
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_legoutdown
+  rotate: false
+  xy: 398, 238
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_legoutup
+  rotate: false
+  xy: 496, 545
+  size: 49, 83
+  orig: 49, 83
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_neck
+  rotate: true
+  xy: 667, 702
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_weiba1
+  rotate: false
+  xy: 596, 633
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_weiba2
+  rotate: true
+  xy: 547, 539
+  size: 89, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_weiba3
+  rotate: true
+  xy: 430, 406
+  size: 112, 33
+  orig: 112, 33
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_winginner
+  rotate: false
+  xy: 321, 710
+  size: 189, 312
+  orig: 189, 312
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_winginner2
+  rotate: true
+  xy: 2, 66
+  size: 189, 312
+  orig: 189, 312
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_wingout
+  rotate: false
+  xy: 2, 257
+  size: 312, 379
+  orig: 312, 379
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/Dragon_wingout2
+  rotate: false
+  xy: 2, 638
+  size: 317, 384
+  orig: 317, 384
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/dd
+  rotate: false
+  xy: 1018, 948
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/dd
+  rotate: false
+  xy: 1018, 948
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/eyebrow
+  rotate: true
+  xy: 1002, 887
+  size: 65, 14
+  orig: 65, 14
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/eyehard
+  rotate: true
+  xy: 379, 185
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/eyehard1
+  rotate: true
+  xy: 379, 123
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/eyehard2
+  rotate: false
+  xy: 676, 624
+  size: 60, 13
+  orig: 60, 13
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/eyehard3
+  rotate: true
+  xy: 590, 568
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/eyesffuer
+  rotate: true
+  xy: 818, 660
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/eyeyun
+  rotate: true
+  xy: 842, 747
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/face
+  rotate: false
+  xy: 316, 387
+  size: 112, 131
+  orig: 112, 131
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/hair1
+  rotate: true
+  xy: 321, 635
+  size: 73, 174
+  orig: 73, 174
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/hair2
+  rotate: false
+  xy: 398, 290
+  size: 41, 95
+  orig: 41, 95
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/hair3
+  rotate: true
+  xy: 750, 814
+  size: 41, 104
+  orig: 41, 104
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/hairinner
+  rotate: false
+  xy: 878, 879
+  size: 122, 143
+  orig: 122, 143
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/mouth01
+  rotate: false
+  xy: 856, 847
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonKnight_2/mouth02
+  rotate: true
+  xy: 754, 709
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonMaster_3/Dragon_datuishi
+  rotate: false
+  xy: 316, 66
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonMaster_3/Dragon_toushi
+  rotate: false
+  xy: 316, 247
+  size: 80, 138
+  orig: 80, 138
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonMaster_3/Dragon_weishi
+  rotate: true
+  xy: 316, 135
+  size: 110, 61
+  orig: 110, 61
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonMaster_3/Dragon_xiaotuishi
+  rotate: false
+  xy: 701, 594
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonMaster_3/Dragon_xiongshi
+  rotate: true
+  xy: 512, 698
+  size: 108, 153
+  orig: 108, 153
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonMaster_3/weiqi1
+  rotate: true
+  xy: 1002, 954
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonMaster_3/weiqi2
+  rotate: true
+  xy: 467, 542
+  size: 91, 27
+  orig: 91, 27
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_DragonKnight/Alutemurat_DragonMaster_3/weiqi3
+  rotate: false
+  xy: 268, 33
+  size: 89, 31
+  orig: 89, 31
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/arminnerdown
+  rotate: false
+  xy: 310, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/arminnerup
+  rotate: false
+  xy: 625, 594
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/armoutdown
+  rotate: true
+  xy: 268, 2
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/armoutup
+  rotate: false
+  xy: 397, 134
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/body
+  rotate: true
+  xy: 497, 630
+  size: 66, 97
+  orig: 66, 97
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/handinner
+  rotate: false
+  xy: 467, 517
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/handout
+  rotate: true
+  xy: 765, 637
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/legoutdown
+  rotate: true
+  xy: 954, 859
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/legoutup
+  rotate: false
+  xy: 676, 587
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/shipin
+  rotate: true
+  xy: 342, 2
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/shipin1
+  rotate: false
+  xy: 430, 388
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/toushi
+  rotate: false
+  xy: 397, 179
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01/weapon
+  rotate: false
+  xy: 512, 808
+  size: 236, 214
+  orig: 236, 214
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_toushiinner
+  rotate: false
+  xy: 660, 587
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/an
+  rotate: false
+  xy: 754, 727
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/xiongjiainner
+  rotate: false
+  xy: 607, 573
+  size: 16, 58
+  orig: 16, 58
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 878, 852
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: false
+  xy: 2, 5
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1

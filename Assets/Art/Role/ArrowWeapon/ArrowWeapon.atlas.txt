@@ -1,0 +1,111 @@
+
+ArrowWeapon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/Arrow
+  rotate: false
+  xy: 2, 2
+  size: 141, 18
+  orig: 141, 18
+  offset: 0, 0
+  index: -1
+Weapon/Arrow2
+  rotate: false
+  xy: 2, 59
+  size: 176, 16
+  orig: 176, 16
+  offset: 0, 0
+  index: -1
+Weapon/Arrow3
+  rotate: false
+  xy: 2, 173
+  size: 311, 36
+  orig: 311, 36
+  offset: 0, 0
+  index: -1
+Weapon/Arrow4
+  rotate: false
+  xy: 315, 188
+  size: 185, 21
+  orig: 185, 21
+  offset: 0, 0
+  index: -1
+Weapon/Arrow5
+  rotate: false
+  xy: 2, 118
+  size: 192, 53
+  orig: 192, 53
+  offset: 0, 0
+  index: -1
+Weapon/Arrow6
+  rotate: false
+  xy: 2, 43
+  size: 155, 14
+  orig: 155, 14
+  offset: 0, 0
+  index: -1
+Weapon/Arrow7
+  rotate: false
+  xy: 2, 22
+  size: 147, 19
+  orig: 147, 19
+  offset: 0, 0
+  index: -1
+Weapon/Arrow8
+  rotate: false
+  xy: 2, 77
+  size: 178, 22
+  orig: 178, 22
+  offset: 0, 0
+  index: -1
+Weapon/Arrow9
+  rotate: false
+  xy: 2, 101
+  size: 199, 15
+  orig: 199, 15
+  offset: 0, 0
+  index: -1
+Weapon/Bullet01
+  rotate: false
+  xy: 196, 120
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+Weapon/Bullet02
+  rotate: false
+  xy: 315, 135
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+Weapon/Bullet03
+  rotate: false
+  xy: 411, 135
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+Weapon/Bullet04
+  rotate: false
+  xy: 203, 67
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+Weapon/Bullet05
+  rotate: false
+  xy: 299, 82
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+Weapon/stone
+  rotate: false
+  xy: 395, 66
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1

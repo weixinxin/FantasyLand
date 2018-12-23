@@ -1,0 +1,90 @@
+
+Phoenix.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 540, 70
+  size: 84, 103
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 367, 175
+  size: 314, 210
+  orig: 314, 210
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 626, 137
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+eyeild_1
+  rotate: false
+  xy: 349, 30
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+eyeild_2
+  rotate: true
+  xy: 683, 344
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 725, 395
+  size: 151, 255
+  orig: 151, 255
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 2, 2
+  size: 311, 345
+  orig: 311, 345
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: true
+  xy: 349, 68
+  size: 105, 189
+  orig: 105, 189
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 1012, 988
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+wing_inner
+  rotate: false
+  xy: 367, 387
+  size: 356, 623
+  orig: 356, 623
+  offset: 0, 0
+  index: -1
+wing_out_1
+  rotate: false
+  xy: 2, 315
+  size: 363, 695
+  orig: 363, 695
+  offset: 0, 0
+  index: -1
+wing_out_2
+  rotate: false
+  xy: 725, 548
+  size: 285, 462
+  orig: 285, 462
+  offset: 0, 0
+  index: -1

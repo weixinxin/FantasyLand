@@ -1,0 +1,188 @@
+
+UndeadSorcerer.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 289, 60
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/Lshou_1_0
+  rotate: true
+  xy: 424, 53
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/Lshou_1_1
+  rotate: true
+  xy: 318, 21
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/Lshou_1_3
+  rotate: true
+  xy: 424, 82
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/Lshou_2_1
+  rotate: false
+  xy: 489, 104
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/Lshou_2_2
+  rotate: false
+  xy: 466, 43
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/Rshou_1
+  rotate: true
+  xy: 477, 219
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/Rshou_1_1
+  rotate: false
+  xy: 411, 23
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/Rshou_2
+  rotate: false
+  xy: 363, 23
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/Rshou_3
+  rotate: true
+  xy: 365, 51
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/body
+  rotate: false
+  xy: 362, 114
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/body_xia
+  rotate: false
+  xy: 2, 2
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/di
+  rotate: true
+  xy: 365, 71
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/di2
+  rotate: true
+  xy: 382, 205
+  size: 49, 93
+  orig: 49, 93
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/huo0000
+  rotate: false
+  xy: 150, 27
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/mao
+  rotate: false
+  xy: 2, 99
+  size: 149, 155
+  orig: 149, 155
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/maodi
+  rotate: false
+  xy: 444, 111
+  size: 40, 92
+  orig: 40, 92
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/tiaojin1
+  rotate: true
+  xy: 219, 28
+  size: 18, 97
+  orig: 18, 97
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/tiaojin12
+  rotate: true
+  xy: 117, 2
+  size: 22, 110
+  orig: 22, 110
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/tou
+  rotate: true
+  xy: 153, 94
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/tou2
+  rotate: false
+  xy: 219, 48
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/weijin
+  rotate: true
+  xy: 281, 100
+  size: 110, 79
+  orig: 110, 79
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/weijin2
+  rotate: false
+  xy: 486, 157
+  size: 24, 60
+  orig: 24, 60
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/wuqi
+  rotate: true
+  xy: 153, 212
+  size: 42, 227
+  orig: 42, 227
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/yan
+  rotate: true
+  xy: 117, 26
+  size: 71, 31
+  orig: 71, 31
+  offset: 0, 0
+  index: -1
+UndeadSorcerer/yaodai
+  rotate: false
+  xy: 229, 7
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+Auntie.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 473, 219
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 375, 20
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 46
+  size: 384, 462
+  orig: 384, 462
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 2, 2
+  size: 124, 42
+  orig: 124, 42
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 388, 80
+  size: 124, 42
+  orig: 124, 42
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 128, 2
+  size: 124, 42
+  orig: 124, 42
+  offset: 0, 0
+  index: -1
+eye_2_Hurt
+  rotate: false
+  xy: 254, 2
+  size: 119, 42
+  orig: 119, 42
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 388, 368
+  size: 117, 140
+  orig: 117, 140
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 388, 206
+  size: 83, 160
+  orig: 83, 160
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: true
+  xy: 432, 82
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: true
+  xy: 473, 244
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 432, 144
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: true
+  xy: 473, 306
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+mouth_2_Hurt
+  rotate: false
+  xy: 388, 51
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 473, 206
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+BozelOld.png
+size: 1083,1083
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 1052, 1043
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 1052, 1005
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 627, 629
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: false
+  xy: 458, 678
+  size: 129, 67
+  orig: 129, 67
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 458, 615
+  size: 129, 61
+  orig: 129, 61
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 576, 484
+  size: 129, 61
+  orig: 129, 61
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 816, 12
+  size: 129, 61
+  orig: 129, 61
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 833, 496
+  size: 172, 219
+  orig: 172, 219
+  offset: 0, 0
+  index: -1
+hair_inner_1
+  rotate: false
+  xy: 520, 463
+  size: 54, 150
+  orig: 54, 150
+  offset: 0, 0
+  index: -1
+hair_inner_2
+  rotate: false
+  xy: 458, 463
+  size: 60, 150
+  orig: 60, 150
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: false
+  xy: 612, 143
+  size: 228, 339
+  orig: 228, 339
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: true
+  xy: 596, 670
+  size: 411, 454
+  orig: 411, 454
+  offset: 0, 0
+  index: -1
+jianjia_inner_3
+  rotate: false
+  xy: 663, 485
+  size: 83, 183
+  orig: 83, 183
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: false
+  xy: 381, 119
+  size: 229, 339
+  orig: 229, 339
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: true
+  xy: 2, 460
+  size: 411, 454
+  orig: 411, 454
+  offset: 0, 0
+  index: -1
+jianjia_out_3
+  rotate: false
+  xy: 748, 485
+  size: 83, 183
+  orig: 83, 183
+  offset: 0, 0
+  index: -1
+lingzi_inner_1
+  rotate: false
+  xy: 979, 49
+  size: 94, 71
+  orig: 94, 71
+  offset: 0, 0
+  index: -1
+lingzi_inner_2
+  rotate: false
+  xy: 947, 122
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+lingzi_inner_3
+  rotate: false
+  xy: 455, 9
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+lingzi_inner_4
+  rotate: false
+  xy: 381, 6
+  size: 72, 111
+  orig: 72, 111
+  offset: 0, 0
+  index: -1
+lingzi_out_1
+  rotate: true
+  xy: 529, 10
+  size: 107, 285
+  orig: 107, 285
+  offset: 0, 0
+  index: -1
+lingzi_out_2
+  rotate: false
+  xy: 842, 209
+  size: 106, 285
+  orig: 106, 285
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt
+  rotate: true
+  xy: 879, 114
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: true
+  xy: 950, 196
+  size: 98, 101
+  orig: 98, 101
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: true
+  xy: 950, 296
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 950, 396
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: false
+  xy: 879, 13
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 458, 747
+  size: 130, 124
+  orig: 130, 124
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 589, 618
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 873
+  size: 592, 208
+  orig: 592, 208
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 1052, 940
+  size: 63, 23
+  orig: 63, 23
+  offset: 0, 0
+  index: -1
+xiongjia
+  rotate: true
+  xy: 2, 14
+  size: 444, 377
+  orig: 444, 377
+  offset: 0, 0
+  index: -1

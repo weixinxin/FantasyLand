@@ -1,0 +1,118 @@
+
+To-Karney.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC_Bust/To-Karney/arm_inner_up
+  rotate: false
+  xy: 753, 706
+  size: 257, 316
+  orig: 257, 316
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/arm_out_up
+  rotate: true
+  xy: 360, 2
+  size: 292, 314
+  orig: 292, 314
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/blood_1
+  rotate: false
+  xy: 951, 647
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/blood_2
+  rotate: false
+  xy: 474, 623
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/body
+  rotate: false
+  xy: 2, 620
+  size: 470, 402
+  orig: 470, 402
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/face
+  rotate: false
+  xy: 2, 9
+  size: 342, 247
+  orig: 342, 247
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/hair_1
+  rotate: true
+  xy: 753, 618
+  size: 86, 196
+  orig: 86, 196
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/hair_2
+  rotate: false
+  xy: 558, 338
+  size: 172, 118
+  orig: 172, 118
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/hair_3
+  rotate: true
+  xy: 858, 461
+  size: 155, 67
+  orig: 155, 67
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/hair_4
+  rotate: false
+  xy: 843, 355
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/hair_inner_1
+  rotate: true
+  xy: 732, 331
+  size: 147, 109
+  orig: 147, 109
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/hair_inner_2
+  rotate: false
+  xy: 360, 296
+  size: 196, 322
+  orig: 196, 322
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/jiandai
+  rotate: false
+  xy: 722, 480
+  size: 134, 136
+  orig: 134, 136
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/jianjia_inner
+  rotate: false
+  xy: 474, 656
+  size: 277, 366
+  orig: 277, 366
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/jianjia_out
+  rotate: false
+  xy: 2, 258
+  size: 356, 360
+  orig: 356, 360
+  offset: 0, 0
+  index: -1
+NPC_Bust/To-Karney/neck
+  rotate: false
+  xy: 558, 458
+  size: 162, 196
+  orig: 162, 196
+  offset: 0, 0
+  index: -1

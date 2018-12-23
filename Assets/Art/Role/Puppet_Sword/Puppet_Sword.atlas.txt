@@ -1,0 +1,475 @@
+
+Puppet_Sword.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 982, 346
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/Light
+  rotate: false
+  xy: 343, 47
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/arminnerdown
+  rotate: false
+  xy: 649, 353
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/armline1
+  rotate: true
+  xy: 331, 300
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/armline2
+  rotate: false
+  xy: 649, 424
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/armoutdown
+  rotate: true
+  xy: 854, 364
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/armoutup
+  rotate: true
+  xy: 385, 176
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/bashou1
+  rotate: false
+  xy: 186, 32
+  size: 83, 103
+  orig: 83, 103
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/bashou2
+  rotate: false
+  xy: 553, 350
+  size: 94, 105
+  orig: 94, 105
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/body1
+  rotate: false
+  xy: 271, 2
+  size: 82, 43
+  orig: 82, 43
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/body2
+  rotate: true
+  xy: 726, 345
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/handinner1
+  rotate: false
+  xy: 487, 190
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/handinner2
+  rotate: false
+  xy: 487, 147
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/handinner3
+  rotate: false
+  xy: 522, 200
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/handinner4
+  rotate: false
+  xy: 522, 159
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/handout1
+  rotate: false
+  xy: 398, 8
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/handout2
+  rotate: false
+  xy: 988, 467
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/handout3
+  rotate: false
+  xy: 426, 125
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/handout4
+  rotate: false
+  xy: 617, 227
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/head
+  rotate: true
+  xy: 378, 300
+  size: 155, 173
+  orig: 155, 173
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/leginnerdown
+  rotate: false
+  xy: 426, 91
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/leginnerup
+  rotate: true
+  xy: 553, 198
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/leginnerup2
+  rotate: false
+  xy: 186, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/leginnerup3
+  rotate: false
+  xy: 593, 173
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/legputdown
+  rotate: false
+  xy: 453, 105
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/legputup
+  rotate: true
+  xy: 553, 230
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/legputup2
+  rotate: true
+  xy: 394, 95
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/legputup3
+  rotate: true
+  xy: 522, 141
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_1/weapon
+  rotate: false
+  xy: 378, 457
+  size: 289, 53
+  orig: 289, 53
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/arm-inner-up
+  rotate: false
+  xy: 396, 236
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/arminnerdown
+  rotate: false
+  xy: 776, 364
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/armoutdown
+  rotate: false
+  xy: 912, 295
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/armoutup
+  rotate: false
+  xy: 913, 361
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/bashou1
+  rotate: true
+  xy: 882, 427
+  size: 83, 104
+  orig: 83, 104
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/bashou2
+  rotate: true
+  xy: 669, 416
+  size: 94, 105
+  orig: 94, 105
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/body1
+  rotate: false
+  xy: 776, 323
+  size: 85, 39
+  orig: 85, 39
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/body2
+  rotate: true
+  xy: 329, 159
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/handinner1
+  rotate: false
+  xy: 453, 146
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/handinner2
+  rotate: true
+  xy: 550, 163
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/handinner3
+  rotate: false
+  xy: 520, 250
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/handinner4
+  rotate: false
+  xy: 425, 51
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/handout1
+  rotate: false
+  xy: 391, 51
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/handout2
+  rotate: false
+  xy: 988, 422
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/handout3
+  rotate: true
+  xy: 216, 5
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/handout4
+  rotate: false
+  xy: 432, 10
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/head
+  rotate: false
+  xy: 172, 137
+  size: 155, 183
+  orig: 155, 183
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/leginnerdown
+  rotate: true
+  xy: 610, 200
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/leginnerup
+  rotate: false
+  xy: 863, 299
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/leginnerup2
+  rotate: true
+  xy: 355, 3
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/leginnerup3
+  rotate: false
+  xy: 617, 175
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/legputdown
+  rotate: true
+  xy: 331, 351
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/legputup
+  rotate: false
+  xy: 979, 275
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/legputup2
+  rotate: false
+  xy: 331, 326
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/legputup3
+  rotate: false
+  xy: 639, 325
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/lineout
+  rotate: false
+  xy: 441, 192
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_2/weapon
+  rotate: false
+  xy: 2, 322
+  size: 327, 59
+  orig: 327, 59
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_3/arminnerdown
+  rotate: false
+  xy: 110, 9
+  size: 74, 91
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_3/arminnerup
+  rotate: false
+  xy: 458, 236
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_3/armoutdown
+  rotate: true
+  xy: 553, 267
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_3/armoutup
+  rotate: false
+  xy: 329, 233
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_3/bashou1
+  rotate: true
+  xy: 776, 426
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_3/bashou2
+  rotate: true
+  xy: 2, 5
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_3/head
+  rotate: false
+  xy: 2, 102
+  size: 168, 218
+  orig: 168, 218
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_3/jianjiainner
+  rotate: false
+  xy: 394, 126
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_3/jianjiaout1
+  rotate: true
+  xy: 271, 47
+  size: 88, 70
+  orig: 88, 70
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_3/jianjiaout2
+  rotate: false
+  xy: 343, 95
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Sword/puppet_sword_3/weapon
+  rotate: false
+  xy: 2, 383
+  size: 374, 127
+  orig: 374, 127
+  offset: 0, 0
+  index: -1

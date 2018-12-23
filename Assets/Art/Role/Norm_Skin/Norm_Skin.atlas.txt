@@ -1,0 +1,307 @@
+
+Norm_Skin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mathew/Mathew_gj/mouth01
+  rotate: false
+  xy: 151, 2
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/mouth03
+  rotate: true
+  xy: 221, 132
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/mouth04
+  rotate: true
+  xy: 299, 176
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/arminnerdown
+  rotate: true
+  xy: 276, 51
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/arminnerup
+  rotate: true
+  xy: 221, 149
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/armoutdown
+  rotate: false
+  xy: 452, 163
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/armoutup
+  rotate: false
+  xy: 476, 243
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/body
+  rotate: false
+  xy: 165, 132
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/body1
+  rotate: true
+  xy: 221, 177
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/handinner
+  rotate: true
+  xy: 467, 394
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/handout
+  rotate: false
+  xy: 467, 367
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/hudang
+  rotate: false
+  xy: 276, 19
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/jianjiaout
+  rotate: true
+  xy: 272, 83
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/leginnerdown
+  rotate: true
+  xy: 247, 163
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/leginnerup
+  rotate: false
+  xy: 231, 79
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/legoutdown
+  rotate: false
+  xy: 214, 2
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/legoutup
+  rotate: true
+  xy: 247, 129
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/toiushi
+  rotate: true
+  xy: 151, 12
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/toushi1
+  rotate: true
+  xy: 461, 421
+  size: 89, 28
+  orig: 89, 28
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/toushi2
+  rotate: false
+  xy: 383, 276
+  size: 70, 135
+  orig: 70, 135
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/weapon
+  rotate: false
+  xy: 2, 292
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/weapon1
+  rotate: false
+  xy: 222, 383
+  size: 158, 127
+  orig: 158, 127
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/weapon2
+  rotate: false
+  xy: 2, 142
+  size: 161, 148
+  orig: 161, 148
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/wing
+  rotate: true
+  xy: 222, 277
+  size: 104, 159
+  orig: 104, 159
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/yaojiainner
+  rotate: true
+  xy: 231, 56
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/yaojiainner1
+  rotate: true
+  xy: 455, 276
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/yaojiaout
+  rotate: false
+  xy: 476, 210
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin/Norm_Skin01/yaojiaout1
+  rotate: false
+  xy: 455, 304
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Norm/eyebrow
+  rotate: true
+  xy: 455, 341
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+Norm/eyehard
+  rotate: true
+  xy: 491, 444
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+Norm/eyehard1
+  rotate: true
+  xy: 491, 376
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+Norm/eyehard2
+  rotate: false
+  xy: 247, 197
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+Norm/eyehard3
+  rotate: true
+  xy: 151, 49
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+Norm/eyesffuer
+  rotate: false
+  xy: 380, 163
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+Norm/eyeyun
+  rotate: true
+  xy: 449, 204
+  size: 70, 25
+  orig: 70, 25
+  offset: 0, 0
+  index: -1
+Norm/face
+  rotate: true
+  xy: 2, 11
+  size: 129, 147
+  orig: 129, 147
+  offset: 0, 0
+  index: -1
+Norm/hair1
+  rotate: false
+  xy: 382, 413
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+Norm/hair2
+  rotate: false
+  xy: 380, 193
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+Norm/hair3
+  rotate: true
+  xy: 210, 215
+  size: 60, 103
+  orig: 60, 103
+  offset: 0, 0
+  index: -1
+Norm/hair4
+  rotate: true
+  xy: 315, 179
+  size: 96, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+Norm/hair5
+  rotate: false
+  xy: 165, 199
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+Norm/hair7
+  rotate: false
+  xy: 247, 13
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 204, 56
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

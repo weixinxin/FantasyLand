@@ -1,0 +1,6 @@
+<Skill>
+	<SequenceAction>
+		<SelectTargetAction filter = "kSelf"/>
+		<AddBuffAction buff = "400005" />
+	</SequenceAction>
+</Skill>

@@ -1,0 +1,62 @@
+
+Ghost.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ghost/0
+  rotate: false
+  xy: 2, 668
+  size: 273, 311
+  orig: 273, 311
+  offset: 0, 0
+  index: -1
+Ghost/1
+  rotate: false
+  xy: 2, 355
+  size: 273, 311
+  orig: 273, 311
+  offset: 0, 0
+  index: -1
+Ghost/2
+  rotate: false
+  xy: 277, 668
+  size: 273, 311
+  orig: 273, 311
+  offset: 0, 0
+  index: -1
+Ghost/3
+  rotate: false
+  xy: 2, 42
+  size: 273, 311
+  orig: 273, 311
+  offset: 0, 0
+  index: -1
+Ghost/4
+  rotate: false
+  xy: 277, 355
+  size: 273, 311
+  orig: 273, 311
+  offset: 0, 0
+  index: -1
+Ghost/5
+  rotate: false
+  xy: 552, 668
+  size: 273, 311
+  orig: 273, 311
+  offset: 0, 0
+  index: -1
+Ghost/6
+  rotate: false
+  xy: 277, 42
+  size: 273, 311
+  orig: 273, 311
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

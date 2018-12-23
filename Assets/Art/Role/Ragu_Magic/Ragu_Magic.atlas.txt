@@ -1,0 +1,181 @@
+
+Ragu_Magic.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ragu/Ragu_Magic/Ragu_Magician_1/arminnerdown
+  rotate: false
+  xy: 438, 203
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Ragu/Ragu_Magic/Ragu_Magician_1/arminnerup
+  rotate: true
+  xy: 99, 55
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Ragu/Ragu_Magic/Ragu_Magician_1/armoutdown
+  rotate: true
+  xy: 277, 128
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+Ragu/Ragu_Magic/Ragu_Magician_1/armoutup
+  rotate: false
+  xy: 470, 210
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Ragu/Ragu_Magic/Ragu_Magician_1/body
+  rotate: false
+  xy: 2, 52
+  size: 95, 128
+  orig: 95, 128
+  offset: 0, 0
+  index: -1
+Ragu/Ragu_Magic/Ragu_Magician_1/weapon
+  rotate: false
+  xy: 2, 182
+  size: 161, 72
+  orig: 161, 72
+  offset: 0, 0
+  index: -1
+Ragu/Ragu_Magic/Ragu_Magician_1/weijin
+  rotate: false
+  xy: 282, 203
+  size: 91, 51
+  orig: 91, 51
+  offset: 0, 0
+  index: -1
+Ragu/dd
+  rotate: false
+  xy: 136, 88
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Ragu/eyehard
+  rotate: true
+  xy: 136, 119
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+Ragu/eyehard1
+  rotate: false
+  xy: 375, 201
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+Ragu/eyehard2
+  rotate: false
+  xy: 282, 151
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+Ragu/eyehard3
+  rotate: false
+  xy: 161, 129
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Ragu/eyesffuer
+  rotate: true
+  xy: 117, 5
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+Ragu/eyeyun
+  rotate: false
+  xy: 223, 131
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+Ragu/face
+  rotate: true
+  xy: 165, 154
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+Ragu/hair1
+  rotate: true
+  xy: 375, 226
+  size: 28, 93
+  orig: 28, 93
+  offset: 0, 0
+  index: -1
+Ragu/hair2
+  rotate: true
+  xy: 2, 2
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+Ragu/hair3
+  rotate: false
+  xy: 99, 88
+  size: 35, 92
+  orig: 35, 92
+  offset: 0, 0
+  index: -1
+Ragu/handinner
+  rotate: false
+  xy: 315, 130
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Ragu/handout
+  rotate: false
+  xy: 136, 94
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Ragu/mouth01
+  rotate: false
+  xy: 161, 119
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Ragu/mouth02
+  rotate: true
+  xy: 345, 156
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Ragu/mouth03
+  rotate: true
+  xy: 358, 180
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+Ragu/mouth04
+  rotate: false
+  xy: 158, 112
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 282, 176
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

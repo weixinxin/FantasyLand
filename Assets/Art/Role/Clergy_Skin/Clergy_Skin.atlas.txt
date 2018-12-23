@@ -1,0 +1,195 @@
+
+Clergy_Skin.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 364, 3
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin01/body
+  rotate: false
+  xy: 424, 170
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin01/handinner
+  rotate: false
+  xy: 399, 86
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin01/handout
+  rotate: true
+  xy: 321, 113
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin01/hatout
+  rotate: false
+  xy: 161, 115
+  size: 158, 139
+  orig: 158, 139
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin01/leginnerdown
+  rotate: true
+  xy: 391, 64
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin01/leginnerup
+  rotate: false
+  xy: 486, 141
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin01/legoutdown
+  rotate: false
+  xy: 484, 177
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin01/legoutup
+  rotate: true
+  xy: 446, 71
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin01/weapon
+  rotate: false
+  xy: 287, 43
+  size: 123, 19
+  orig: 123, 19
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin02/body
+  rotate: true
+  xy: 2, 8
+  size: 84, 117
+  orig: 84, 117
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin02/handinner
+  rotate: false
+  xy: 161, 2
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin02/handout
+  rotate: true
+  xy: 207, 25
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin02/hatout
+  rotate: false
+  xy: 2, 94
+  size: 157, 160
+  orig: 157, 160
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin02/leginnerdown
+  rotate: true
+  xy: 412, 43
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin02/leginnerup
+  rotate: false
+  xy: 486, 106
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin02/legoutdown
+  rotate: true
+  xy: 440, 8
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin02/legoutup
+  rotate: true
+  xy: 443, 35
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin02/mouth01
+  rotate: false
+  xy: 207, 2
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin02/mouth02
+  rotate: true
+  xy: 446, 108
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+clergy/Clergy_Skin/Clergy_Skin02/weapon
+  rotate: false
+  xy: 161, 75
+  size: 151, 38
+  orig: 151, 38
+  offset: 0, 0
+  index: -1
+clergy/eyehard
+  rotate: false
+  xy: 314, 64
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+clergy/eyesffuer
+  rotate: false
+  xy: 287, 6
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+clergy/eyeyun
+  rotate: true
+  xy: 121, 13
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+clergy/face
+  rotate: false
+  xy: 321, 161
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 424, 163
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 484, 216
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

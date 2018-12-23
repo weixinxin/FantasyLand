@@ -1,0 +1,384 @@
+
+Boser_Skin01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boser/Boser_Demon/texiao1
+  rotate: false
+  xy: 623, 249
+  size: 129, 39
+  orig: 129, 39
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao2
+  rotate: false
+  xy: 825, 215
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao3
+  rotate: true
+  xy: 286, 148
+  size: 125, 44
+  orig: 125, 44
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao4
+  rotate: true
+  xy: 969, 385
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao5
+  rotate: true
+  xy: 332, 150
+  size: 124, 49
+  orig: 124, 49
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao6
+  rotate: false
+  xy: 383, 221
+  size: 126, 47
+  orig: 126, 47
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/arminnerdown
+  rotate: false
+  xy: 343, 55
+  size: 45, 93
+  orig: 45, 93
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/arminnerdown1
+  rotate: false
+  xy: 263, 78
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/armoutdown
+  rotate: true
+  xy: 383, 156
+  size: 63, 98
+  orig: 63, 98
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/armoutdown1
+  rotate: false
+  xy: 538, 256
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/armoutup
+  rotate: false
+  xy: 567, 113
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/body
+  rotate: false
+  xy: 262, 11
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/body1
+  rotate: true
+  xy: 913, 159
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/face
+  rotate: false
+  xy: 555, 3
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/hair1
+  rotate: true
+  xy: 385, 3
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/hair2
+  rotate: true
+  xy: 621, 86
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/hair3
+  rotate: false
+  xy: 960, 129
+  size: 39, 83
+  orig: 39, 83
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/handinner
+  rotate: true
+  xy: 139, 4
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/handinner1
+  rotate: false
+  xy: 594, 84
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/handout
+  rotate: false
+  xy: 567, 84
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/handout1
+  rotate: true
+  xy: 589, 178
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/hudang
+  rotate: false
+  xy: 181, 79
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/hudang1
+  rotate: true
+  xy: 483, 154
+  size: 54, 104
+  orig: 54, 104
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/jianjiainner
+  rotate: false
+  xy: 634, 137
+  size: 77, 36
+  orig: 77, 36
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/jianjiaout
+  rotate: false
+  xy: 819, 128
+  size: 91, 39
+  orig: 91, 39
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/lingziinner
+  rotate: true
+  xy: 622, 221
+  size: 26, 135
+  orig: 26, 135
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/lingziout
+  rotate: true
+  xy: 2, 2
+  size: 46, 135
+  orig: 46, 135
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/maozi
+  rotate: false
+  xy: 825, 267
+  size: 140, 120
+  orig: 140, 120
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/maoziinner
+  rotate: false
+  xy: 182, 275
+  size: 122, 70
+  orig: 122, 70
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/mouth01
+  rotate: true
+  xy: 401, 325
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/pifeng
+  rotate: false
+  xy: 181, 166
+  size: 103, 107
+  orig: 103, 107
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/pifenginner
+  rotate: true
+  xy: 511, 210
+  size: 44, 109
+  orig: 44, 109
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/pifengout
+  rotate: true
+  xy: 472, 84
+  size: 68, 93
+  orig: 68, 93
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/shipin
+  rotate: false
+  xy: 329, 2
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/toushi
+  rotate: true
+  xy: 623, 318
+  size: 192, 200
+  orig: 192, 200
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/weapon
+  rotate: true
+  xy: 182, 347
+  size: 163, 236
+  orig: 163, 236
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/weapon1
+  rotate: true
+  xy: 967, 320
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin/weapon2
+  rotate: false
+  xy: 2, 50
+  size: 177, 229
+  orig: 177, 229
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/arminnerdown
+  rotate: true
+  xy: 819, 169
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/arminnerdown1
+  rotate: false
+  xy: 181, 9
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/armoutdown
+  rotate: false
+  xy: 761, 218
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/armoutdown1
+  rotate: false
+  xy: 733, 157
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/armoutup
+  rotate: true
+  xy: 912, 119
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/hudang
+  rotate: false
+  xy: 390, 70
+  size: 80, 84
+  orig: 80, 84
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/hudang1
+  rotate: false
+  xy: 967, 214
+  size: 54, 104
+  orig: 54, 104
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/lingziinner
+  rotate: true
+  xy: 623, 290
+  size: 26, 136
+  orig: 26, 136
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/lingziout
+  rotate: true
+  xy: 401, 270
+  size: 45, 135
+  orig: 45, 135
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/maozi
+  rotate: false
+  xy: 825, 389
+  size: 142, 121
+  orig: 142, 121
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/pifenginner
+  rotate: true
+  xy: 622, 175
+  size: 44, 109
+  orig: 44, 109
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/pifengout
+  rotate: true
+  xy: 306, 276
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/toushi
+  rotate: true
+  xy: 420, 317
+  size: 193, 201
+  orig: 193, 201
+  offset: 0, 0
+  index: -1
+Boser/Boser_Skin01_1/weapon2
+  rotate: false
+  xy: 2, 281
+  size: 178, 229
+  orig: 178, 229
+  offset: 0, 0
+  index: -1
+Boser/gx
+  rotate: false
+  xy: 472, 2
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 634, 110
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

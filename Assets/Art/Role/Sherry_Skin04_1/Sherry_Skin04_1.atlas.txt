@@ -1,0 +1,349 @@
+
+Sherry_Skin04_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 51, 149
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyebrow
+  rotate: true
+  xy: 181, 112
+  size: 68, 11
+  orig: 68, 11
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyehard
+  rotate: true
+  xy: 68, 7
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyehard1
+  rotate: false
+  xy: 411, 375
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyehard2
+  rotate: false
+  xy: 294, 386
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyehard3
+  rotate: false
+  xy: 198, 215
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyesffuer
+  rotate: true
+  xy: 87, 105
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyesyun
+  rotate: true
+  xy: 51, 80
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/face
+  rotate: false
+  xy: 204, 290
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair
+  rotate: false
+  xy: 2, 386
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair1
+  rotate: false
+  xy: 107, 290
+  size: 95, 88
+  orig: 95, 88
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair2
+  rotate: true
+  xy: 368, 391
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair3
+  rotate: true
+  xy: 128, 380
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair4
+  rotate: false
+  xy: 78, 166
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair5
+  rotate: false
+  xy: 484, 372
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/mouth01
+  rotate: true
+  xy: 215, 70
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/mouth03
+  rotate: true
+  xy: 227, 98
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/mouth04
+  rotate: true
+  xy: 181, 86
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin/Sherry_Skin04/texiao_1
+  rotate: true
+  xy: 2, 80
+  size: 143, 47
+  orig: 143, 47
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin/Sherry_Skin04/texiao_2
+  rotate: true
+  xy: 69, 254
+  size: 130, 36
+  orig: 130, 36
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin/Sherry_Skin04/texiao_3
+  rotate: false
+  xy: 128, 455
+  size: 166, 55
+  orig: 166, 55
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin/Sherry_Skin04/toushiinner
+  rotate: false
+  xy: 243, 382
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin/Sherry_Skin04/toushiinner1
+  rotate: false
+  xy: 256, 167
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin/Sherry_Skin04/toushiout
+  rotate: false
+  xy: 296, 421
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin/Sherry_Skin04/toushiout1
+  rotate: false
+  xy: 194, 118
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/arminnerdown
+  rotate: false
+  xy: 270, 215
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/arminnerup
+  rotate: true
+  xy: 87, 80
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/armoutdown
+  rotate: true
+  xy: 194, 86
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/armoutup
+  rotate: true
+  xy: 292, 92
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/body
+  rotate: false
+  xy: 118, 178
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/daizi
+  rotate: false
+  xy: 198, 250
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/handinner
+  rotate: true
+  xy: 182, 32
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/handout
+  rotate: false
+  xy: 103, 4
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/leginnerdown
+  rotate: false
+  xy: 103, 26
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/leginnerup
+  rotate: true
+  xy: 294, 125
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/legoutdown
+  rotate: false
+  xy: 141, 31
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/legoutup
+  rotate: true
+  xy: 245, 92
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/lingzinner
+  rotate: false
+  xy: 245, 129
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/lingziout
+  rotate: false
+  xy: 194, 167
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/maozi
+  rotate: false
+  xy: 277, 253
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/pidai
+  rotate: true
+  xy: 170, 182
+  size: 56, 22
+  orig: 56, 22
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/pijianinner
+  rotate: false
+  xy: 182, 54
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/pijianout
+  rotate: false
+  xy: 126, 81
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/weapon
+  rotate: true
+  xy: 2, 225
+  size: 159, 65
+  orig: 159, 65
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/weapon1
+  rotate: false
+  xy: 411, 410
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/xiongshi
+  rotate: false
+  xy: 69, 229
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/yaojia
+  rotate: true
+  xy: 2, 2
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/yaojia_inner
+  rotate: false
+  xy: 126, 121
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_Skin04_1/yaojia_inner1
+  rotate: false
+  xy: 107, 240
+  size: 89, 48
+  orig: 89, 48
+  offset: 0, 0
+  index: -1

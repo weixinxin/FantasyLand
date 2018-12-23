@@ -1,0 +1,104 @@
+
+Loren.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 958, 612
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 253, 227
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: true
+  xy: 130, 67
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 571, 348
+  size: 258, 298
+  orig: 258, 298
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 253, 313
+  size: 316, 333
+  orig: 316, 333
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 2, 106
+  size: 249, 540
+  orig: 249, 540
+  offset: 0, 0
+  index: -1
+eye_Firm
+  rotate: false
+  xy: 831, 611
+  size: 125, 35
+  orig: 125, 35
+  offset: 0, 0
+  index: -1
+eye_Normal
+  rotate: false
+  xy: 253, 275
+  size: 126, 36
+  orig: 126, 36
+  offset: 0, 0
+  index: -1
+eye_Weak
+  rotate: false
+  xy: 2, 56
+  size: 126, 48
+  orig: 126, 48
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 9
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+mouth_Firm
+  rotate: false
+  xy: 831, 588
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+mouth_Normal
+  rotate: false
+  xy: 571, 322
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+mouth_Weak
+  rotate: false
+  xy: 381, 279
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 2, 2
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

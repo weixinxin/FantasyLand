@@ -1,0 +1,230 @@
+
+Kleist_King.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hein/Hein02/g
+  rotate: false
+  xy: 390, 100
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/arminnerdown
+  rotate: false
+  xy: 320, 35
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/arminnerup
+  rotate: true
+  xy: 352, 36
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/armoutdown
+  rotate: false
+  xy: 435, 63
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/armoutup
+  rotate: true
+  xy: 254, 38
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/body
+  rotate: true
+  xy: 2, 24
+  size: 72, 139
+  orig: 72, 139
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/eyehard
+  rotate: false
+  xy: 2, 7
+  size: 68, 15
+  orig: 68, 15
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/eyehard1
+  rotate: false
+  xy: 72, 7
+  size: 68, 15
+  orig: 68, 15
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/eyehard2
+  rotate: false
+  xy: 385, 87
+  size: 68, 11
+  orig: 68, 11
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/eyehard3
+  rotate: false
+  xy: 142, 2
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/eyesffuer
+  rotate: false
+  xy: 457, 165
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/eyeyun
+  rotate: false
+  xy: 331, 64
+  size: 55, 17
+  orig: 55, 17
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/face
+  rotate: false
+  xy: 2, 98
+  size: 154, 156
+  orig: 154, 156
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/hair
+  rotate: true
+  xy: 158, 79
+  size: 41, 110
+  orig: 41, 110
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/hair1
+  rotate: true
+  xy: 143, 41
+  size: 36, 109
+  orig: 36, 109
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/hair2
+  rotate: false
+  xy: 324, 125
+  size: 64, 129
+  orig: 64, 129
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/handinner
+  rotate: false
+  xy: 281, 2
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/handinner1
+  rotate: true
+  xy: 320, 2
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/handout
+  rotate: false
+  xy: 423, 39
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/handout1
+  rotate: false
+  xy: 450, 38
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/handout2
+  rotate: false
+  xy: 382, 24
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/hudang
+  rotate: false
+  xy: 390, 163
+  size: 65, 91
+  orig: 65, 91
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/jianjiainner
+  rotate: false
+  xy: 331, 83
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/jianjiaout
+  rotate: false
+  xy: 270, 74
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/leginnerdown
+  rotate: true
+  xy: 388, 63
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/leginnerup
+  rotate: false
+  xy: 219, 2
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/legoutdown
+  rotate: false
+  xy: 294, 28
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/legoutup
+  rotate: true
+  xy: 243, 13
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/mouth01
+  rotate: false
+  xy: 382, 45
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/qunzi
+  rotate: true
+  xy: 457, 184
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+Kleist/Kleist_King_3/weapon
+  rotate: true
+  xy: 158, 122
+  size: 132, 164
+  orig: 132, 164
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 143, 14
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

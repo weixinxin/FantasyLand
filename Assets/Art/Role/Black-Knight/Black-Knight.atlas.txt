@@ -1,0 +1,111 @@
+
+Black-Knight.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: true
+  xy: 423, 100
+  size: 140, 76
+  orig: 140, 76
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 197, 29
+  size: 147, 76
+  orig: 147, 76
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 557, 729
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+blood_4
+  rotate: false
+  xy: 197, 6
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: false
+  xy: 769, 433
+  size: 187, 240
+  orig: 187, 240
+  offset: 0, 0
+  index: -1
+eye_1_Hurt1
+  rotate: false
+  xy: 2, 2
+  size: 193, 243
+  orig: 193, 243
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 642, 675
+  size: 361, 339
+  orig: 361, 339
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: false
+  xy: 557, 253
+  size: 210, 420
+  orig: 210, 420
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: false
+  xy: 197, 107
+  size: 224, 133
+  orig: 224, 133
+  offset: 0, 0
+  index: -1
+jianjia_inner_3
+  rotate: false
+  xy: 501, 213
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: false
+  xy: 2, 247
+  size: 305, 536
+  orig: 305, 536
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: false
+  xy: 769, 264
+  size: 245, 167
+  orig: 245, 167
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 785
+  size: 638, 229
+  orig: 638, 229
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 958, 611
+  size: 62, 22
+  orig: 62, 22
+  offset: 0, 0
+  index: -1
+xiongjia
+  rotate: true
+  xy: 309, 242
+  size: 541, 246
+  orig: 541, 246
+  offset: 0, 0
+  index: -1

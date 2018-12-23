@@ -1,0 +1,41 @@
+
+Sika_Chief.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 808, 882
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 2, 21
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 2, 2
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 80
+  size: 804, 831
+  orig: 804, 831
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 49, 73
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

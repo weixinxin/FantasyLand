@@ -1,0 +1,153 @@
+
+Qudao_100W.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 432, 89
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/body
+  rotate: false
+  xy: 246, 7
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/eyeborw
+  rotate: true
+  xy: 415, 42
+  size: 60, 10
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/eyehard
+  rotate: false
+  xy: 427, 59
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/eyesffuer
+  rotate: false
+  xy: 438, 129
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/eyeyun
+  rotate: false
+  xy: 438, 162
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/face
+  rotate: false
+  xy: 141, 3
+  size: 103, 91
+  orig: 103, 91
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/handinner
+  rotate: true
+  xy: 283, 96
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/handout
+  rotate: true
+  xy: 350, 104
+  size: 45, 80
+  orig: 45, 80
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/handout1
+  rotate: false
+  xy: 438, 194
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/handout2
+  rotate: false
+  xy: 350, 6
+  size: 63, 96
+  orig: 63, 96
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/hatout
+  rotate: true
+  xy: 141, 96
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/hatout1
+  rotate: false
+  xy: 341, 151
+  size: 95, 103
+  orig: 95, 103
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/hatout3
+  rotate: false
+  xy: 283, 146
+  size: 56, 108
+  orig: 56, 108
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/leginnerdown
+  rotate: true
+  xy: 310, 47
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/leginnerup
+  rotate: true
+  xy: 461, 29
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/legoutdown
+  rotate: false
+  xy: 310, 2
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/legoutup
+  rotate: false
+  xy: 415, 5
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/mouth01
+  rotate: false
+  xy: 2, 3
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_100W/weapon
+  rotate: true
+  xy: 2, 9
+  size: 245, 137
+  orig: 245, 137
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 310, 68
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

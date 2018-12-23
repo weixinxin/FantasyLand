@@ -1,0 +1,237 @@
+
+DarkDragon.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fafnir/DarkDragon/Dragon_armoutdown
+  rotate: true
+  xy: 1575, 828
+  size: 140, 264
+  orig: 140, 264
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_armoutup
+  rotate: false
+  xy: 1560, 1270
+  size: 372, 374
+  orig: 372, 374
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_handinner
+  rotate: true
+  xy: 1733, 372
+  size: 236, 193
+  orig: 236, 193
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_handout
+  rotate: true
+  xy: 1537, 333
+  size: 256, 194
+  orig: 256, 194
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_head
+  rotate: false
+  xy: 1122, 1646
+  size: 564, 400
+  orig: 564, 400
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_innerdown
+  rotate: false
+  xy: 1747, 163
+  size: 141, 207
+  orig: 141, 207
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_innerup
+  rotate: false
+  xy: 998, 551
+  size: 225, 450
+  orig: 225, 450
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_jawbone
+  rotate: true
+  xy: 1688, 1660
+  size: 386, 339
+  orig: 386, 339
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_leginner
+  rotate: false
+  xy: 1266, 215
+  size: 269, 374
+  orig: 269, 374
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_legout1
+  rotate: false
+  xy: 1266, 44
+  size: 270, 169
+  orig: 270, 169
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_legoutdown
+  rotate: false
+  xy: 1538, 99
+  size: 207, 232
+  orig: 207, 232
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_legoutup
+  rotate: false
+  xy: 1575, 970
+  size: 287, 298
+  orig: 287, 298
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_neck1
+  rotate: true
+  xy: 1225, 868
+  size: 355, 348
+  orig: 355, 348
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_neck2
+  rotate: false
+  xy: 1225, 591
+  size: 344, 275
+  orig: 344, 275
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_neck3
+  rotate: true
+  xy: 1571, 610
+  size: 216, 260
+  orig: 216, 260
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_weiba1
+  rotate: false
+  xy: 2, 34
+  size: 468, 301
+  orig: 468, 301
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_weiba2
+  rotate: true
+  xy: 970, 110
+  size: 439, 294
+  orig: 439, 294
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_weiba3
+  rotate: true
+  xy: 489, 561
+  size: 440, 507
+  orig: 440, 507
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_winginner
+  rotate: false
+  xy: 489, 1003
+  size: 569, 386
+  orig: 569, 386
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_winginner1
+  rotate: true
+  xy: 1122, 1225
+  size: 419, 436
+  orig: 419, 436
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_winginner2
+  rotate: false
+  xy: 491, 1391
+  size: 598, 240
+  orig: 598, 240
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_wingout
+  rotate: false
+  xy: 472, 127
+  size: 496, 432
+  orig: 496, 432
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_wingout1
+  rotate: true
+  xy: 2, 337
+  size: 530, 467
+  orig: 530, 467
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Dragon_wingout2
+  rotate: false
+  xy: 491, 1633
+  size: 629, 413
+  orig: 629, 413
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Eyelid01
+  rotate: false
+  xy: 2, 2
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Eyelid02
+  rotate: true
+  xy: 1091, 1591
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/Eyelid03
+  rotate: false
+  xy: 701, 62
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/body
+  rotate: false
+  xy: 2, 1455
+  size: 487, 591
+  orig: 487, 591
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/body1
+  rotate: false
+  xy: 2, 869
+  size: 485, 584
+  orig: 485, 584
+  offset: 0, 0
+  index: -1
+Fafnir/DarkDragon/body2
+  rotate: true
+  xy: 472, 46
+  size: 79, 227
+  orig: 79, 227
+  offset: 0, 0
+  index: -1
+Fafnir/Fafnir/LandShadow
+  rotate: true
+  xy: 1864, 1194
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Fafnir/Fafnir/Light
+  rotate: false
+  xy: 1538, 51
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Fafnir/dd
+  rotate: false
+  xy: 2029, 2042
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

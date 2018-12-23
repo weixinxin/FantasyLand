@@ -1,0 +1,146 @@
+
+QudaoTW_Xiaoxiong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 348, 216
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/body
+  rotate: false
+  xy: 2, 5
+  size: 89, 107
+  orig: 89, 107
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/eyehard
+  rotate: false
+  xy: 225, 161
+  size: 61, 15
+  orig: 61, 15
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/eyesffuer
+  rotate: true
+  xy: 182, 72
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/eyeyun
+  rotate: false
+  xy: 225, 178
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/handinner
+  rotate: true
+  xy: 424, 231
+  size: 23, 70
+  orig: 23, 70
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/handout
+  rotate: false
+  xy: 154, 60
+  size: 26, 80
+  orig: 26, 80
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/head
+  rotate: false
+  xy: 2, 114
+  size: 150, 140
+  orig: 150, 140
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/leginnerdown
+  rotate: false
+  xy: 136, 15
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/leginnerup
+  rotate: true
+  xy: 304, 177
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/legoutdown
+  rotate: true
+  xy: 205, 74
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/legoutup
+  rotate: true
+  xy: 93, 12
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/mouth01
+  rotate: false
+  xy: 424, 219
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/mouth02
+  rotate: false
+  xy: 136, 2
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/shipin
+  rotate: true
+  xy: 250, 143
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/shipin1
+  rotate: false
+  xy: 225, 144
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/toushi
+  rotate: false
+  xy: 154, 142
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/toushi1
+  rotate: false
+  xy: 93, 47
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/toushi2
+  rotate: true
+  xy: 205, 101
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Qudao/Taiwan_xiaoxiong/weapon
+  rotate: false
+  xy: 154, 207
+  size: 192, 47
+  orig: 192, 47
+  offset: 0, 0
+  index: -1

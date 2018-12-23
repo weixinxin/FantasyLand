@@ -1,0 +1,125 @@
+
+Sika_Magic.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 453, 180
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Sika/Sika_Magic/weapon
+  rotate: false
+  xy: 2, 23
+  size: 182, 54
+  orig: 182, 54
+  offset: 0, 0
+  index: -1
+Sika/dun
+  rotate: true
+  xy: 2, 79
+  size: 175, 257
+  orig: 175, 257
+  offset: 0, 0
+  index: -1
+Sika/l_tui1
+  rotate: true
+  xy: 453, 147
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Sika/l_tui2
+  rotate: false
+  xy: 437, 111
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Sika/lshou_0
+  rotate: false
+  xy: 473, 111
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Sika/lshou_1
+  rotate: false
+  xy: 224, 11
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Sika/lshou_2
+  rotate: true
+  xy: 332, 75
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Sika/mao
+  rotate: false
+  xy: 224, 41
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Sika/rshou_0
+  rotate: false
+  xy: 296, 4
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Sika/rshou_1
+  rotate: true
+  xy: 265, 2
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Sika/rshou_2
+  rotate: true
+  xy: 388, 112
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+Sika/rtui_1
+  rotate: false
+  xy: 186, 25
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+Sika/rtui_2
+  rotate: true
+  xy: 265, 42
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+Sika/shenti
+  rotate: false
+  xy: 388, 152
+  size: 63, 102
+  orig: 63, 102
+  offset: 0, 0
+  index: -1
+Sika/tou
+  rotate: false
+  xy: 261, 107
+  size: 125, 147
+  orig: 125, 147
+  offset: 0, 0
+  index: -1
+Sika/yan2
+  rotate: false
+  xy: 261, 79
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1

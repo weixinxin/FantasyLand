@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<Bullet ID="200001" BulletType="4" Damage="1" DamageType="0" Width="0" FixRange="0" DecayScale="0" Speed="5.0" Acceleration="0" AoeRadius="0" AoeDuration="1.0" AoeInterval="0.1" BuffEmitter="" Buffs=""/>
+	<Bullet ID="200002" BulletType="3" Damage="1" DamageType="0" Width="0.5" FixRange="4" DecayScale="0" Speed="5.0" Acceleration="0" AoeRadius="0" AoeDuration="1.0" AoeInterval="0.1" BuffEmitter="600003" Buffs="400001|400002|400003"/>
+</root>

@@ -1,0 +1,146 @@
+
+BluntWeapon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/Axe02Weapon
+  rotate: false
+  xy: 432, 19
+  size: 203, 97
+  orig: 203, 97
+  offset: 0, 0
+  index: -1
+Weapon/Axe3
+  rotate: true
+  xy: 331, 62
+  size: 203, 99
+  orig: 203, 99
+  offset: 0, 0
+  index: -1
+Weapon/Axe4
+  rotate: false
+  xy: 432, 118
+  size: 199, 118
+  orig: 199, 118
+  offset: 0, 0
+  index: -1
+Weapon/Axe5
+  rotate: false
+  xy: 2, 108
+  size: 327, 157
+  orig: 327, 157
+  offset: 0, 0
+  index: -1
+Weapon/Axe6
+  rotate: false
+  xy: 2, 267
+  size: 435, 241
+  orig: 435, 241
+  offset: 0, 0
+  index: -1
+Weapon/Axe7
+  rotate: false
+  xy: 637, 45
+  size: 186, 80
+  orig: 186, 80
+  offset: 0, 0
+  index: -1
+Weapon/AxeWeapon
+  rotate: true
+  xy: 830, 47
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+Weapon/Clergy4
+  rotate: false
+  xy: 2, 3
+  size: 286, 103
+  orig: 286, 103
+  offset: 0, 0
+  index: -1
+Weapon/Clergy5
+  rotate: true
+  xy: 940, 212
+  size: 173, 79
+  orig: 173, 79
+  offset: 0, 0
+  index: -1
+Weapon/Clergy6
+  rotate: false
+  xy: 439, 238
+  size: 242, 136
+  orig: 242, 136
+  offset: 0, 0
+  index: -1
+Weapon/Clergy7
+  rotate: false
+  xy: 827, 10
+  size: 123, 19
+  orig: 123, 19
+  offset: 0, 0
+  index: -1
+Weapon/Clergy8
+  rotate: true
+  xy: 976, 59
+  size: 151, 38
+  orig: 151, 38
+  offset: 0, 0
+  index: -1
+Weapon/Clergy9
+  rotate: true
+  xy: 902, 31
+  size: 179, 72
+  orig: 179, 72
+  offset: 0, 0
+  index: -1
+Weapon/ClergyHWeapon
+  rotate: false
+  xy: 737, 299
+  size: 201, 86
+  orig: 201, 86
+  offset: 0, 0
+  index: -1
+Weapon/ClergyLWeapon
+  rotate: false
+  xy: 637, 9
+  size: 188, 34
+  orig: 188, 34
+  offset: 0, 0
+  index: -1
+Weapon/ClergyMWeapon
+  rotate: false
+  xy: 683, 209
+  size: 201, 88
+  orig: 201, 88
+  offset: 0, 0
+  index: -1
+Weapon/Hammer1
+  rotate: false
+  xy: 633, 127
+  size: 195, 80
+  orig: 195, 80
+  offset: 0, 0
+  index: -1
+Weapon/Hammer2
+  rotate: false
+  xy: 439, 376
+  size: 296, 132
+  orig: 296, 132
+  offset: 0, 0
+  index: -1
+Weapon/Hammer3
+  rotate: false
+  xy: 737, 387
+  size: 274, 121
+  orig: 274, 121
+  offset: 0, 0
+  index: -1
+Weapon/Hammer4
+  rotate: false
+  xy: 290, 2
+  size: 140, 58
+  orig: 140, 58
+  offset: 0, 0
+  index: -1

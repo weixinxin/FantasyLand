@@ -1,0 +1,272 @@
+
+Scylla_map.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminner
+  rotate: true
+  xy: 844, 125
+  size: 59, 146
+  orig: 59, 146
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: true
+  xy: 458, 679
+  size: 81, 29
+  orig: 81, 29
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: true
+  xy: 720, 64
+  size: 40, 119
+  orig: 40, 119
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 866, 186
+  size: 105, 124
+  orig: 105, 124
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 720, 106
+  size: 122, 80
+  orig: 122, 80
+  offset: 0, 0
+  index: -1
+d_body
+  rotate: false
+  xy: 297, 344
+  size: 198, 333
+  orig: 198, 333
+  offset: 0, 0
+  index: -1
+d_body1
+  rotate: false
+  xy: 799, 761
+  size: 218, 261
+  orig: 218, 261
+  offset: 0, 0
+  index: -1
+d_body2
+  rotate: false
+  xy: 497, 477
+  size: 209, 283
+  orig: 209, 283
+  offset: 0, 0
+  index: -1
+d_body3
+  rotate: false
+  xy: 708, 506
+  size: 204, 253
+  orig: 204, 253
+  offset: 0, 0
+  index: -1
+d_body4
+  rotate: false
+  xy: 753, 393
+  size: 177, 111
+  orig: 177, 111
+  offset: 0, 0
+  index: -1
+d_eye
+  rotate: false
+  xy: 986, 361
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+d_eye1
+  rotate: false
+  xy: 936, 312
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+d_eye2
+  rotate: true
+  xy: 986, 335
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+d_eye3
+  rotate: false
+  xy: 606, 10
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+d_head
+  rotate: false
+  xy: 2, 679
+  size: 454, 343
+  orig: 454, 343
+  offset: 0, 0
+  index: -1
+d_head1
+  rotate: false
+  xy: 458, 762
+  size: 339, 260
+  orig: 339, 260
+  offset: 0, 0
+  index: -1
+d_head2
+  rotate: true
+  xy: 2, 29
+  size: 245, 340
+  orig: 245, 340
+  offset: 0, 0
+  index: -1
+d_head3
+  rotate: false
+  xy: 2, 276
+  size: 293, 401
+  orig: 293, 401
+  offset: 0, 0
+  index: -1
+d_mouth
+  rotate: false
+  xy: 344, 78
+  size: 117, 264
+  orig: 117, 264
+  offset: 0, 0
+  index: -1
+d_mouth1
+  rotate: false
+  xy: 463, 145
+  size: 80, 197
+  orig: 80, 197
+  offset: 0, 0
+  index: -1
+d_mouth2
+  rotate: true
+  xy: 753, 312
+  size: 79, 181
+  orig: 79, 181
+  offset: 0, 0
+  index: -1
+d_mouth3
+  rotate: false
+  xy: 545, 162
+  size: 85, 190
+  orig: 85, 190
+  offset: 0, 0
+  index: -1
+daizi1
+  rotate: false
+  xy: 936, 342
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+daiziinner
+  rotate: true
+  xy: 708, 478
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+daiziout
+  rotate: true
+  xy: 297, 285
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 720, 188
+  size: 122, 144
+  orig: 122, 144
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 566, 80
+  size: 98, 80
+  orig: 98, 80
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 932, 393
+  size: 88, 117
+  orig: 88, 117
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 914, 512
+  size: 247, 90
+  orig: 247, 90
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 632, 169
+  size: 183, 86
+  orig: 183, 86
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 844, 82
+  size: 41, 122
+  orig: 41, 122
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: true
+  xy: 344, 2
+  size: 74, 137
+  orig: 74, 137
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 606, 46
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+water1
+  rotate: false
+  xy: 497, 354
+  size: 254, 121
+  orig: 254, 121
+  offset: 0, 0
+  index: -1
+water2
+  rotate: false
+  xy: 841, 43
+  size: 119, 37
+  orig: 119, 37
+  offset: 0, 0
+  index: -1
+water3
+  rotate: false
+  xy: 463, 79
+  size: 101, 64
+  orig: 101, 64
+  offset: 0, 0
+  index: -1
+water4
+  rotate: true
+  xy: 666, 95
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 483, 10
+  size: 121, 67
+  orig: 121, 67
+  offset: 0, 0
+  index: -1

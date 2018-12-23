@@ -1,0 +1,153 @@
+
+Whitewolf.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 50, 11
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Whitewolf/L1_shou1
+  rotate: true
+  xy: 263, 156
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+Whitewolf/L1_shou2
+  rotate: false
+  xy: 153, 74
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+Whitewolf/L1_shou3
+  rotate: false
+  xy: 209, 68
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+Whitewolf/L_shou1
+  rotate: false
+  xy: 373, 208
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+Whitewolf/L_shou2
+  rotate: false
+  xy: 373, 266
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+Whitewolf/L_shou3
+  rotate: false
+  xy: 411, 369
+  size: 98, 141
+  orig: 98, 141
+  offset: 0, 0
+  index: -1
+Whitewolf/R1_shou3
+  rotate: true
+  xy: 344, 145
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+Whitewolf/R2_shou1
+  rotate: false
+  xy: 172, 125
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+Whitewolf/R2_shou2
+  rotate: false
+  xy: 153, 35
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+Whitewolf/Wolf_head
+  rotate: false
+  xy: 199, 227
+  size: 172, 153
+  orig: 172, 153
+  offset: 0, 0
+  index: -1
+Whitewolf/Wolf_jawbone
+  rotate: false
+  xy: 172, 165
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+Whitewolf/Wolf_jawboneinner
+  rotate: false
+  xy: 2, 2
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Whitewolf/body1
+  rotate: false
+  xy: 199, 382
+  size: 210, 128
+  orig: 210, 128
+  offset: 0, 0
+  index: -1
+Whitewolf/body2
+  rotate: true
+  xy: 2, 51
+  size: 93, 149
+  orig: 93, 149
+  offset: 0, 0
+  index: -1
+Whitewolf/boz
+  rotate: false
+  xy: 2, 323
+  size: 195, 187
+  orig: 195, 187
+  offset: 0, 0
+  index: -1
+Whitewolf/eye
+  rotate: false
+  xy: 344, 208
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Whitewolf/ice
+  rotate: true
+  xy: 412, 141
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+Whitewolf/sj
+  rotate: false
+  xy: 475, 352
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+Whitewolf/weib
+  rotate: false
+  xy: 2, 146
+  size: 168, 175
+  orig: 168, 175
+  offset: 0, 0
+  index: -1
+Whitewolf/yun
+  rotate: false
+  xy: 172, 301
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1

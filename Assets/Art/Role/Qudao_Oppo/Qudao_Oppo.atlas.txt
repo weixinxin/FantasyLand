@@ -1,0 +1,132 @@
+
+Qudao_Oppo.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 357, 114
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/body
+  rotate: true
+  xy: 194, 124
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/body1
+  rotate: false
+  xy: 2, 2
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/eyehard
+  rotate: false
+  xy: 357, 154
+  size: 84, 39
+  orig: 84, 39
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/eyesffuer
+  rotate: false
+  xy: 277, 116
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/eyeyun
+  rotate: false
+  xy: 104, 14
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/face
+  rotate: false
+  xy: 2, 28
+  size: 100, 84
+  orig: 100, 84
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/handinner
+  rotate: false
+  xy: 453, 185
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/handout
+  rotate: true
+  xy: 277, 147
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/handout1
+  rotate: false
+  xy: 104, 52
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/hatout
+  rotate: false
+  xy: 2, 114
+  size: 190, 139
+  orig: 190, 139
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/leginnerdown
+  rotate: true
+  xy: 202, 65
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/leginnerup
+  rotate: false
+  xy: 236, 92
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/legoutdown
+  rotate: true
+  xy: 57, 3
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/legoutup
+  rotate: false
+  xy: 202, 88
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/mouth01
+  rotate: true
+  xy: 499, 235
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Oppo/weapon
+  rotate: false
+  xy: 194, 195
+  size: 257, 58
+  orig: 257, 58
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 174, 74
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+Mathew_Skin01_1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: false
+  xy: 185, 130
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/arminnerdown
+  rotate: false
+  xy: 330, 3
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/arminnerup
+  rotate: false
+  xy: 290, 2
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/armoutdown
+  rotate: true
+  xy: 462, 62
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/armoutup
+  rotate: false
+  xy: 462, 93
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/body
+  rotate: false
+  xy: 185, 41
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/handinner
+  rotate: true
+  xy: 391, 22
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/handout
+  rotate: true
+  xy: 254, 6
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/leginnerdown
+  rotate: false
+  xy: 360, 3
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/leginnerup
+  rotate: true
+  xy: 192, 2
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/legoutdown
+  rotate: true
+  xy: 242, 29
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/legoutup
+  rotate: true
+  xy: 461, 179
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/mouth01
+  rotate: true
+  xy: 451, 187
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/shipin
+  rotate: true
+  xy: 384, 205
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/shipin1
+  rotate: false
+  xy: 242, 63
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/shipin2
+  rotate: false
+  xy: 461, 216
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/shipin3
+  rotate: false
+  xy: 451, 138
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/shipin4
+  rotate: false
+  xy: 237, 2
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/weapon
+  rotate: false
+  xy: 2, 191
+  size: 290, 63
+  orig: 290, 63
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/weapon1
+  rotate: false
+  xy: 2, 2
+  size: 188, 21
+  orig: 188, 21
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin01_1/weapon3
+  rotate: false
+  xy: 185, 124
+  size: 227, 4
+  orig: 227, 4
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyebrow
+  rotate: true
+  xy: 403, 57
+  size: 65, 15
+  orig: 65, 15
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyeffuer
+  rotate: false
+  xy: 304, 88
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyehard
+  rotate: true
+  xy: 420, 64
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyehard1
+  rotate: true
+  xy: 441, 64
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyehard2
+  rotate: false
+  xy: 290, 36
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyehard3
+  rotate: false
+  xy: 384, 193
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyeyun
+  rotate: false
+  xy: 304, 53
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/face
+  rotate: false
+  xy: 2, 25
+  size: 181, 164
+  orig: 181, 164
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/hair
+  rotate: true
+  xy: 294, 193
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/mouth03
+  rotate: false
+  xy: 391, 10
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/mouth04
+  rotate: false
+  xy: 491, 172
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 376, 48
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+Digos_Faber.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Digos/blood_1
+  rotate: false
+  xy: 2, 2
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Digos/blood_2
+  rotate: true
+  xy: 474, 125
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+Digos/blood_3
+  rotate: true
+  xy: 669, 662
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Digos/body_1
+  rotate: false
+  xy: 331, 174
+  size: 224, 299
+  orig: 224, 299
+  offset: 0, 0
+  index: -1
+Digos/body_2
+  rotate: false
+  xy: 717, 709
+  size: 282, 313
+  orig: 282, 313
+  offset: 0, 0
+  index: -1
+Digos/body_3
+  rotate: false
+  xy: 2, 468
+  size: 292, 554
+  orig: 292, 554
+  offset: 0, 0
+  index: -1
+Digos/eye_Normal
+  rotate: true
+  xy: 967, 332
+  size: 120, 47
+  orig: 120, 47
+  offset: 0, 0
+  index: -1
+Digos/eye_Weak
+  rotate: true
+  xy: 620, 568
+  size: 121, 47
+  orig: 121, 47
+  offset: 0, 0
+  index: -1
+Digos/mouth_Normal
+  rotate: true
+  xy: 620, 503
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+Digos/mouth_Weak
+  rotate: false
+  xy: 952, 298
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+Faber/blood_1
+  rotate: true
+  xy: 777, 103
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Faber/blood_2
+  rotate: true
+  xy: 669, 634
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Faber/body_up
+  rotate: false
+  xy: 2, 106
+  size: 327, 360
+  orig: 327, 360
+  offset: 0, 0
+  index: -1
+Faber/eye_1_Hurt
+  rotate: false
+  xy: 862, 517
+  size: 143, 72
+  orig: 143, 72
+  offset: 0, 0
+  index: -1
+Faber/eye_1_Normal_1
+  rotate: false
+  xy: 331, 111
+  size: 141, 61
+  orig: 141, 61
+  offset: 0, 0
+  index: -1
+Faber/eye_1_Normal_2
+  rotate: false
+  xy: 180, 43
+  size: 141, 61
+  orig: 141, 61
+  offset: 0, 0
+  index: -1
+Faber/eye_1_Normal_3
+  rotate: false
+  xy: 862, 454
+  size: 141, 61
+  orig: 141, 61
+  offset: 0, 0
+  index: -1
+Faber/face
+  rotate: false
+  xy: 672, 337
+  size: 188, 252
+  orig: 188, 252
+  offset: 0, 0
+  index: -1
+Faber/huzi
+  rotate: true
+  xy: 936, 147
+  size: 105, 43
+  orig: 105, 43
+  offset: 0, 0
+  index: -1
+Faber/jianjia_inner
+  rotate: true
+  xy: 296, 475
+  size: 214, 322
+  orig: 214, 322
+  offset: 0, 0
+  index: -1
+Faber/jianjia_out
+  rotate: false
+  xy: 296, 691
+  size: 419, 331
+  orig: 419, 331
+  offset: 0, 0
+  index: -1
+Faber/koudai_1
+  rotate: false
+  xy: 2, 38
+  size: 176, 66
+  orig: 176, 66
+  offset: 0, 0
+  index: -1
+Faber/lingzi
+  rotate: true
+  xy: 557, 104
+  size: 369, 113
+  orig: 369, 113
+  offset: 0, 0
+  index: -1
+Faber/mouth_1_Hurt
+  rotate: true
+  xy: 863, 254
+  size: 103, 87
+  orig: 103, 87
+  offset: 0, 0
+  index: -1
+Faber/mouth_1_Normal_A
+  rotate: true
+  xy: 777, 127
+  size: 103, 87
+  orig: 103, 87
+  offset: 0, 0
+  index: -1
+Faber/mouth_1_Normal_B
+  rotate: true
+  xy: 771, 232
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+Faber/mouth_1_Normal_C
+  rotate: false
+  xy: 672, 102
+  size: 103, 92
+  orig: 103, 92
+  offset: 0, 0
+  index: -1
+Faber/mouth_1_Normal_D
+  rotate: false
+  xy: 862, 359
+  size: 103, 93
+  orig: 103, 93
+  offset: 0, 0
+  index: -1
+Faber/nose
+  rotate: true
+  xy: 952, 260
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Faber/piaodai_inner
+  rotate: false
+  xy: 672, 196
+  size: 97, 139
+  orig: 97, 139
+  offset: 0, 0
+  index: -1
+Faber/piaodai_out
+  rotate: false
+  xy: 866, 139
+  size: 68, 113
+  orig: 68, 113
+  offset: 0, 0
+  index: -1
+Faber/point
+  rotate: true
+  xy: 1007, 554
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+Faber/xiabai_inner
+  rotate: false
+  xy: 717, 591
+  size: 297, 116
+  orig: 297, 116
+  offset: 0, 0
+  index: -1

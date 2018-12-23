@@ -1,0 +1,104 @@
+
+Zeldo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 309, 318
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 347, 531
+  size: 50, 108
+  orig: 50, 108
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 770, 885
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 2, 2
+  size: 363, 305
+  orig: 363, 305
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 347, 696
+  size: 421, 320
+  orig: 421, 320
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 2, 367
+  size: 343, 649
+  orig: 343, 649
+  offset: 0, 0
+  index: -1
+eye_Normal
+  rotate: false
+  xy: 347, 641
+  size: 187, 53
+  orig: 187, 53
+  offset: 0, 0
+  index: -1
+eye_Weak
+  rotate: false
+  xy: 770, 953
+  size: 147, 63
+  orig: 147, 63
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 347, 503
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 536, 644
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 399, 612
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+mouth_Normal
+  rotate: false
+  xy: 536, 654
+  size: 81, 40
+  orig: 81, 40
+  offset: 0, 0
+  index: -1
+mouth_Weak
+  rotate: false
+  xy: 919, 975
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 619, 687
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1

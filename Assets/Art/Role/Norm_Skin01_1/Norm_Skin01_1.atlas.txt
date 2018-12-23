@@ -1,0 +1,510 @@
+
+Norm_Skin01_1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mount/Pegasus/horse_body
+  rotate: true
+  xy: 146, 219
+  size: 175, 107
+  orig: 175, 107
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_ear inner
+  rotate: false
+  xy: 567, 7
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_ear out
+  rotate: true
+  xy: 874, 243
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg inner down
+  rotate: false
+  xy: 978, 284
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg inner up
+  rotate: false
+  xy: 222, 2
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg out down
+  rotate: true
+  xy: 786, 197
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg out up
+  rotate: false
+  xy: 605, 138
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair1
+  rotate: false
+  xy: 516, 138
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair2
+  rotate: false
+  xy: 589, 39
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair3
+  rotate: true
+  xy: 134, 2
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg inner up
+  rotate: false
+  xy: 975, 338
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg out down
+  rotate: true
+  xy: 786, 231
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg out up
+  rotate: false
+  xy: 682, 88
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leginnerdown
+  rotate: true
+  xy: 411, 2
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_weiba
+  rotate: false
+  xy: 264, 52
+  size: 161, 85
+  orig: 161, 85
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner3
+  rotate: true
+  xy: 870, 399
+  size: 111, 143
+  orig: 111, 143
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner4
+  rotate: false
+  xy: 460, 316
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout1
+  rotate: false
+  xy: 2, 42
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout3
+  rotate: false
+  xy: 264, 139
+  size: 151, 127
+  orig: 151, 127
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout4
+  rotate: true
+  xy: 134, 58
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+Mount/eagle/Feather
+  rotate: true
+  xy: 936, 269
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingdown
+  rotate: true
+  xy: 255, 268
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+Mount/eagle/winginnerup
+  rotate: true
+  xy: 268, 363
+  size: 92, 190
+  orig: 92, 190
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingout2
+  rotate: false
+  xy: 2, 220
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/arminnerdown
+  rotate: true
+  xy: 525, 3
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/arminnerup
+  rotate: true
+  xy: 849, 220
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/armoutup
+  rotate: true
+  xy: 874, 214
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/body
+  rotate: false
+  xy: 655, 2
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/body1
+  rotate: true
+  xy: 417, 232
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/handout
+  rotate: true
+  xy: 929, 241
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/horse head
+  rotate: true
+  xy: 443, 224
+  size: 90, 107
+  orig: 90, 107
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/horse_hujia1
+  rotate: false
+  xy: 668, 143
+  size: 93, 52
+  orig: 93, 52
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/horse_mana
+  rotate: true
+  xy: 629, 241
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/horse_neck
+  rotate: true
+  xy: 564, 322
+  size: 87, 141
+  orig: 87, 141
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/horse_pigua
+  rotate: false
+  xy: 427, 37
+  size: 84, 106
+  orig: 84, 106
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/horse_pigua1
+  rotate: false
+  xy: 513, 41
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/horse_pigua2
+  rotate: false
+  xy: 709, 7
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/horse_toushi
+  rotate: false
+  xy: 874, 270
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/horse_tuijiainner
+  rotate: false
+  xy: 826, 319
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/horse_tuijiaout
+  rotate: true
+  xy: 763, 149
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/jianjiainner
+  rotate: true
+  xy: 681, 208
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/jianjiaout
+  rotate: false
+  xy: 826, 352
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/legoutdown
+  rotate: true
+  xy: 81, 17
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/legoutup
+  rotate: false
+  xy: 380, 2
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/toushi
+  rotate: true
+  xy: 470, 6
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/toushi1
+  rotate: false
+  xy: 2, 16
+  size: 77, 24
+  orig: 77, 24
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/toushi2
+  rotate: true
+  xy: 707, 319
+  size: 60, 117
+  orig: 60, 117
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/weapon
+  rotate: false
+  xy: 2, 457
+  size: 563, 53
+  orig: 563, 53
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/wing
+  rotate: true
+  xy: 567, 411
+  size: 99, 152
+  orig: 99, 152
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/yaojiaout
+  rotate: false
+  xy: 624, 8
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Norm/Norm_Skin01_1/yaojiaout1
+  rotate: true
+  xy: 588, 12
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Norm/eyebrow
+  rotate: true
+  xy: 552, 244
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+Norm/eyehard
+  rotate: false
+  xy: 682, 67
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+Norm/eyehard1
+  rotate: false
+  xy: 763, 128
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+Norm/eyehard2
+  rotate: false
+  xy: 747, 110
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+Norm/eyehard3
+  rotate: false
+  xy: 703, 197
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+Norm/eyesffuer
+  rotate: true
+  xy: 844, 247
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+Norm/eyeyun
+  rotate: true
+  xy: 655, 66
+  size: 70, 25
+  orig: 70, 25
+  offset: 0, 0
+  index: -1
+Norm/face
+  rotate: true
+  xy: 721, 381
+  size: 129, 147
+  orig: 129, 147
+  offset: 0, 0
+  index: -1
+Norm/hair1
+  rotate: true
+  xy: 417, 145
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+Norm/hair2
+  rotate: true
+  xy: 703, 250
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+Norm/hair3
+  rotate: true
+  xy: 870, 337
+  size: 60, 103
+  orig: 60, 103
+  offset: 0, 0
+  index: -1
+Norm/hair4
+  rotate: true
+  xy: 564, 224
+  size: 96, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+Norm/hair5
+  rotate: true
+  xy: 287, 7
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+Norm/hair7
+  rotate: true
+  xy: 978, 255
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Norm/mouth01
+  rotate: false
+  xy: 588, 2
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Norm/mouth02
+  rotate: true
+  xy: 552, 229
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Norm/mouth03
+  rotate: false
+  xy: 605, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Norm/mouth04
+  rotate: false
+  xy: 287, 2
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 605, 197
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: false
+  xy: 2, 396
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/dd
+  rotate: false
+  xy: 417, 139
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

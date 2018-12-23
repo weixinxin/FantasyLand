@@ -1,0 +1,174 @@
+
+SwordMan_Skin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 248, 320
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/SwordManH/hatout
+  rotate: false
+  xy: 2, 181
+  size: 154, 158
+  orig: 154, 158
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin01/body
+  rotate: false
+  xy: 2, 4
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin01/handinner
+  rotate: false
+  xy: 158, 201
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin01/handout
+  rotate: true
+  xy: 324, 365
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin01/handout1
+  rotate: false
+  xy: 126, 10
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin01/hatout
+  rotate: false
+  xy: 167, 360
+  size: 155, 148
+  orig: 155, 148
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin01/leginnerdown
+  rotate: false
+  xy: 486, 473
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin01/leginnerup
+  rotate: false
+  xy: 243, 230
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin01/legoutdown
+  rotate: false
+  xy: 401, 373
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin01/legoutup
+  rotate: false
+  xy: 207, 225
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin01/sword
+  rotate: false
+  xy: 2, 84
+  size: 237, 46
+  orig: 237, 46
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin02/body
+  rotate: false
+  xy: 427, 430
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin02/handinner
+  rotate: true
+  xy: 235, 271
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin02/handout
+  rotate: false
+  xy: 190, 7
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin02/handout1
+  rotate: false
+  xy: 61, 10
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin02/hatout
+  rotate: false
+  xy: 2, 341
+  size: 163, 167
+  orig: 163, 167
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_skin02/sword
+  rotate: false
+  xy: 2, 132
+  size: 244, 47
+  orig: 244, 47
+  offset: 0, 0
+  index: -1
+SwordMan/eyehard
+  rotate: false
+  xy: 158, 271
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+SwordMan/eyesffuer
+  rotate: false
+  xy: 324, 328
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+SwordMan/eyeyun
+  rotate: false
+  xy: 167, 320
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+SwordMan/face
+  rotate: false
+  xy: 324, 415
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 241, 110
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 271, 231
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

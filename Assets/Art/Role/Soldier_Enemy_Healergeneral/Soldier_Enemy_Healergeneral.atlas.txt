@@ -1,0 +1,335 @@
+
+Soldier_Enemy_Healergeneral.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 266, 283
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/Enemy_HealerHigh/body
+  rotate: true
+  xy: 142, 265
+  size: 92, 122
+  orig: 92, 122
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/Enemy_HealerHigh/hatout
+  rotate: false
+  xy: 2, 37
+  size: 136, 145
+  orig: 136, 145
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/Enemy_HealerHigh/jianjiainner
+  rotate: false
+  xy: 418, 259
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/Enemy_HealerHigh/jianjiaout
+  rotate: false
+  xy: 330, 171
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/arminnerdown
+  rotate: true
+  xy: 381, 252
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/armoutdown
+  rotate: false
+  xy: 310, 90
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/body
+  rotate: false
+  xy: 237, 143
+  size: 91, 120
+  orig: 91, 120
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/hair
+  rotate: true
+  xy: 411, 297
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/hatout
+  rotate: true
+  xy: 364, 376
+  size: 134, 146
+  orig: 134, 146
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/jianjiainner
+  rotate: true
+  xy: 443, 277
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/jianjiaout
+  rotate: false
+  xy: 376, 211
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/leginnerdown
+  rotate: true
+  xy: 138, 2
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/legoutdown
+  rotate: false
+  xy: 481, 270
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/weapon
+  rotate: false
+  xy: 142, 434
+  size: 220, 76
+  orig: 220, 76
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/weijin
+  rotate: false
+  xy: 235, 23
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/HealerHigh/yaodai
+  rotate: false
+  xy: 362, 338
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/body
+  rotate: false
+  xy: 140, 144
+  size: 95, 119
+  orig: 95, 119
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/bodyinner
+  rotate: false
+  xy: 94, 12
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/handinner
+  rotate: false
+  xy: 330, 212
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/handinner1
+  rotate: false
+  xy: 443, 301
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/handout
+  rotate: true
+  xy: 421, 340
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/handout1
+  rotate: true
+  xy: 330, 145
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/hatout
+  rotate: false
+  xy: 2, 347
+  size: 138, 163
+  orig: 138, 163
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/jianjiainner
+  rotate: true
+  xy: 362, 296
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/jianjiaout
+  rotate: true
+  xy: 303, 365
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/jianjiaout1
+  rotate: false
+  xy: 481, 244
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/leginnerdown
+  rotate: true
+  xy: 344, 77
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/leginnerup
+  rotate: false
+  xy: 344, 102
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/legoutdown
+  rotate: false
+  xy: 306, 265
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/legoutup
+  rotate: true
+  xy: 375, 173
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/weapon
+  rotate: false
+  xy: 2, 16
+  size: 90, 19
+  orig: 90, 19
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/weapon1
+  rotate: false
+  xy: 142, 359
+  size: 159, 73
+  orig: 159, 73
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Healergeneral/xiongshi
+  rotate: true
+  xy: 266, 265
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+Soldier_Healergeneral/body
+  rotate: false
+  xy: 140, 24
+  size: 93, 118
+  orig: 93, 118
+  offset: 0, 0
+  index: -1
+Soldier_Healergeneral/hatout
+  rotate: false
+  xy: 2, 184
+  size: 136, 161
+  orig: 136, 161
+  offset: 0, 0
+  index: -1
+Soldier_Healergeneral/jianjiainner
+  rotate: true
+  xy: 333, 255
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Soldier_Healergeneral/jianjiaout
+  rotate: true
+  xy: 306, 296
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 165, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+eyehard
+  rotate: false
+  xy: 443, 253
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: true
+  xy: 481, 300
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: true
+  xy: 481, 338
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 235, 72
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 184, 15
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 165, 8
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+mouth03
+  rotate: false
+  xy: 2, 5
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+mouth04
+  rotate: false
+  xy: 310, 82
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1

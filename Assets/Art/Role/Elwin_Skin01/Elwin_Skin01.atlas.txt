@@ -1,0 +1,342 @@
+
+Elwin_Skin01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Elwin_Skin/Elwin_Skin001/arm_inner
+  rotate: false
+  xy: 234, 263
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/arm_inner1
+  rotate: false
+  xy: 74, 2
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/arm_out
+  rotate: true
+  xy: 377, 338
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/arm_out1
+  rotate: true
+  xy: 143, 146
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/body
+  rotate: false
+  xy: 188, 377
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/ear
+  rotate: false
+  xy: 491, 376
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/face
+  rotate: true
+  xy: 388, 417
+  size: 93, 99
+  orig: 93, 99
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/hair
+  rotate: false
+  xy: 2, 258
+  size: 150, 111
+  orig: 150, 111
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/hair1
+  rotate: true
+  xy: 108, 9
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/hair2
+  rotate: false
+  xy: 337, 327
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/hair3
+  rotate: true
+  xy: 189, 296
+  size: 79, 46
+  orig: 79, 46
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/hair4
+  rotate: false
+  xy: 317, 311
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/hair5
+  rotate: false
+  xy: 378, 367
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/hairback
+  rotate: false
+  xy: 290, 288
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/hand_inner
+  rotate: false
+  xy: 317, 283
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/hand_out
+  rotate: false
+  xy: 290, 263
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/handinner1
+  rotate: false
+  xy: 317, 259
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/hudang
+  rotate: false
+  xy: 489, 477
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/hudang1
+  rotate: false
+  xy: 434, 369
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/jianjiainner
+  rotate: false
+  xy: 407, 337
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/jianjiainner_1
+  rotate: false
+  xy: 355, 339
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/jianjiaout
+  rotate: true
+  xy: 225, 222
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/leginnerdown
+  rotate: true
+  xy: 189, 263
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/leginnerup
+  rotate: false
+  xy: 225, 184
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/legoutdown
+  rotate: false
+  xy: 259, 273
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/legoutup
+  rotate: false
+  xy: 253, 313
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/pifeng
+  rotate: false
+  xy: 154, 262
+  size: 33, 107
+  orig: 33, 107
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/pifeng1
+  rotate: false
+  xy: 100, 46
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/pifeng2
+  rotate: false
+  xy: 2, 146
+  size: 139, 110
+  orig: 139, 110
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/shipin
+  rotate: false
+  xy: 289, 315
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/shipin1
+  rotate: false
+  xy: 2, 43
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/toushi
+  rotate: false
+  xy: 268, 439
+  size: 118, 71
+  orig: 118, 71
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/weapon
+  rotate: false
+  xy: 2, 371
+  size: 184, 78
+  orig: 184, 78
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/weapon1
+  rotate: true
+  xy: 237, 306
+  size: 69, 14
+  orig: 69, 14
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_Skin/Elwin_Skin001/weijin
+  rotate: false
+  xy: 2, 2
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+Elwin/Pike
+  rotate: false
+  xy: 2, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Elwin/eye2
+  rotate: true
+  xy: 491, 408
+  size: 67, 19
+  orig: 67, 19
+  offset: 0, 0
+  index: -1
+Elwin/eye3
+  rotate: true
+  xy: 170, 193
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Elwin/eyebrow
+  rotate: true
+  xy: 242, 381
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+Elwin/eyehard
+  rotate: true
+  xy: 346, 368
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+Elwin/eyehard1
+  rotate: true
+  xy: 201, 196
+  size: 65, 22
+  orig: 65, 22
+  offset: 0, 0
+  index: -1
+Elwin/eyesffuer
+  rotate: false
+  xy: 267, 402
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+Elwin/eyeyun
+  rotate: false
+  xy: 267, 366
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+Elwin/mouth01
+  rotate: true
+  xy: 378, 420
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+Elwin/mouth02
+  rotate: false
+  xy: 337, 311
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Elwin/mouth03
+  rotate: false
+  xy: 170, 182
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Elwin/mouth04
+  rotate: false
+  xy: 491, 368
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 143, 182
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

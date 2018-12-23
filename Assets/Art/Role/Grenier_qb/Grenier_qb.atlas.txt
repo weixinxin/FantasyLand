@@ -1,0 +1,314 @@
+
+Grenier_qb.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Grenier/Grenier_qb/Grenier_3/body
+  rotate: false
+  xy: 317, 257
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/handinner
+  rotate: true
+  xy: 463, 301
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/handinner1
+  rotate: true
+  xy: 423, 177
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/handout
+  rotate: false
+  xy: 459, 421
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/handout0
+  rotate: true
+  xy: 225, 129
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/handout1
+  rotate: false
+  xy: 423, 206
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/handout2
+  rotate: true
+  xy: 424, 299
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_backlegdown
+  rotate: false
+  xy: 191, 122
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_backlegup
+  rotate: false
+  xy: 250, 252
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_body
+  rotate: false
+  xy: 184, 417
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_frontlegdown
+  rotate: false
+  xy: 371, 181
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_frontlegup
+  rotate: false
+  xy: 412, 349
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_guajian1
+  rotate: false
+  xy: 405, 182
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_guajian2
+  rotate: true
+  xy: 332, 159
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_head
+  rotate: false
+  xy: 2, 81
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_mana
+  rotate: false
+  xy: 158, 249
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_neck
+  rotate: false
+  xy: 255, 155
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_neck1
+  rotate: false
+  xy: 168, 109
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_tunjia1
+  rotate: true
+  xy: 466, 266
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_weiba
+  rotate: false
+  xy: 2, 18
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/jianjiainner
+  rotate: false
+  xy: 424, 272
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/jianjiaout1
+  rotate: true
+  xy: 369, 274
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/legdownout
+  rotate: true
+  xy: 371, 155
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/legupout
+  rotate: true
+  xy: 422, 239
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/toushi
+  rotate: false
+  xy: 371, 231
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/weapon
+  rotate: false
+  xy: 2, 341
+  size: 180, 169
+  orig: 180, 169
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/weapon1
+  rotate: true
+  xy: 140, 163
+  size: 176, 16
+  orig: 176, 16
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/weapon2
+  rotate: true
+  xy: 184, 340
+  size: 75, 125
+  orig: 75, 125
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/yaojia
+  rotate: true
+  xy: 459, 461
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/eyebrow
+  rotate: true
+  xy: 116, 18
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/eyehard
+  rotate: false
+  xy: 254, 137
+  size: 58, 16
+  orig: 58, 16
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/eyehard1
+  rotate: true
+  xy: 493, 297
+  size: 58, 17
+  orig: 58, 17
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/eyehard2
+  rotate: false
+  xy: 2, 4
+  size: 57, 12
+  orig: 57, 12
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/eyehard3
+  rotate: true
+  xy: 493, 357
+  size: 62, 17
+  orig: 62, 17
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/eyesffuer
+  rotate: true
+  xy: 148, 102
+  size: 59, 18
+  orig: 59, 18
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/eyeyun
+  rotate: true
+  xy: 125, 102
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/face
+  rotate: false
+  xy: 2, 207
+  size: 136, 132
+  orig: 136, 132
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/hair
+  rotate: false
+  xy: 158, 169
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/mouth01
+  rotate: false
+  xy: 61, 8
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/mouth02
+  rotate: false
+  xy: 493, 284
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/mouth04
+  rotate: true
+  xy: 125, 184
+  size: 21, 3
+  orig: 21, 3
+  offset: 0, 0
+  index: -1
+Horse/Ornament/green/horse_tunjia
+  rotate: true
+  xy: 311, 341
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Horse/Ornament/green/horse_xiongjia
+  rotate: true
+  xy: 342, 421
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 466, 345
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

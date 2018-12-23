@@ -1,0 +1,391 @@
+
+Diors.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Diors/Blood_1
+  rotate: true
+  xy: 1102, 1564
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+Diors/Blood_2
+  rotate: false
+  xy: 1620, 1831
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+Diors/arm_inner_down
+  rotate: false
+  xy: 174, 1034
+  size: 405, 182
+  orig: 405, 182
+  offset: 0, 0
+  index: -1
+Diors/arm_inner_up
+  rotate: false
+  xy: 440, 638
+  size: 171, 394
+  orig: 171, 394
+  offset: 0, 0
+  index: -1
+Diors/arm_out_down
+  rotate: false
+  xy: 1665, 1867
+  size: 378, 179
+  orig: 378, 179
+  offset: 0, 0
+  index: -1
+Diors/arm_out_up
+  rotate: true
+  xy: 730, 1551
+  size: 240, 370
+  orig: 240, 370
+  offset: 0, 0
+  index: -1
+Diors/body_down
+  rotate: false
+  xy: 174, 1218
+  size: 400, 319
+  orig: 400, 319
+  offset: 0, 0
+  index: -1
+Diors/body_up
+  rotate: false
+  xy: 174, 1539
+  size: 554, 507
+  orig: 554, 507
+  offset: 0, 0
+  index: -1
+Diors/eye_1_Angry
+  rotate: false
+  xy: 419, 458
+  size: 136, 88
+  orig: 136, 88
+  offset: 0, 0
+  index: -1
+Diors/eye_1_Battle_Mighty
+  rotate: false
+  xy: 201, 144
+  size: 134, 88
+  orig: 134, 88
+  offset: 0, 0
+  index: -1
+Diors/eye_1_Battle_Weak
+  rotate: true
+  xy: 113, 75
+  size: 135, 86
+  orig: 135, 86
+  offset: 0, 0
+  index: -1
+Diors/eye_1_Normal_1
+  rotate: false
+  xy: 201, 54
+  size: 134, 88
+  orig: 134, 88
+  offset: 0, 0
+  index: -1
+Diors/eye_1_Normal_2
+  rotate: false
+  xy: 383, 278
+  size: 134, 88
+  orig: 134, 88
+  offset: 0, 0
+  index: -1
+Diors/eye_1_Normal_3
+  rotate: true
+  xy: 613, 914
+  size: 134, 88
+  orig: 134, 88
+  offset: 0, 0
+  index: -1
+Diors/eye_1_Sad
+  rotate: false
+  xy: 419, 368
+  size: 136, 88
+  orig: 136, 88
+  offset: 0, 0
+  index: -1
+Diors/eye_1_Smile
+  rotate: true
+  xy: 675, 1089
+  size: 138, 88
+  orig: 138, 88
+  offset: 0, 0
+  index: -1
+Diors/eye_2_Firm
+  rotate: false
+  xy: 419, 548
+  size: 137, 88
+  orig: 137, 88
+  offset: 0, 0
+  index: -1
+Diors/eye_2_Normal_1
+  rotate: true
+  xy: 613, 778
+  size: 134, 88
+  orig: 134, 88
+  offset: 0, 0
+  index: -1
+Diors/eye_2_Normal_2
+  rotate: true
+  xy: 613, 642
+  size: 134, 88
+  orig: 134, 88
+  offset: 0, 0
+  index: -1
+Diors/eye_2_Normal_3
+  rotate: true
+  xy: 337, 98
+  size: 134, 88
+  orig: 134, 88
+  offset: 0, 0
+  index: -1
+Diors/face_1
+  rotate: false
+  xy: 768, 1269
+  size: 229, 280
+  orig: 229, 280
+  offset: 0, 0
+  index: -1
+Diors/hand_inner
+  rotate: true
+  xy: 2, 11
+  size: 199, 109
+  orig: 199, 109
+  offset: 0, 0
+  index: -1
+Diors/hand_out
+  rotate: false
+  xy: 581, 1050
+  size: 92, 177
+  orig: 92, 177
+  offset: 0, 0
+  index: -1
+Diors/jianjia_inner_1
+  rotate: false
+  xy: 1150, 1802
+  size: 468, 94
+  orig: 468, 94
+  offset: 0, 0
+  index: -1
+Diors/jianjia_inner_2
+  rotate: false
+  xy: 1150, 1701
+  size: 440, 99
+  orig: 440, 99
+  offset: 0, 0
+  index: -1
+Diors/jianjia_out_1
+  rotate: false
+  xy: 1150, 1898
+  size: 513, 148
+  orig: 513, 148
+  offset: 0, 0
+  index: -1
+Diors/jianjia_out_2
+  rotate: false
+  xy: 730, 1793
+  size: 418, 253
+  orig: 418, 253
+  offset: 0, 0
+  index: -1
+Diors/leg_inner
+  rotate: false
+  xy: 170, 380
+  size: 247, 320
+  orig: 247, 320
+  offset: 0, 0
+  index: -1
+Diors/leg_out
+  rotate: false
+  xy: 170, 702
+  size: 268, 330
+  orig: 268, 330
+  offset: 0, 0
+  index: -1
+Diors/lingzi_inner_1
+  rotate: true
+  xy: 999, 1256
+  size: 293, 125
+  orig: 293, 125
+  offset: 0, 0
+  index: -1
+Diors/lingzi_inner_2
+  rotate: false
+  xy: 201, 2
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+Diors/lingzi_out
+  rotate: true
+  xy: 576, 1229
+  size: 308, 190
+  orig: 308, 190
+  offset: 0, 0
+  index: -1
+Diors/mouth_1_Angry
+  rotate: true
+  xy: 1526, 1599
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+Diors/mouth_1_Battle_Mighty
+  rotate: true
+  xy: 1624, 1599
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+Diors/mouth_1_Battle_Weak
+  rotate: true
+  xy: 1592, 1701
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Diors/mouth_1_Normal_A
+  rotate: false
+  xy: 427, 78
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Diors/mouth_2_Normal_A
+  rotate: false
+  xy: 427, 78
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Diors/mouth_1_Normal_B
+  rotate: false
+  xy: 558, 541
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Diors/mouth_2_Normal_B
+  rotate: false
+  xy: 558, 541
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Diors/mouth_1_Normal_C
+  rotate: true
+  xy: 427, 175
+  size: 101, 96
+  orig: 101, 96
+  offset: 0, 0
+  index: -1
+Diors/mouth_1_Normal_D
+  rotate: false
+  xy: 1102, 1601
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+Diors/mouth_1_Sad
+  rotate: false
+  xy: 557, 340
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+Diors/mouth_1_Smile
+  rotate: false
+  xy: 1209, 1602
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+Diors/mouth_2_Firm
+  rotate: false
+  xy: 871, 1172
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Diors/mouth_2_Normal_C
+  rotate: true
+  xy: 557, 438
+  size: 101, 96
+  orig: 101, 96
+  offset: 0, 0
+  index: -1
+Diors/mouth_2_Normal_D
+  rotate: false
+  xy: 1317, 1601
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+Diors/mouth_2_Unhappy_A
+  rotate: false
+  xy: 1424, 1601
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+Diors/mouth_2_Unhappy_B
+  rotate: false
+  xy: 768, 1172
+  size: 101, 95
+  orig: 101, 95
+  offset: 0, 0
+  index: -1
+Diors/mouth_2_Unhappy_C
+  rotate: false
+  xy: 765, 1072
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+Diors/mouth_2_Unhappy_D
+  rotate: false
+  xy: 866, 1072
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+Diors/neck
+  rotate: true
+  xy: 170, 234
+  size: 144, 211
+  orig: 144, 211
+  offset: 0, 0
+  index: -1
+Diors/shipin_inner
+  rotate: true
+  xy: 1102, 1710
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Diors/shipin_out
+  rotate: false
+  xy: 113, 15
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+Diors/weapon_1
+  rotate: false
+  xy: 2, 1060
+  size: 170, 986
+  orig: 170, 986
+  offset: 0, 0
+  index: -1
+Diors/weapon_2
+  rotate: true
+  xy: 2, 212
+  size: 846, 166
+  orig: 846, 166
+  offset: 0, 0
+  index: -1

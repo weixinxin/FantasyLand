@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<BuffEmitter ID="600001" AoeFilter="0" Buffs="400001|400002"/>
+	<BuffEmitter ID="600002" AoeFilter="1" Buffs="400002"/>
+	<BuffEmitter ID="600003" AoeFilter="1" Buffs="400003"/>
+	<BuffEmitter ID="600004" AoeFilter="1" Buffs="400004"/>
+</root>

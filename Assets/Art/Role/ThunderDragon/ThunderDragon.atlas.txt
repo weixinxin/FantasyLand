@@ -1,0 +1,251 @@
+
+ThunderDragon.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fafnir/Fafnir/LandShadow
+  rotate: true
+  xy: 1700, 1615
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Fafnir/Fafnir/Light
+  rotate: false
+  xy: 732, 1123
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_armoutdown
+  rotate: true
+  xy: 1462, 723
+  size: 140, 263
+  orig: 140, 263
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_armoutup
+  rotate: false
+  xy: 1087, 796
+  size: 373, 373
+  orig: 373, 373
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_handinner
+  rotate: true
+  xy: 1615, 485
+  size: 236, 192
+  orig: 236, 192
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_handout
+  rotate: true
+  xy: 1795, 1172
+  size: 256, 193
+  orig: 256, 193
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_head
+  rotate: true
+  xy: 732, 1171
+  size: 488, 414
+  orig: 488, 414
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_innerdown
+  rotate: false
+  xy: 1751, 956
+  size: 140, 207
+  orig: 140, 207
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_innerup
+  rotate: false
+  xy: 1568, 1165
+  size: 225, 448
+  orig: 225, 448
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_jawbone
+  rotate: false
+  xy: 857, 41
+  size: 340, 307
+  orig: 340, 307
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_jawbone1
+  rotate: false
+  xy: 1087, 748
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_jawbone2
+  rotate: false
+  xy: 2013, 1649
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_leginner
+  rotate: false
+  xy: 857, 350
+  size: 270, 377
+  orig: 270, 377
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_legout1
+  rotate: true
+  xy: 1199, 179
+  size: 269, 168
+  orig: 269, 168
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_legoutdown
+  rotate: false
+  xy: 1405, 489
+  size: 208, 232
+  orig: 208, 232
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_legoutup
+  rotate: false
+  xy: 1462, 865
+  size: 287, 298
+  orig: 287, 298
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_neck1
+  rotate: true
+  xy: 1700, 1691
+  size: 355, 346
+  orig: 355, 346
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_neck2
+  rotate: true
+  xy: 1129, 450
+  size: 344, 274
+  orig: 344, 274
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_neck3
+  rotate: false
+  xy: 1795, 1430
+  size: 216, 259
+  orig: 216, 259
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_weiba1
+  rotate: true
+  xy: 489, 566
+  size: 467, 302
+  orig: 467, 302
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_weiba2
+  rotate: true
+  xy: 793, 729
+  size: 440, 292
+  orig: 440, 292
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_weiba3
+  rotate: false
+  xy: 469, 134
+  size: 386, 430
+  orig: 386, 430
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_winginner
+  rotate: false
+  xy: 633, 1661
+  size: 568, 385
+  orig: 568, 385
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_winginner1
+  rotate: false
+  xy: 1148, 1178
+  size: 418, 435
+  orig: 418, 435
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_winginner2
+  rotate: true
+  xy: 490, 1035
+  size: 598, 240
+  orig: 598, 240
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_wingout
+  rotate: false
+  xy: 1203, 1615
+  size: 495, 431
+  orig: 495, 431
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_wingout1
+  rotate: true
+  xy: 2, 37
+  size: 530, 465
+  orig: 530, 465
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Dragon_wingout2
+  rotate: false
+  xy: 2, 1635
+  size: 629, 411
+  orig: 629, 411
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Eyelid01
+  rotate: false
+  xy: 793, 697
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Eyelid02
+  rotate: false
+  xy: 1148, 1628
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/Eyelid03
+  rotate: false
+  xy: 469, 55
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/body
+  rotate: false
+  xy: 2, 1090
+  size: 486, 543
+  orig: 486, 543
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/body1
+  rotate: false
+  xy: 2, 569
+  size: 485, 519
+  orig: 485, 519
+  offset: 0, 0
+  index: -1
+Fafnir/ThunderDragon/body2
+  rotate: false
+  xy: 1199, 2
+  size: 87, 175
+  orig: 87, 175
+  offset: 0, 0
+  index: -1
+Fafnir/dd
+  rotate: false
+  xy: 2042, 1685
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

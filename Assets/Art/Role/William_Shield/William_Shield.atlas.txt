@@ -1,0 +1,216 @@
+
+William_Shield.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 157, 347
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+William/William_king_3/arminnerdown
+  rotate: true
+  xy: 485, 402
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+William/William_king_3/arminnerup
+  rotate: false
+  xy: 125, 84
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+William/William_king_3/armoutdown
+  rotate: false
+  xy: 126, 13
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+William/William_king_3/armoutup
+  rotate: false
+  xy: 126, 41
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+William/William_king_3/body
+  rotate: false
+  xy: 312, 425
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+William/William_king_3/eyebrow
+  rotate: true
+  xy: 139, 278
+  size: 76, 15
+  orig: 76, 15
+  offset: 0, 0
+  index: -1
+William/William_king_3/eyehard
+  rotate: true
+  xy: 125, 127
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+William/William_king_3/eyehard1
+  rotate: true
+  xy: 139, 212
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+William/William_king_3/eyehard2
+  rotate: true
+  xy: 117, 17
+  size: 64, 7
+  orig: 64, 7
+  offset: 0, 0
+  index: -1
+William/William_king_3/eyehard3
+  rotate: false
+  xy: 443, 430
+  size: 65, 8
+  orig: 65, 8
+  offset: 0, 0
+  index: -1
+William/William_king_3/eyesffuer
+  rotate: true
+  xy: 85, 10
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+William/William_king_3/eyeyun
+  rotate: false
+  xy: 312, 393
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+William/William_king_3/face
+  rotate: false
+  xy: 2, 356
+  size: 153, 154
+  orig: 153, 154
+  offset: 0, 0
+  index: -1
+William/William_king_3/hair1
+  rotate: false
+  xy: 85, 83
+  size: 38, 108
+  orig: 38, 108
+  offset: 0, 0
+  index: -1
+William/William_king_3/hair2
+  rotate: false
+  xy: 256, 389
+  size: 54, 121
+  orig: 54, 121
+  offset: 0, 0
+  index: -1
+William/William_king_3/handinner
+  rotate: false
+  xy: 233, 348
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+William/William_king_3/handout
+  rotate: false
+  xy: 325, 370
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+William/William_king_3/handout1
+  rotate: true
+  xy: 301, 364
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+William/William_king_3/hudang
+  rotate: false
+  xy: 381, 430
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+William/William_king_3/jianjiainner
+  rotate: false
+  xy: 156, 286
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+William/William_king_3/jianjiaout
+  rotate: true
+  xy: 443, 440
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+William/William_king_3/leginnerdown
+  rotate: false
+  xy: 207, 297
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+William/William_king_3/leginnerup
+  rotate: true
+  xy: 436, 401
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+William/William_king_3/legoutdown
+  rotate: true
+  xy: 256, 359
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+William/William_king_3/legoutup
+  rotate: true
+  xy: 385, 398
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+William/William_king_3/mouth01
+  rotate: false
+  xy: 256, 341
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+William/William_king_3/pifeng
+  rotate: true
+  xy: 2, 193
+  size: 161, 135
+  orig: 161, 135
+  offset: 0, 0
+  index: -1
+William/William_king_3/weapon1
+  rotate: true
+  xy: 2, 2
+  size: 189, 81
+  orig: 189, 81
+  offset: 0, 0
+  index: -1
+William/William_king_3/weapon2
+  rotate: false
+  xy: 157, 374
+  size: 97, 136
+  orig: 97, 136
+  offset: 0, 0
+  index: -1

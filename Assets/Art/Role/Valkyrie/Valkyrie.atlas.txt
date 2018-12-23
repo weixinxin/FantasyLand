@@ -1,0 +1,293 @@
+
+Valkyrie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 646, 162
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Valkyrie/Lighting1
+  rotate: false
+  xy: 2, 57
+  size: 89, 308
+  orig: 89, 308
+  offset: 0, 0
+  index: -1
+Valkyrie/Lighting2
+  rotate: true
+  xy: 354, 402
+  size: 89, 308
+  orig: 89, 308
+  offset: 0, 0
+  index: -1
+Valkyrie/Lighting3
+  rotate: false
+  xy: 93, 57
+  size: 89, 308
+  orig: 89, 308
+  offset: 0, 0
+  index: -1
+Valkyrie/arminnerdown
+  rotate: false
+  xy: 140, 2
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+Valkyrie/arminnerup
+  rotate: false
+  xy: 341, 94
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+Valkyrie/armoutdown
+  rotate: false
+  xy: 341, 34
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+Valkyrie/armoutup
+  rotate: true
+  xy: 381, 29
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+Valkyrie/body
+  rotate: false
+  xy: 674, 261
+  size: 92, 163
+  orig: 92, 163
+  offset: 0, 0
+  index: -1
+Valkyrie/eyebrow
+  rotate: true
+  xy: 1011, 374
+  size: 41, 11
+  orig: 41, 11
+  offset: 0, 0
+  index: -1
+Valkyrie/eyehard
+  rotate: false
+  xy: 815, 316
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+Valkyrie/eyesffuer
+  rotate: true
+  xy: 354, 367
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+Valkyrie/eyeyun
+  rotate: false
+  xy: 341, 16
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+Valkyrie/face
+  rotate: false
+  xy: 815, 330
+  size: 87, 97
+  orig: 87, 97
+  offset: 0, 0
+  index: -1
+Valkyrie/footinner
+  rotate: false
+  xy: 516, 92
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Valkyrie/footout
+  rotate: false
+  xy: 768, 263
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Valkyrie/hair1
+  rotate: false
+  xy: 946, 332
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Valkyrie/hair2
+  rotate: false
+  xy: 589, 97
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Valkyrie/hair3
+  rotate: false
+  xy: 381, 82
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+Valkyrie/hair4
+  rotate: true
+  xy: 674, 241
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+Valkyrie/hair5
+  rotate: true
+  xy: 904, 332
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Valkyrie/hairinner
+  rotate: true
+  xy: 184, 13
+  size: 154, 155
+  orig: 154, 155
+  offset: 0, 0
+  index: -1
+Valkyrie/handinnerdown
+  rotate: false
+  xy: 646, 130
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Valkyrie/handout
+  rotate: false
+  xy: 556, 93
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Valkyrie/hatout
+  rotate: false
+  xy: 519, 131
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+Valkyrie/jianjiainner
+  rotate: true
+  xy: 449, 85
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+Valkyrie/jianjiaout
+  rotate: true
+  xy: 926, 417
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+Valkyrie/leginnerdown1
+  rotate: true
+  xy: 2, 4
+  size: 51, 136
+  orig: 51, 136
+  offset: 0, 0
+  index: -1
+Valkyrie/leginnerup
+  rotate: false
+  xy: 768, 313
+  size: 45, 111
+  orig: 45, 111
+  offset: 0, 0
+  index: -1
+Valkyrie/legoutdown2
+  rotate: true
+  xy: 664, 426
+  size: 65, 144
+  orig: 65, 144
+  offset: 0, 0
+  index: -1
+Valkyrie/legoutup
+  rotate: true
+  xy: 810, 429
+  size: 62, 114
+  orig: 62, 114
+  offset: 0, 0
+  index: -1
+Valkyrie/mouth01
+  rotate: false
+  xy: 904, 422
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+Valkyrie/mouth02
+  rotate: false
+  xy: 1011, 357
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Valkyrie/mouth03
+  rotate: false
+  xy: 1011, 365
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Valkyrie/mouth04
+  rotate: true
+  xy: 664, 410
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+Valkyrie/qq
+  rotate: true
+  xy: 184, 169
+  size: 196, 195
+  orig: 196, 195
+  offset: 0, 0
+  index: -1
+Valkyrie/weapon
+  rotate: false
+  xy: 2, 367
+  size: 350, 124
+  orig: 350, 124
+  offset: 0, 0
+  index: -1
+Valkyrie/weapon1
+  rotate: false
+  xy: 381, 242
+  size: 157, 158
+  orig: 157, 158
+  offset: 0, 0
+  index: -1
+Valkyrie/yaodai
+  rotate: false
+  xy: 904, 357
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+Valkyrie/yibai
+  rotate: true
+  xy: 540, 238
+  size: 162, 132
+  orig: 162, 132
+  offset: 0, 0
+  index: -1
+Valkyrie/yibaiinner
+  rotate: true
+  xy: 381, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1

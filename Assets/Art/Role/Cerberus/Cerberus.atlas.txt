@@ -1,0 +1,83 @@
+
+Cerberus.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cerberus_body
+  rotate: false
+  xy: 2, 196
+  size: 400, 294
+  orig: 400, 294
+  offset: 0, 0
+  index: -1
+Cerberus_ear_in
+  rotate: false
+  xy: 2, 2
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+Cerberus_ear_out
+  rotate: false
+  xy: 700, 179
+  size: 99, 105
+  orig: 99, 105
+  offset: 0, 0
+  index: -1
+Cerberus_eye
+  rotate: false
+  xy: 258, 134
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+Cerberus_eyelid_1
+  rotate: false
+  xy: 843, 333
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+Cerberus_eyelid_2
+  rotate: false
+  xy: 700, 139
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Cerberus_head
+  rotate: true
+  xy: 404, 30
+  size: 254, 294
+  orig: 254, 294
+  offset: 0, 0
+  index: -1
+Cerberus_leg_in
+  rotate: true
+  xy: 2, 84
+  size: 110, 254
+  orig: 110, 254
+  offset: 0, 0
+  index: -1
+Cerberus_leg_out
+  rotate: true
+  xy: 404, 286
+  size: 204, 437
+  orig: 204, 437
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 999, 485
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 843, 376
+  size: 154, 114
+  orig: 154, 114
+  offset: 0, 0
+  index: -1

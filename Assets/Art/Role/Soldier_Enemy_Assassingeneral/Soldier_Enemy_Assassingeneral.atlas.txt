@@ -1,0 +1,384 @@
+
+Soldier_Enemy_Assassingeneral.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 426, 361
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/body
+  rotate: false
+  xy: 449, 438
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/hatout
+  rotate: false
+  xy: 2, 356
+  size: 178, 154
+  orig: 178, 154
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/hatoutinner
+  rotate: true
+  xy: 425, 301
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/jianjiainner
+  rotate: false
+  xy: 479, 269
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/jianjiaout
+  rotate: true
+  xy: 378, 289
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/leginnerdown
+  rotate: false
+  xy: 151, 2
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/legoutdown
+  rotate: false
+  xy: 388, 204
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/pidai
+  rotate: true
+  xy: 230, 135
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/qunzi
+  rotate: true
+  xy: 466, 365
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/weapon1
+  rotate: false
+  xy: 182, 291
+  size: 194, 66
+  orig: 194, 66
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/weijin2
+  rotate: false
+  xy: 351, 437
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/AssassinHigh/yaojiaout
+  rotate: false
+  xy: 225, 6
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/arminnerdown
+  rotate: true
+  xy: 309, 126
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/arminnerup
+  rotate: false
+  xy: 257, 8
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/armoutdown
+  rotate: false
+  xy: 323, 89
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/body
+  rotate: true
+  xy: 256, 192
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/handinner
+  rotate: false
+  xy: 400, 178
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/handout
+  rotate: false
+  xy: 482, 340
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/hatout
+  rotate: false
+  xy: 2, 51
+  size: 166, 147
+  orig: 166, 147
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/qunzi
+  rotate: false
+  xy: 323, 207
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+Soldier_Assassingeneral/weapon
+  rotate: false
+  xy: 2, 11
+  size: 147, 38
+  orig: 147, 38
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/Enemy_AssassinHigh/body
+  rotate: true
+  xy: 182, 195
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/Enemy_AssassinHigh/hatout
+  rotate: false
+  xy: 2, 200
+  size: 178, 154
+  orig: 178, 154
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/Enemy_AssassinHigh/jianjiainner
+  rotate: false
+  xy: 479, 237
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/Enemy_AssassinHigh/jianjiaout
+  rotate: true
+  xy: 170, 51
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/Enemy_AssassinHigh/leginnerdown
+  rotate: false
+  xy: 188, 2
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/Enemy_AssassinHigh/legoutdown
+  rotate: false
+  xy: 254, 79
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/Enemy_AssassinHigh/yaojiaout
+  rotate: false
+  xy: 291, 81
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/arminnerdown
+  rotate: false
+  xy: 255, 51
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/arminnerup
+  rotate: true
+  xy: 323, 172
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/armoutdown
+  rotate: false
+  xy: 425, 205
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/armoutup
+  rotate: false
+  xy: 217, 51
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/body
+  rotate: false
+  xy: 170, 128
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/handinner
+  rotate: false
+  xy: 425, 179
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/handout
+  rotate: false
+  xy: 367, 147
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/hatout
+  rotate: false
+  xy: 182, 359
+  size: 167, 151
+  orig: 167, 151
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/leginnerdown
+  rotate: false
+  xy: 217, 79
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/leginnerup
+  rotate: true
+  xy: 457, 203
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/legoutdown
+  rotate: true
+  xy: 378, 251
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/legoutup
+  rotate: true
+  xy: 366, 173
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/maoziinner
+  rotate: false
+  xy: 328, 243
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/pidai
+  rotate: false
+  xy: 254, 126
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/pijianout
+  rotate: false
+  xy: 426, 266
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/qunzi
+  rotate: false
+  xy: 254, 158
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_Assassingeneral/weapon
+  rotate: false
+  xy: 182, 252
+  size: 144, 37
+  orig: 144, 37
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 506, 506
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+eyehard
+  rotate: false
+  xy: 426, 242
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: true
+  xy: 482, 302
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: true
+  xy: 336, 134
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 351, 366
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 2, 2
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+mouth03
+  rotate: false
+  xy: 492, 226
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+mouth04
+  rotate: false
+  xy: 336, 126
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1

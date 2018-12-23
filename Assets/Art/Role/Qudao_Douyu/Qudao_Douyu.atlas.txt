@@ -1,0 +1,195 @@
+
+Qudao_Douyu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 472, 436
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/body
+  rotate: false
+  xy: 274, 334
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/eyebrow
+  rotate: true
+  xy: 170, 280
+  size: 83, 20
+  orig: 83, 20
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/eyehard
+  rotate: true
+  xy: 170, 201
+  size: 77, 24
+  orig: 77, 24
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/eyesffuer
+  rotate: true
+  xy: 438, 429
+  size: 81, 32
+  orig: 81, 32
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/eyeyun
+  rotate: false
+  xy: 192, 291
+  size: 81, 32
+  orig: 81, 32
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/face
+  rotate: false
+  xy: 2, 201
+  size: 166, 162
+  orig: 166, 162
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/hair
+  rotate: false
+  xy: 345, 417
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/handinner
+  rotate: false
+  xy: 196, 229
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/handout
+  rotate: true
+  xy: 107, 81
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/handout1
+  rotate: true
+  xy: 275, 291
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/hat1
+  rotate: false
+  xy: 107, 117
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/hatout
+  rotate: false
+  xy: 2, 365
+  size: 188, 145
+  orig: 188, 145
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/jianjiainner
+  rotate: true
+  xy: 95, 9
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/jianjiaout
+  rotate: true
+  xy: 244, 226
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/leginnerdown
+  rotate: false
+  xy: 321, 366
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/leginnerup
+  rotate: true
+  xy: 196, 195
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/legoutdown
+  rotate: false
+  xy: 169, 158
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/legoutup
+  rotate: false
+  xy: 95, 38
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/mouth01
+  rotate: true
+  xy: 160, 93
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/toushi
+  rotate: false
+  xy: 192, 325
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/weapon
+  rotate: false
+  xy: 192, 403
+  size: 151, 107
+  orig: 151, 107
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/weiba
+  rotate: true
+  xy: 2, 11
+  size: 74, 91
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/weiba1
+  rotate: false
+  xy: 2, 87
+  size: 103, 112
+  orig: 103, 112
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Douyu/yaodai
+  rotate: true
+  xy: 288, 227
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 141, 59
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 472, 408
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

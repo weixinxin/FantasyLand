@@ -1,0 +1,153 @@
+
+Faber_Bishop.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Faber/Faber_Bishop_2/body
+  rotate: false
+  xy: 121, 332
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/daiziinner
+  rotate: false
+  xy: 2, 30
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/daiziinner1
+  rotate: false
+  xy: 398, 443
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/daiziout
+  rotate: true
+  xy: 249, 440
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/daiziout1
+  rotate: false
+  xy: 2, 9
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/eyebrow
+  rotate: true
+  xy: 102, 219
+  size: 74, 14
+  orig: 74, 14
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/eyehard
+  rotate: true
+  xy: 223, 373
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/eyehard1
+  rotate: true
+  xy: 75, 44
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/eyehard2
+  rotate: false
+  xy: 334, 444
+  size: 62, 11
+  orig: 62, 11
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/eyehard3
+  rotate: true
+  xy: 501, 449
+  size: 61, 9
+  orig: 61, 9
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/eyesffuer
+  rotate: false
+  xy: 425, 479
+  size: 74, 31
+  orig: 74, 31
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/eyeyun
+  rotate: true
+  xy: 43, 32
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/handinner
+  rotate: true
+  xy: 102, 169
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/handinner1
+  rotate: false
+  xy: 102, 145
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/hatout
+  rotate: false
+  xy: 2, 295
+  size: 117, 140
+  orig: 117, 140
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/pifeng
+  rotate: true
+  xy: 334, 457
+  size: 53, 89
+  orig: 53, 89
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/pifenginner
+  rotate: true
+  xy: 121, 306
+  size: 24, 97
+  orig: 24, 97
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/pifengout
+  rotate: false
+  xy: 2, 160
+  size: 98, 133
+  orig: 98, 133
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/weapon
+  rotate: false
+  xy: 2, 437
+  size: 245, 73
+  orig: 245, 73
+  offset: 0, 0
+  index: -1
+Faber/Faber_Bishop_2/weijin
+  rotate: false
+  xy: 2, 108
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 425, 452
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

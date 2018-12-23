@@ -1,0 +1,237 @@
+
+Zelute_Spear.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bargas/Bargas_Spear/Bargas_General_2/hudang
+  rotate: true
+  xy: 329, 380
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/leginnerdown
+  rotate: false
+  xy: 119, 21
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/legoutdown
+  rotate: true
+  xy: 182, 212
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/pifeng
+  rotate: false
+  xy: 2, 279
+  size: 179, 144
+  orig: 179, 144
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/weapon
+  rotate: false
+  xy: 2, 425
+  size: 442, 85
+  orig: 442, 85
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/yaojiainner
+  rotate: false
+  xy: 219, 166
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/yaojiaout
+  rotate: true
+  xy: 2, 2
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/arminnerdown
+  rotate: false
+  xy: 185, 120
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/arminnerup
+  rotate: true
+  xy: 73, 65
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/armoutdown
+  rotate: false
+  xy: 185, 163
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/armoutup
+  rotate: true
+  xy: 390, 379
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/body
+  rotate: false
+  xy: 183, 317
+  size: 74, 106
+  orig: 74, 106
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/handinner
+  rotate: true
+  xy: 240, 179
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/handout
+  rotate: true
+  xy: 229, 212
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/leginnerup
+  rotate: true
+  xy: 259, 324
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/legoutup
+  rotate: true
+  xy: 446, 459
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 155, 203
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zelute/Zelute_Spear/Zelute_General_1/jianjiainner
+  rotate: false
+  xy: 259, 370
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+Zelute/Zelute_Spear/Zelute_General_1/jianjiaout
+  rotate: false
+  xy: 2, 41
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+Zelute/eyebrow
+  rotate: false
+  xy: 183, 270
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+Zelute/eyehard
+  rotate: false
+  xy: 446, 437
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+Zelute/eyehard1
+  rotate: false
+  xy: 446, 415
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+Zelute/eyehard2
+  rotate: false
+  xy: 182, 248
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+Zelute/eyehard3
+  rotate: false
+  xy: 329, 371
+  size: 59, 7
+  orig: 59, 7
+  offset: 0, 0
+  index: -1
+Zelute/eyesffuer
+  rotate: false
+  xy: 183, 286
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Zelute/eyeyun
+  rotate: true
+  xy: 155, 133
+  size: 68, 28
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+Zelute/face
+  rotate: false
+  xy: 2, 106
+  size: 151, 171
+  orig: 151, 171
+  offset: 0, 0
+  index: -1
+Zelute/hair1
+  rotate: true
+  xy: 444, 381
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+Zelute/hair2
+  rotate: false
+  xy: 73, 2
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+Zelute/mouth01
+  rotate: true
+  xy: 248, 248
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Zelute/mouth02
+  rotate: false
+  xy: 52, 24
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Zelute/mouth03
+  rotate: true
+  xy: 119, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Zelute/mouth04
+  rotate: false
+  xy: 52, 16
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1

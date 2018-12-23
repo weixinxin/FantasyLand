@@ -1,0 +1,160 @@
+
+Demon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Demon/Demon/arminnerdown
+  rotate: true
+  xy: 2, 2
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+Demon/Demon/arminnerup
+  rotate: false
+  xy: 872, 431
+  size: 88, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+Demon/Demon/armoutdown
+  rotate: false
+  xy: 652, 409
+  size: 127, 101
+  orig: 127, 101
+  offset: 0, 0
+  index: -1
+Demon/Demon/armoutup
+  rotate: false
+  xy: 781, 412
+  size: 89, 98
+  orig: 89, 98
+  offset: 0, 0
+  index: -1
+Demon/Demon/body
+  rotate: false
+  xy: 193, 81
+  size: 120, 186
+  orig: 120, 186
+  offset: 0, 0
+  index: -1
+Demon/Demon/handinner
+  rotate: false
+  xy: 652, 340
+  size: 88, 67
+  orig: 88, 67
+  offset: 0, 0
+  index: -1
+Demon/Demon/handout
+  rotate: false
+  xy: 962, 453
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+Demon/Demon/head
+  rotate: false
+  xy: 2, 70
+  size: 189, 197
+  orig: 189, 197
+  offset: 0, 0
+  index: -1
+Demon/Demon/hudang
+  rotate: false
+  xy: 315, 90
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+Demon/Demon/leginner
+  rotate: false
+  xy: 742, 371
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Demon/Demon/leginnerdown
+  rotate: false
+  xy: 120, 28
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+Demon/Demon/leginnerup
+  rotate: false
+  xy: 652, 266
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+Demon/Demon/legout
+  rotate: false
+  xy: 781, 373
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Demon/Demon/legoutdown
+  rotate: false
+  xy: 72, 2
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+Demon/Demon/legoutup
+  rotate: false
+  xy: 581, 274
+  size: 69, 82
+  orig: 69, 82
+  offset: 0, 0
+  index: -1
+Demon/Demon/mouth
+  rotate: true
+  xy: 439, 216
+  size: 78, 103
+  orig: 78, 103
+  offset: 0, 0
+  index: -1
+Demon/Demon/shipin
+  rotate: false
+  xy: 439, 195
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+Demon/Demon/weapon
+  rotate: false
+  xy: 2, 269
+  size: 435, 241
+  orig: 435, 241
+  offset: 0, 0
+  index: -1
+Demon/Demon/weiba
+  rotate: false
+  xy: 439, 358
+  size: 211, 152
+  orig: 211, 152
+  offset: 0, 0
+  index: -1
+Demon/Demon/winginner
+  rotate: false
+  xy: 315, 192
+  size: 122, 75
+  orig: 122, 75
+  offset: 0, 0
+  index: -1
+Demon/Demon/wingout
+  rotate: false
+  xy: 439, 296
+  size: 140, 60
+  orig: 140, 60
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 396, 116
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

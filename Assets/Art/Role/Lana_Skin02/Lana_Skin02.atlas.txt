@@ -1,0 +1,307 @@
+
+Lana_Skin02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 134, 150
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+arminner1
+  rotate: true
+  xy: 292, 458
+  size: 52, 98
+  orig: 52, 98
+  offset: 0, 0
+  index: -1
+arminner2
+  rotate: false
+  xy: 242, 235
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+armout1
+  rotate: true
+  xy: 134, 177
+  size: 46, 73
+  orig: 46, 73
+  offset: 0, 0
+  index: -1
+armout2
+  rotate: false
+  xy: 304, 251
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 303, 297
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 131, 84
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+eyehard
+  rotate: true
+  xy: 353, 297
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+eyehard1
+  rotate: false
+  xy: 131, 122
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+eyehard2
+  rotate: true
+  xy: 366, 382
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+eyehard3
+  rotate: false
+  xy: 131, 95
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: true
+  xy: 95, 159
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: true
+  xy: 95, 80
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 130, 369
+  size: 112, 90
+  orig: 112, 90
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 392, 427
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 492, 428
+  size: 18, 82
+  orig: 18, 82
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 392, 385
+  size: 40, 94
+  orig: 40, 94
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 92, 2
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 134, 24
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: false
+  xy: 304, 225
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+hair7
+  rotate: false
+  xy: 217, 214
+  size: 23, 72
+  orig: 23, 72
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 2, 343
+  size: 126, 167
+  orig: 126, 167
+  offset: 0, 0
+  index: -1
+hairback1
+  rotate: false
+  xy: 91, 236
+  size: 42, 105
+  orig: 42, 105
+  offset: 0, 0
+  index: -1
+hairback2
+  rotate: false
+  xy: 2, 219
+  size: 87, 122
+  orig: 87, 122
+  offset: 0, 0
+  index: -1
+handinner1
+  rotate: false
+  xy: 134, 2
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+handout
+  rotate: true
+  xy: 242, 216
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+leginenrup
+  rotate: true
+  xy: 209, 183
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+leginnerdown
+  rotate: true
+  xy: 210, 156
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: false
+  xy: 341, 252
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: false
+  xy: 161, 32
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 2, 3
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 492, 410
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+mouth03
+  rotate: true
+  xy: 265, 216
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 2, 12
+  size: 94, 88
+  orig: 94, 88
+  offset: 0, 0
+  index: -1
+qunziinner
+  rotate: false
+  xy: 291, 374
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+qunziout
+  rotate: true
+  xy: 2, 108
+  size: 109, 91
+  orig: 109, 91
+  offset: 0, 0
+  index: -1
+shipin
+  rotate: false
+  xy: 210, 288
+  size: 28, 79
+  orig: 28, 79
+  offset: 0, 0
+  index: -1
+shipin1
+  rotate: true
+  xy: 135, 225
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 240, 290
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+toushi1
+  rotate: false
+  xy: 274, 233
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+toushi2
+  rotate: false
+  xy: 135, 288
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+toushi3
+  rotate: false
+  xy: 130, 461
+  size: 160, 49
+  orig: 160, 49
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 244, 367
+  size: 92, 45
+  orig: 92, 45
+  offset: 0, 0
+  index: -1

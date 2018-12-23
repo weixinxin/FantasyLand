@@ -1,0 +1,342 @@
+
+Selia_Magic.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leafani/Leafani_Magic/Leafani_ArcMage_2/pifeng2
+  rotate: true
+  xy: 140, 305
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_ArcMage_2/pifenginner
+  rotate: false
+  xy: 296, 386
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_ArcMage_2/pifengout
+  rotate: false
+  xy: 111, 209
+  size: 49, 88
+  orig: 49, 88
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_ArcMage_2/weapon
+  rotate: false
+  xy: 2, 468
+  size: 245, 42
+  orig: 245, 42
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/weapon
+  rotate: false
+  xy: 2, 428
+  size: 227, 38
+  orig: 227, 38
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_ArcMage_2/arminner1
+  rotate: false
+  xy: 447, 431
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_ArcMage_2/arminner2
+  rotate: true
+  xy: 223, 223
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_ArcMage_2/armout1
+  rotate: true
+  xy: 231, 439
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_ArcMage_2/armout2
+  rotate: false
+  xy: 251, 309
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_ArcMage_2/body
+  rotate: false
+  xy: 125, 70
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_ArcMage_2/hudang
+  rotate: false
+  xy: 125, 4
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_ArcMage_2/jianjiainner
+  rotate: true
+  xy: 287, 327
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_ArcMage_2/jianjiaout
+  rotate: true
+  xy: 219, 175
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/arminner1
+  rotate: true
+  xy: 339, 356
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/arminner2
+  rotate: true
+  xy: 194, 127
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/armout1
+  rotate: false
+  xy: 392, 361
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/armout2
+  rotate: true
+  xy: 300, 353
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/body
+  rotate: false
+  xy: 248, 380
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/handinner1
+  rotate: true
+  xy: 194, 93
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/handout
+  rotate: false
+  xy: 364, 356
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/hudang
+  rotate: false
+  xy: 157, 4
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/leginnerdown
+  rotate: false
+  xy: 223, 261
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/leginnerup
+  rotate: false
+  xy: 184, 160
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/legoutdown
+  rotate: false
+  xy: 220, 305
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/legoutup
+  rotate: true
+  xy: 248, 349
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/qunbaiinner
+  rotate: false
+  xy: 476, 447
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+Selia/Selia_Magic/Selia_Magician_1/yaojia
+  rotate: true
+  xy: 476, 433
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+Selia/dd
+  rotate: false
+  xy: 140, 299
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Selia/eyebrow
+  rotate: true
+  xy: 184, 79
+  size: 79, 8
+  orig: 79, 8
+  offset: 0, 0
+  index: -1
+Selia/eyehard
+  rotate: true
+  xy: 343, 384
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Selia/eyehard1
+  rotate: false
+  xy: 366, 377
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Selia/eyehard2
+  rotate: false
+  xy: 162, 203
+  size: 72, 18
+  orig: 72, 18
+  offset: 0, 0
+  index: -1
+Selia/eyehard3
+  rotate: true
+  xy: 173, 83
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+Selia/eyesffuer
+  rotate: true
+  xy: 220, 347
+  size: 79, 26
+  orig: 79, 26
+  offset: 0, 0
+  index: -1
+Selia/eyeyun
+  rotate: false
+  xy: 366, 427
+  size: 79, 25
+  orig: 79, 25
+  offset: 0, 0
+  index: -1
+Selia/face
+  rotate: false
+  xy: 2, 299
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1
+Selia/hair1
+  rotate: true
+  xy: 366, 454
+  size: 56, 108
+  orig: 56, 108
+  offset: 0, 0
+  index: -1
+Selia/hair2
+  rotate: false
+  xy: 157, 148
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Selia/hair3
+  rotate: false
+  xy: 162, 223
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+Selia/hair4
+  rotate: false
+  xy: 2, 144
+  size: 107, 153
+  orig: 107, 153
+  offset: 0, 0
+  index: -1
+Selia/hair5
+  rotate: false
+  xy: 111, 148
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+Selia/hair6
+  rotate: true
+  xy: 249, 458
+  size: 52, 115
+  orig: 52, 115
+  offset: 0, 0
+  index: -1
+Selia/hairinner
+  rotate: false
+  xy: 2, 5
+  size: 121, 137
+  orig: 121, 137
+  offset: 0, 0
+  index: -1
+Selia/mouth01
+  rotate: false
+  xy: 231, 432
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Selia/mouth02
+  rotate: false
+  xy: 236, 207
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Selia/mouth03
+  rotate: true
+  xy: 219, 160
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Selia/mouth04
+  rotate: true
+  xy: 507, 429
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 366, 400
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

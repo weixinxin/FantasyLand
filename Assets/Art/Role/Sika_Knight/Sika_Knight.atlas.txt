@@ -1,0 +1,265 @@
+
+Sika_Knight.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mount/AnimalBone/AnimalBone_Neckguard
+  rotate: true
+  xy: 121, 11
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_backleginner
+  rotate: false
+  xy: 328, 2
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_backleginner1
+  rotate: false
+  xy: 192, 4
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_backleginner2
+  rotate: true
+  xy: 444, 223
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_backleginner3
+  rotate: true
+  xy: 357, 158
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_backlegout
+  rotate: false
+  xy: 414, 221
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_backlegout1
+  rotate: false
+  xy: 247, 82
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_backlegout2
+  rotate: true
+  xy: 444, 256
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_backlegout3
+  rotate: true
+  xy: 445, 171
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_body
+  rotate: true
+  xy: 2, 81
+  size: 183, 113
+  orig: 183, 113
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_frontleginner
+  rotate: true
+  xy: 303, 118
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_frontleginner1
+  rotate: true
+  xy: 117, 94
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_frontleginner2
+  rotate: false
+  xy: 352, 123
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_frontlegout
+  rotate: true
+  xy: 298, 173
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_frontlegout1
+  rotate: false
+  xy: 2, 9
+  size: 117, 70
+  orig: 117, 70
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_frontlegout2
+  rotate: false
+  xy: 408, 180
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_head
+  rotate: false
+  xy: 184, 240
+  size: 152, 140
+  orig: 152, 140
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_jawbone
+  rotate: false
+  xy: 338, 270
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_saddle
+  rotate: false
+  xy: 183, 147
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+Mount/AnimalBone/AnimalBone_weiba
+  rotate: true
+  xy: 357, 178
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+Pike
+  rotate: false
+  xy: 184, 382
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 338, 243
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sika_Knight/arminnerup
+  rotate: true
+  xy: 297, 48
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Sika_Knight/armoutup
+  rotate: true
+  xy: 303, 76
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+Sika_Knight/body
+  rotate: false
+  xy: 450, 362
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+Sika_Knight/eyeyun
+  rotate: false
+  xy: 177, 98
+  size: 68, 20
+  orig: 68, 20
+  offset: 0, 0
+  index: -1
+Sika_Knight/handinner
+  rotate: false
+  xy: 445, 192
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Sika_Knight/handout
+  rotate: true
+  xy: 241, 48
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+Sika_Knight/hatout
+  rotate: false
+  xy: 2, 266
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+Sika_Knight/jianjiainner
+  rotate: false
+  xy: 243, 2
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Sika_Knight/jianjiaout
+  rotate: true
+  xy: 444, 291
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+Sika_Knight/legoutdown
+  rotate: false
+  xy: 486, 185
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Sika_Knight/legoutup
+  rotate: false
+  xy: 295, 2
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Sika_Knight/pifeng
+  rotate: false
+  xy: 117, 169
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+Sika_Knight/weapon
+  rotate: false
+  xy: 2, 443
+  size: 497, 67
+  orig: 497, 67
+  offset: 0, 0
+  index: -1
+Sika_Knight/weapon1
+  rotate: false
+  xy: 177, 120
+  size: 124, 25
+  orig: 124, 25
+  offset: 0, 0
+  index: -1
+Sika_Knight/yaojiaout
+  rotate: false
+  xy: 192, 41
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1

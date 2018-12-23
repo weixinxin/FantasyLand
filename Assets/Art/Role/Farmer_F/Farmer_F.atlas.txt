@@ -1,0 +1,97 @@
+
+Farmer_F.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Farmer_F/Face
+  rotate: false
+  xy: 2, 107
+  size: 146, 144
+  orig: 146, 144
+  offset: 0, 0
+  index: -1
+Farmer_F/Tear
+  rotate: false
+  xy: 67, 6
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Farmer_F/body
+  rotate: true
+  xy: 2, 27
+  size: 78, 115
+  orig: 78, 115
+  offset: 0, 0
+  index: -1
+Farmer_F/eyehard
+  rotate: false
+  xy: 388, 221
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+Farmer_F/eyehard_2
+  rotate: false
+  xy: 150, 116
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+Farmer_F/handinner
+  rotate: true
+  xy: 253, 148
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+Farmer_F/handinner_2
+  rotate: true
+  xy: 2, 2
+  size: 23, 63
+  orig: 23, 63
+  offset: 0, 0
+  index: -1
+Farmer_F/handout
+  rotate: false
+  xy: 253, 194
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Farmer_F/handout_2
+  rotate: false
+  xy: 119, 39
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+Farmer_F/hatout
+  rotate: false
+  xy: 150, 162
+  size: 101, 89
+  orig: 101, 89
+  offset: 0, 0
+  index: -1
+Farmer_F/leginnerdown
+  rotate: true
+  xy: 463, 226
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Farmer_F/legoutdown
+  rotate: true
+  xy: 312, 184
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 312, 213
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

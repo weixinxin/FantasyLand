@@ -1,0 +1,279 @@
+
+Chris_Skin01.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chris/Chris_BattleSister/Chris_Valkyrja_3/gg
+  rotate: false
+  xy: 2, 84
+  size: 131, 170
+  orig: 131, 170
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/Hair3
+  rotate: true
+  xy: 249, 40
+  size: 20, 64
+  orig: 20, 64
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/Hair5
+  rotate: false
+  xy: 378, 154
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/Hair6
+  rotate: false
+  xy: 128, 17
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/dd
+  rotate: false
+  xy: 128, 78
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/dd
+  rotate: false
+  xy: 128, 78
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/eyehard
+  rotate: true
+  xy: 197, 13
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/eyehard1
+  rotate: true
+  xy: 223, 49
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/eyehard2
+  rotate: false
+  xy: 378, 105
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/eyehard3
+  rotate: true
+  xy: 494, 195
+  size: 59, 14
+  orig: 59, 14
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/eyesffuer
+  rotate: false
+  xy: 223, 2
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/eyeyun
+  rotate: false
+  xy: 289, 2
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/face
+  rotate: false
+  xy: 135, 113
+  size: 118, 141
+  orig: 118, 141
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/hair1
+  rotate: true
+  xy: 128, 2
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/hair2
+  rotate: false
+  xy: 341, 93
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/hair4
+  rotate: true
+  xy: 255, 108
+  size: 27, 82
+  orig: 27, 82
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/mouth01
+  rotate: false
+  xy: 223, 40
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/mouth02
+  rotate: false
+  xy: 67, 3
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Chris/Chris_BattleSister/mouth04
+  rotate: false
+  xy: 164, 12
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/arminnerup
+  rotate: true
+  xy: 341, 40
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/armoutup
+  rotate: true
+  xy: 377, 11
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/body
+  rotate: true
+  xy: 249, 62
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/handinner
+  rotate: true
+  xy: 355, 5
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/handout
+  rotate: true
+  xy: 392, 51
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/jianjiainner
+  rotate: false
+  xy: 369, 42
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/jianjiaout
+  rotate: false
+  xy: 407, 27
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/leginnerdown
+  rotate: true
+  xy: 455, 140
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/leginnerup
+  rotate: false
+  xy: 316, 59
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/legoutdown
+  rotate: true
+  xy: 454, 118
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/legoutup
+  rotate: true
+  xy: 341, 61
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/shipin
+  rotate: true
+  xy: 392, 77
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/shipin1
+  rotate: false
+  xy: 407, 2
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/shipin2
+  rotate: false
+  xy: 315, 40
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/toushi
+  rotate: true
+  xy: 455, 160
+  size: 94, 37
+  orig: 94, 37
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/weapon
+  rotate: false
+  xy: 135, 77
+  size: 86, 34
+  orig: 86, 34
+  offset: 0, 0
+  index: -1
+Chris/Chris_Skin01/weapon1
+  rotate: true
+  xy: 2, 14
+  size: 68, 124
+  orig: 68, 124
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/hairinner
+  rotate: false
+  xy: 255, 137
+  size: 121, 117
+  orig: 121, 117
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 378, 127
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

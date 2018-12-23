@@ -1,0 +1,293 @@
+
+Sorum_Wilda.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC_Bust/Sorum/blood_1
+  rotate: true
+  xy: 370, 2
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+NPC_Bust/Sorum/blood_2
+  rotate: true
+  xy: 409, 2
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+NPC_Bust/Sorum/blood_3
+  rotate: false
+  xy: 925, 124
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+NPC_Bust/Sorum/blood_4
+  rotate: true
+  xy: 752, 694
+  size: 10, 41
+  orig: 10, 41
+  offset: 0, 0
+  index: -1
+NPC_Bust/Sorum/body_1
+  rotate: false
+  xy: 523, 116
+  size: 182, 203
+  orig: 182, 203
+  offset: 0, 0
+  index: -1
+NPC_Bust/Sorum/body_2
+  rotate: false
+  xy: 752, 706
+  size: 266, 316
+  orig: 266, 316
+  offset: 0, 0
+  index: -1
+NPC_Bust/Sorum/body_3
+  rotate: false
+  xy: 2, 245
+  size: 279, 444
+  orig: 279, 444
+  offset: 0, 0
+  index: -1
+NPC_Bust/Sorum/eye_Normal
+  rotate: false
+  xy: 518, 57
+  size: 119, 57
+  orig: 119, 57
+  offset: 0, 0
+  index: -1
+NPC_Bust/Sorum/eye_Weak
+  rotate: true
+  xy: 926, 220
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1
+NPC_Bust/Sorum/mouth_Normal
+  rotate: false
+  xy: 906, 492
+  size: 102, 60
+  orig: 102, 60
+  offset: 0, 0
+  index: -1
+NPC_Bust/Sorum/mouth_Weak
+  rotate: false
+  xy: 426, 48
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+NPC_Bust/Sorum/point
+  rotate: false
+  xy: 625, 48
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/arm_inner_up
+  rotate: true
+  xy: 723, 304
+  size: 161, 171
+  orig: 161, 171
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/blood_1
+  rotate: false
+  xy: 980, 236
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/blood_2
+  rotate: false
+  xy: 572, 36
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/body_up
+  rotate: false
+  xy: 2, 691
+  size: 397, 331
+  orig: 397, 331
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/eye_1_Controlled
+  rotate: false
+  xy: 273, 55
+  size: 151, 62
+  orig: 151, 62
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/eye_1_Hurt
+  rotate: true
+  xy: 867, 154
+  size: 148, 57
+  orig: 148, 57
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/eye_1_Normal_1
+  rotate: false
+  xy: 707, 101
+  size: 150, 56
+  orig: 150, 56
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/eye_1_Normal_2
+  rotate: true
+  xy: 906, 554
+  size: 150, 56
+  orig: 150, 56
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/eye_1_Normal_3
+  rotate: true
+  xy: 964, 554
+  size: 150, 56
+  orig: 150, 56
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/face
+  rotate: true
+  xy: 283, 119
+  size: 222, 238
+  orig: 222, 238
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/hair
+  rotate: true
+  xy: 703, 38
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/huzi
+  rotate: false
+  xy: 273, 9
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/jianjia_inner_1
+  rotate: false
+  xy: 926, 154
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/jianjia_inner_2
+  rotate: false
+  xy: 283, 343
+  size: 245, 344
+  orig: 245, 344
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/jianjia_out_1
+  rotate: false
+  xy: 639, 46
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/jianjia_out_2
+  rotate: false
+  xy: 401, 689
+  size: 349, 333
+  orig: 349, 333
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/lingzi_inner_1
+  rotate: false
+  xy: 723, 467
+  size: 181, 220
+  orig: 181, 220
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/lingzi_inner_2
+  rotate: true
+  xy: 896, 342
+  size: 123, 126
+  orig: 123, 126
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/lingzi_out
+  rotate: false
+  xy: 2, 22
+  size: 269, 221
+  orig: 269, 221
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/mouth_1_Controlled
+  rotate: false
+  xy: 457, 13
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/mouth_1_Hurt
+  rotate: false
+  xy: 906, 467
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/mouth_1_Normal_A
+  rotate: false
+  xy: 783, 33
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/mouth_1_Normal_B
+  rotate: false
+  xy: 859, 120
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/mouth_1_Normal_C
+  rotate: false
+  xy: 783, 65
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/mouth_1_Normal_D
+  rotate: true
+  xy: 980, 276
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/neck
+  rotate: false
+  xy: 707, 159
+  size: 158, 143
+  orig: 158, 143
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/nose
+  rotate: true
+  xy: 523, 12
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/point
+  rotate: false
+  xy: 972, 477
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+NPC_Bust/Wilda/xiongjia
+  rotate: true
+  xy: 530, 321
+  size: 366, 191
+  orig: 366, 191
+  offset: 0, 0
+  index: -1

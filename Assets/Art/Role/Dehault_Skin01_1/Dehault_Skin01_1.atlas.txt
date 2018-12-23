@@ -1,0 +1,286 @@
+
+Dehault_Skin01_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dehault/Dehault_Skin01_1/arminnerdown
+  rotate: false
+  xy: 325, 275
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/arminnerup
+  rotate: true
+  xy: 146, 68
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/armoutdown
+  rotate: false
+  xy: 357, 266
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/armoutup
+  rotate: false
+  xy: 467, 329
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/body
+  rotate: true
+  xy: 153, 289
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/handinner
+  rotate: false
+  xy: 179, 70
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/handout
+  rotate: true
+  xy: 158, 38
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/hudang
+  rotate: false
+  xy: 117, 93
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/jianjiainner
+  rotate: false
+  xy: 117, 143
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/jianjiaout
+  rotate: true
+  xy: 2, 2
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/jianjiaout1
+  rotate: false
+  xy: 117, 67
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/leginnerdown
+  rotate: false
+  xy: 200, 103
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/leginnerup
+  rotate: false
+  xy: 121, 26
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/legoutdown
+  rotate: true
+  xy: 467, 371
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/legoutup
+  rotate: false
+  xy: 172, 95
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/pifeng
+  rotate: true
+  xy: 2, 206
+  size: 170, 116
+  orig: 170, 116
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/texiao1
+  rotate: true
+  xy: 120, 202
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/texiao2
+  rotate: true
+  xy: 343, 393
+  size: 117, 121
+  orig: 117, 121
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/texiao3
+  rotate: true
+  xy: 81, 10
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/texiao4
+  rotate: false
+  xy: 396, 265
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/texiao5
+  rotate: true
+  xy: 466, 412
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/toushi
+  rotate: false
+  xy: 254, 278
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin01_1/weapon
+  rotate: false
+  xy: 165, 369
+  size: 173, 57
+  orig: 173, 57
+  offset: 0, 0
+  index: -1
+Dehault/eyebrow
+  rotate: false
+  xy: 153, 274
+  size: 73, 13
+  orig: 73, 13
+  offset: 0, 0
+  index: -1
+Dehault/eyehard
+  rotate: true
+  xy: 446, 327
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Dehault/eyehard1
+  rotate: true
+  xy: 173, 142
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Dehault/eyehard2
+  rotate: true
+  xy: 194, 143
+  size: 62, 12
+  orig: 62, 12
+  offset: 0, 0
+  index: -1
+Dehault/eyehard3
+  rotate: true
+  xy: 208, 143
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+Dehault/eyesffuer
+  rotate: true
+  xy: 194, 207
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+Dehault/eyeyun
+  rotate: true
+  xy: 163, 208
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+Dehault/face
+  rotate: false
+  xy: 2, 378
+  size: 161, 132
+  orig: 161, 132
+  offset: 0, 0
+  index: -1
+Dehault/hair
+  rotate: false
+  xy: 120, 270
+  size: 31, 106
+  orig: 31, 106
+  offset: 0, 0
+  index: -1
+Dehault/hair1
+  rotate: true
+  xy: 352, 331
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Dehault/hair2
+  rotate: true
+  xy: 2, 67
+  size: 137, 113
+  orig: 137, 113
+  offset: 0, 0
+  index: -1
+Dehault/hair3
+  rotate: true
+  xy: 254, 303
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+Dehault/hair4
+  rotate: false
+  xy: 165, 428
+  size: 176, 82
+  orig: 176, 82
+  offset: 0, 0
+  index: -1
+Dehault/mouth01
+  rotate: false
+  xy: 121, 12
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Dehault/mouth02
+  rotate: false
+  xy: 228, 275
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+Dehault/mouth04
+  rotate: false
+  xy: 81, 5
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 352, 304
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,503 @@
+
+Goblin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Goblin/Goblin_1/arminnerdown
+  rotate: false
+  xy: 132, 2
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/arminnerup
+  rotate: true
+  xy: 152, 238
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/armoutdown
+  rotate: true
+  xy: 269, 296
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/armoutup
+  rotate: false
+  xy: 197, 159
+  size: 31, 77
+  orig: 31, 77
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/body
+  rotate: true
+  xy: 179, 602
+  size: 86, 128
+  orig: 86, 128
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/daizi1
+  rotate: true
+  xy: 568, 724
+  size: 142, 109
+  orig: 142, 109
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/eyehard
+  rotate: true
+  xy: 994, 722
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/eyehard1
+  rotate: false
+  xy: 132, 55
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/eyehard2
+  rotate: false
+  xy: 568, 694
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/eyehard3
+  rotate: true
+  xy: 994, 855
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/eyesffuer
+  rotate: false
+  xy: 140, 86
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/eyeyun
+  rotate: false
+  xy: 310, 670
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/face
+  rotate: false
+  xy: 899, 763
+  size: 93, 121
+  orig: 93, 121
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/handinner
+  rotate: true
+  xy: 758, 725
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/handout
+  rotate: true
+  xy: 957, 889
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/hat
+  rotate: false
+  xy: 424, 868
+  size: 208, 154
+  orig: 208, 154
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/hat1
+  rotate: false
+  xy: 634, 678
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/hat2
+  rotate: true
+  xy: 956, 718
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/leginnerdown
+  rotate: true
+  xy: 318, 394
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/leginnerdown1
+  rotate: true
+  xy: 211, 114
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/legoutdown
+  rotate: false
+  xy: 317, 351
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/legoutdown1
+  rotate: false
+  xy: 634, 869
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_1/nose
+  rotate: true
+  xy: 957, 922
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_2/body
+  rotate: true
+  xy: 2, 6
+  size: 87, 128
+  orig: 87, 128
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_2/daizi
+  rotate: false
+  xy: 179, 690
+  size: 129, 151
+  orig: 129, 151
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_2/daizi1
+  rotate: false
+  xy: 634, 892
+  size: 164, 130
+  orig: 164, 130
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_2/hat
+  rotate: true
+  xy: 2, 421
+  size: 208, 155
+  orig: 208, 155
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_2/hat1
+  rotate: false
+  xy: 152, 293
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_2/leginnerup
+  rotate: false
+  xy: 140, 113
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_2/legoutup
+  rotate: true
+  xy: 681, 662
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/arminnerdown
+  rotate: false
+  xy: 187, 2
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/arminnerup
+  rotate: false
+  xy: 140, 159
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/armoutdown
+  rotate: true
+  xy: 309, 623
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/armoutup
+  rotate: true
+  xy: 679, 727
+  size: 30, 77
+  orig: 30, 77
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/body
+  rotate: false
+  xy: 2, 95
+  size: 136, 155
+  orig: 136, 155
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/daizi
+  rotate: false
+  xy: 310, 708
+  size: 127, 151
+  orig: 127, 151
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/daizi1
+  rotate: true
+  xy: 2, 252
+  size: 167, 148
+  orig: 167, 148
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/eyehard
+  rotate: false
+  xy: 563, 664
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/eyehard1
+  rotate: false
+  xy: 132, 24
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/eyehard2
+  rotate: false
+  xy: 681, 697
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/eyehard3
+  rotate: true
+  xy: 994, 788
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/face
+  rotate: false
+  xy: 159, 479
+  size: 95, 121
+  orig: 95, 121
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/guazhui
+  rotate: true
+  xy: 908, 728
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/guazhui1
+  rotate: true
+  xy: 318, 262
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/handinner
+  rotate: false
+  xy: 330, 285
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/handout
+  rotate: false
+  xy: 285, 259
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/hat
+  rotate: false
+  xy: 213, 861
+  size: 209, 161
+  orig: 209, 161
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/hat1
+  rotate: true
+  xy: 256, 498
+  size: 102, 98
+  orig: 102, 98
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/leginnerdown
+  rotate: false
+  xy: 231, 251
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/leginnerup
+  rotate: false
+  xy: 380, 663
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/legoutdown
+  rotate: false
+  xy: 198, 43
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/legoutup
+  rotate: true
+  xy: 801, 730
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/nose
+  rotate: true
+  xy: 262, 397
+  size: 99, 54
+  orig: 99, 54
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_3/toushi1
+  rotate: false
+  xy: 159, 375
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/armoutdown
+  rotate: false
+  xy: 269, 328
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/armoutup
+  rotate: false
+  xy: 318, 419
+  size: 32, 77
+  orig: 32, 77
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/body
+  rotate: true
+  xy: 800, 886
+  size: 136, 155
+  orig: 136, 155
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/daizi
+  rotate: false
+  xy: 439, 715
+  size: 127, 151
+  orig: 127, 151
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/daizi1
+  rotate: false
+  xy: 2, 631
+  size: 175, 210
+  orig: 175, 210
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/guazhui
+  rotate: true
+  xy: 858, 725
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/guazhui1
+  rotate: true
+  xy: 514, 667
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/guazhui2
+  rotate: true
+  xy: 378, 628
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/hat
+  rotate: false
+  xy: 2, 843
+  size: 209, 179
+  orig: 209, 179
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/hat1
+  rotate: false
+  xy: 679, 759
+  size: 115, 131
+  orig: 115, 131
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/leginnerdown1
+  rotate: false
+  xy: 747, 698
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/legoutdown1
+  rotate: false
+  xy: 317, 328
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/teeth
+  rotate: false
+  xy: 140, 240
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/toushi
+  rotate: false
+  xy: 256, 254
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/toushi1
+  rotate: false
+  xy: 796, 763
+  size: 101, 121
+  orig: 101, 121
+  offset: 0, 0
+  index: -1
+Goblin/Goblin_4/yaobao
+  rotate: true
+  xy: 450, 671
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 242, 299
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

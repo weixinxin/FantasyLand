@@ -1,0 +1,391 @@
+
+Lista_SerpentKnight.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lista/Lista_CrocodileKnight_1/arminnerdown
+  rotate: false
+  xy: 308, 179
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/arminnerup
+  rotate: false
+  xy: 78, 7
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/armoutdown
+  rotate: false
+  xy: 224, 54
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/armoutup
+  rotate: false
+  xy: 202, 99
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/body
+  rotate: false
+  xy: 731, 354
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/eyebrow
+  rotate: true
+  xy: 986, 413
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/eyehard
+  rotate: false
+  xy: 281, 159
+  size: 65, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/eyehard1
+  rotate: false
+  xy: 353, 190
+  size: 65, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/eyehard2
+  rotate: true
+  xy: 202, 32
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/eyehard3
+  rotate: false
+  xy: 956, 489
+  size: 66, 21
+  orig: 66, 21
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/eyesffuer
+  rotate: false
+  xy: 2, 7
+  size: 74, 41
+  orig: 74, 41
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/eyeyun
+  rotate: true
+  xy: 556, 210
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/face
+  rotate: true
+  xy: 209, 291
+  size: 123, 143
+  orig: 123, 143
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/hair
+  rotate: false
+  xy: 239, 99
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/hair1
+  rotate: true
+  xy: 460, 355
+  size: 93, 139
+  orig: 93, 139
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/hairinner
+  rotate: true
+  xy: 460, 286
+  size: 67, 143
+  orig: 67, 143
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/handinner
+  rotate: false
+  xy: 956, 462
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/handout
+  rotate: false
+  xy: 760, 235
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/handout1
+  rotate: false
+  xy: 789, 245
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/leginnerdown
+  rotate: true
+  xy: 839, 265
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/leginnerup
+  rotate: false
+  xy: 224, 2
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/legoutdown
+  rotate: false
+  xy: 726, 236
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/legoutup
+  rotate: false
+  xy: 986, 360
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/mouth01
+  rotate: false
+  xy: 420, 193
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/mouth02
+  rotate: true
+  xy: 823, 240
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/mouth03
+  rotate: false
+  xy: 839, 243
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/mouth04
+  rotate: false
+  xy: 800, 354
+  size: 35, 6
+  orig: 35, 6
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/pijian
+  rotate: false
+  xy: 460, 197
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/pijian1
+  rotate: true
+  xy: 601, 365
+  size: 83, 128
+  orig: 83, 128
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/pijianinner
+  rotate: false
+  xy: 354, 318
+  size: 104, 130
+  orig: 104, 130
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/weapon
+  rotate: false
+  xy: 339, 450
+  size: 247, 60
+  orig: 247, 60
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout
+  rotate: true
+  xy: 889, 306
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout2
+  rotate: false
+  xy: 598, 219
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_body
+  rotate: false
+  xy: 2, 310
+  size: 205, 104
+  orig: 205, 104
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner
+  rotate: false
+  xy: 308, 220
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner1
+  rotate: true
+  xy: 144, 32
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout
+  rotate: false
+  xy: 933, 379
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout1
+  rotate: true
+  xy: 146, 168
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_head
+  rotate: false
+  xy: 2, 50
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_kaijia
+  rotate: true
+  xy: 889, 288
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_neck
+  rotate: true
+  xy: 605, 269
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_tuijia
+  rotate: false
+  xy: 688, 225
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba
+  rotate: true
+  xy: 875, 362
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba1
+  rotate: true
+  xy: 772, 457
+  size: 53, 182
+  orig: 53, 182
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_xiongshi
+  rotate: false
+  xy: 205, 179
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/an
+  rotate: false
+  xy: 800, 362
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/beiqi
+  rotate: true
+  xy: 723, 272
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/water
+  rotate: false
+  xy: 2, 416
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_backlegout
+  rotate: false
+  xy: 839, 292
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_frontlegout
+  rotate: false
+  xy: 785, 277
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_head
+  rotate: false
+  xy: 2, 180
+  size: 142, 128
+  orig: 142, 128
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_weiba1
+  rotate: true
+  xy: 588, 450
+  size: 60, 182
+  orig: 60, 182
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_xiongshi
+  rotate: false
+  xy: 354, 210
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/dd
+  rotate: false
+  xy: 339, 444
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 205, 152
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

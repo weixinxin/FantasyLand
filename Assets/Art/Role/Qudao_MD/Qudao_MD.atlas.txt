@@ -1,0 +1,132 @@
+
+Qudao_MD.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 398, 192
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/body
+  rotate: false
+  xy: 338, 157
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/handinner
+  rotate: true
+  xy: 458, 151
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/handout
+  rotate: true
+  xy: 398, 153
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/handout1
+  rotate: false
+  xy: 386, 96
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/hatout
+  rotate: false
+  xy: 2, 81
+  size: 160, 149
+  orig: 160, 149
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/hudang
+  rotate: false
+  xy: 137, 31
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/jianjiainner
+  rotate: false
+  xy: 458, 110
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/jianjiaout
+  rotate: true
+  xy: 338, 94
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/jianjiaout1
+  rotate: false
+  xy: 474, 200
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/leginnerdown
+  rotate: true
+  xy: 207, 33
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/leginnerup
+  rotate: true
+  xy: 137, 3
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/legoutdown
+  rotate: false
+  xy: 427, 100
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/legoutup
+  rotate: true
+  xy: 207, 60
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/shield
+  rotate: true
+  xy: 2, 2
+  size: 77, 133
+  orig: 77, 133
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/weapon
+  rotate: false
+  xy: 164, 95
+  size: 172, 135
+  orig: 172, 135
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/yaojiainner
+  rotate: true
+  xy: 256, 66
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_MD/yaojiaout
+  rotate: false
+  xy: 168, 47
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1

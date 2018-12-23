@@ -1,0 +1,272 @@
+
+Angel.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 403, 602
+  size: 82, 344
+  orig: 82, 344
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 313, 97
+  size: 71, 290
+  orig: 71, 290
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 641, 686
+  size: 83, 348
+  orig: 83, 348
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 732, 341
+  size: 74, 288
+  orig: 74, 288
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 265, 585
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 732, 575
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 403, 686
+  size: 236, 334
+  orig: 236, 334
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 313, 358
+  size: 261, 242
+  orig: 261, 242
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 732, 417
+  size: 224, 143
+  orig: 224, 143
+  offset: 0, 0
+  index: -1
+eye_2_Battle_Weak
+  rotate: true
+  xy: 990, 908
+  size: 112, 29
+  orig: 112, 29
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: true
+  xy: 958, 450
+  size: 110, 35
+  orig: 110, 35
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: false
+  xy: 862, 206
+  size: 110, 35
+  orig: 110, 35
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: false
+  xy: 265, 602
+  size: 110, 36
+  orig: 110, 36
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 641, 771
+  size: 264, 249
+  orig: 264, 249
+  offset: 0, 0
+  index: -1
+hair_2_1
+  rotate: true
+  xy: 468, 6
+  size: 89, 134
+  orig: 89, 134
+  offset: 0, 0
+  index: -1
+hair_2_2
+  rotate: true
+  xy: 164, 39
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+hair_2_3
+  rotate: true
+  xy: 605, 104
+  size: 77, 124
+  orig: 77, 124
+  offset: 0, 0
+  index: -1
+hair_2_4
+  rotate: true
+  xy: 862, 243
+  size: 96, 159
+  orig: 96, 159
+  offset: 0, 0
+  index: -1
+hair_2_5
+  rotate: true
+  xy: 749, 617
+  size: 67, 258
+  orig: 67, 258
+  offset: 0, 0
+  index: -1
+hair_2_6
+  rotate: false
+  xy: 907, 794
+  size: 81, 226
+  orig: 81, 226
+  offset: 0, 0
+  index: -1
+hair_2_7
+  rotate: false
+  xy: 569, 183
+  size: 140, 173
+  orig: 140, 173
+  offset: 0, 0
+  index: -1
+hair_2_8
+  rotate: true
+  xy: 311, 13
+  size: 82, 155
+  orig: 82, 155
+  offset: 0, 0
+  index: -1
+jianjia_inner
+  rotate: false
+  xy: 711, 217
+  size: 149, 122
+  orig: 149, 122
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: true
+  xy: 576, 374
+  size: 226, 154
+  orig: 226, 154
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: true
+  xy: 990, 811
+  size: 95, 24
+  orig: 95, 24
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 164, 131
+  size: 147, 413
+  orig: 147, 413
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 2, 75
+  size: 160, 469
+  orig: 160, 469
+  offset: 0, 0
+  index: -1
+mouth_2_Battle_Weak
+  rotate: false
+  xy: 907, 775
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 958, 436
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 377, 621
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: true
+  xy: 711, 349
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 124, 51
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 2, 2
+  size: 71, 120
+  orig: 71, 120
+  offset: 0, 0
+  index: -1
+wing_inner
+  rotate: false
+  xy: 196, 640
+  size: 205, 380
+  orig: 205, 380
+  offset: 0, 0
+  index: -1
+wing_out_1
+  rotate: false
+  xy: 2, 546
+  size: 192, 474
+  orig: 192, 474
+  offset: 0, 0
+  index: -1
+wing_out_2
+  rotate: true
+  xy: 313, 170
+  size: 186, 254
+  orig: 186, 254
+  offset: 0, 0
+  index: -1
+yaodai_1
+  rotate: false
+  xy: 749, 562
+  size: 255, 53
+  orig: 255, 53
+  offset: 0, 0
+  index: -1
+yaodai_2
+  rotate: false
+  xy: 196, 557
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1

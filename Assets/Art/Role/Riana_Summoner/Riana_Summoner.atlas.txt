@@ -1,0 +1,272 @@
+
+Riana_Summoner.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Riana/Riana01/Hair3
+  rotate: true
+  xy: 159, 225
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+Riana/Riana01/Hair4
+  rotate: true
+  xy: 159, 243
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyebrow
+  rotate: true
+  xy: 229, 281
+  size: 68, 11
+  orig: 68, 11
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyehard
+  rotate: false
+  xy: 74, 2
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyehard1
+  rotate: false
+  xy: 408, 427
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyehard2
+  rotate: true
+  xy: 138, 234
+  size: 69, 19
+  orig: 69, 19
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyehard3
+  rotate: false
+  xy: 293, 401
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyesffuer
+  rotate: true
+  xy: 479, 387
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyeyun
+  rotate: false
+  xy: 159, 278
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+Riana/Riana01/face
+  rotate: false
+  xy: 2, 133
+  size: 108, 88
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+Riana/Riana01/hairout
+  rotate: false
+  xy: 2, 223
+  size: 134, 145
+  orig: 134, 145
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/arminner1
+  rotate: true
+  xy: 297, 291
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/armout1
+  rotate: false
+  xy: 242, 273
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/armout2
+  rotate: true
+  xy: 271, 284
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/body
+  rotate: true
+  xy: 293, 433
+  size: 77, 113
+  orig: 77, 113
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/erhuaninner
+  rotate: false
+  xy: 322, 319
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/erhuanout
+  rotate: false
+  xy: 242, 307
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/handinner
+  rotate: true
+  xy: 267, 315
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/handout
+  rotate: true
+  xy: 251, 356
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/leginnerdown
+  rotate: false
+  xy: 295, 317
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/leginnerup
+  rotate: true
+  xy: 369, 396
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/legoutdown
+  rotate: false
+  xy: 333, 358
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/legoutup
+  rotate: false
+  xy: 363, 359
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/maoziinner
+  rotate: false
+  xy: 157, 405
+  size: 134, 105
+  orig: 134, 105
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/pifenginner
+  rotate: true
+  xy: 2, 22
+  size: 109, 70
+  orig: 109, 70
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/pifengout1
+  rotate: false
+  xy: 74, 27
+  size: 61, 104
+  orig: 61, 104
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/pifengout2
+  rotate: true
+  xy: 157, 351
+  size: 52, 92
+  orig: 52, 92
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/shipinout
+  rotate: false
+  xy: 408, 452
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/toushi
+  rotate: false
+  xy: 2, 370
+  size: 153, 140
+  orig: 153, 140
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/toushi1
+  rotate: true
+  xy: 138, 305
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/weapon
+  rotate: false
+  xy: 289, 358
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/weiboinner
+  rotate: false
+  xy: 157, 312
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/yaodai
+  rotate: false
+  xy: 408, 399
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/yaodaipeijian
+  rotate: false
+  xy: 2, 2
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+Riana/mouth01
+  rotate: false
+  xy: 112, 137
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Riana/mouth02
+  rotate: false
+  xy: 47, 7
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Riana/mouth04
+  rotate: true
+  xy: 504, 489
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 112, 147
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

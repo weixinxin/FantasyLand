@@ -1,0 +1,321 @@
+
+Tila_Water.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lista/Lista_SerpentKnight_2/Dragon_backlegout
+  rotate: true
+  xy: 268, 135
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout2
+  rotate: true
+  xy: 307, 223
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_body
+  rotate: false
+  xy: 2, 310
+  size: 205, 104
+  orig: 205, 104
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner
+  rotate: true
+  xy: 437, 227
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner1
+  rotate: false
+  xy: 321, 358
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout
+  rotate: true
+  xy: 357, 178
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout1
+  rotate: true
+  xy: 147, 38
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_head
+  rotate: false
+  xy: 32, 180
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_kaijia
+  rotate: false
+  xy: 2, 2
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_neck
+  rotate: true
+  xy: 339, 416
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_tuijia
+  rotate: false
+  xy: 409, 134
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba
+  rotate: true
+  xy: 174, 215
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba1
+  rotate: false
+  xy: 457, 328
+  size: 53, 182
+  orig: 53, 182
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_xiongshi
+  rotate: true
+  xy: 209, 313
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/an
+  rotate: false
+  xy: 232, 218
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/beiqi
+  rotate: true
+  xy: 206, 103
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/water
+  rotate: false
+  xy: 2, 416
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 246, 191
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Tila/Tila_Water/Tila_CrocodileKnight_1/arminnerdown
+  rotate: true
+  xy: 301, 2
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Tila/Tila_Water/Tila_CrocodileKnight_1/arminnerup
+  rotate: true
+  xy: 32, 2
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Tila/Tila_Water/Tila_CrocodileKnight_1/armoutdown
+  rotate: true
+  xy: 268, 108
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Tila/Tila_Water/Tila_CrocodileKnight_1/armoutup
+  rotate: false
+  xy: 326, 4
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Tila/Tila_Water/Tila_CrocodileKnight_1/body
+  rotate: true
+  xy: 437, 273
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+Tila/Tila_Water/Tila_CrocodileKnight_1/jianjiainner
+  rotate: false
+  xy: 348, 135
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+Tila/Tila_Water/Tila_CrocodileKnight_1/jianjiaout
+  rotate: false
+  xy: 435, 184
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+Tila/Tila_Water/Tila_CrocodileKnight_1/legoutdown
+  rotate: false
+  xy: 147, 2
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Tila/Tila_Water/Tila_CrocodileKnight_1/legoutup
+  rotate: true
+  xy: 447, 108
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Tila/Tila_Water/Tila_CrocodileKnight_1/weapon
+  rotate: true
+  xy: 2, 35
+  size: 273, 28
+  orig: 273, 28
+  offset: 0, 0
+  index: -1
+Tila/Tila_Water/Tila_CrocodileKnight_1/yaojia
+  rotate: false
+  xy: 447, 135
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Tila/eyebrow
+  rotate: true
+  xy: 287, 37
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+Tila/eyehard
+  rotate: true
+  xy: 301, 46
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Tila/eyehard1
+  rotate: true
+  xy: 319, 46
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Tila/eyehard2
+  rotate: true
+  xy: 495, 122
+  size: 60, 13
+  orig: 60, 13
+  offset: 0, 0
+  index: -1
+Tila/eyehard3
+  rotate: false
+  xy: 75, 2
+  size: 55, 6
+  orig: 55, 6
+  offset: 0, 0
+  index: -1
+Tila/eyesffuer
+  rotate: false
+  xy: 75, 10
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+Tila/eyeyun
+  rotate: false
+  xy: 174, 185
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+Tila/face
+  rotate: false
+  xy: 32, 41
+  size: 113, 137
+  orig: 113, 137
+  offset: 0, 0
+  index: -1
+Tila/hair
+  rotate: true
+  xy: 322, 151
+  size: 70, 24
+  orig: 70, 24
+  offset: 0, 0
+  index: -1
+Tila/hair1
+  rotate: false
+  xy: 206, 24
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+Tila/hair2
+  rotate: true
+  xy: 321, 320
+  size: 36, 104
+  orig: 36, 104
+  offset: 0, 0
+  index: -1
+Tila/hairinner
+  rotate: false
+  xy: 357, 231
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+Tila/mouth01
+  rotate: true
+  xy: 20, 12
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+Tila/mouth02
+  rotate: false
+  xy: 427, 342
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Tila/mouth03
+  rotate: false
+  xy: 174, 23
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Tila/mouth04
+  rotate: false
+  xy: 321, 313
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1

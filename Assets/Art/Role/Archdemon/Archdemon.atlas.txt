@@ -1,0 +1,139 @@
+
+Archdemon.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_up
+  rotate: false
+  xy: 1239, 201
+  size: 304, 465
+  orig: 304, 465
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 680, 149
+  size: 381, 508
+  orig: 381, 508
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 1912, 1716
+  size: 132, 329
+  orig: 132, 329
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 1755, 668
+  size: 144, 101
+  orig: 144, 101
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 98
+  size: 559, 676
+  orig: 559, 676
+  offset: 0, 0
+  index: -1
+chibang_1
+  rotate: false
+  xy: 2, 659
+  size: 1174, 1386
+  orig: 1174, 1386
+  offset: 0, 0
+  index: -1
+chibang_2
+  rotate: false
+  xy: 1178, 925
+  size: 732, 1120
+  orig: 732, 1120
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1718, 232
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+eyelid_1
+  rotate: false
+  xy: 1901, 701
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+eyelid_2
+  rotate: false
+  xy: 963, 88
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1178, 668
+  size: 255, 575
+  orig: 255, 575
+  offset: 0, 0
+  index: -1
+jawbone
+  rotate: false
+  xy: 1718, 313
+  size: 183, 353
+  orig: 183, 353
+  offset: 0, 0
+  index: -1
+neck_1
+  rotate: true
+  xy: 1755, 771
+  size: 152, 291
+  orig: 152, 291
+  offset: 0, 0
+  index: -1
+neck_2
+  rotate: false
+  xy: 1239, 19
+  size: 295, 180
+  orig: 295, 180
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 1178, 661
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: false
+  xy: 1063, 131
+  size: 174, 526
+  orig: 174, 526
+  offset: 0, 0
+  index: -1
+toushi_2
+  rotate: false
+  xy: 680, 2
+  size: 281, 145
+  orig: 281, 145
+  offset: 0, 0
+  index: -1
+toushi_3
+  rotate: false
+  xy: 1545, 207
+  size: 171, 459
+  orig: 171, 459
+  offset: 0, 0
+  index: -1
+toushi_4
+  rotate: true
+  xy: 1912, 1520
+  size: 194, 116
+  orig: 194, 116
+  offset: 0, 0
+  index: -1

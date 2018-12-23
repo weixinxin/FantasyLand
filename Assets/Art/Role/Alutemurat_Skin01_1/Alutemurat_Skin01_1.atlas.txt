@@ -1,0 +1,216 @@
+
+Alutemurat_Skin01_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alutemurat/Alutemurat_Skin01_1/arminnerdown
+  rotate: false
+  xy: 199, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/arminnerup
+  rotate: false
+  xy: 129, 62
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/armoutdown
+  rotate: false
+  xy: 166, 59
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/armoutup
+  rotate: true
+  xy: 416, 405
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/body
+  rotate: true
+  xy: 2, 49
+  size: 73, 125
+  orig: 73, 125
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/handinner
+  rotate: true
+  xy: 233, 76
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/handout
+  rotate: true
+  xy: 198, 110
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/leginnerdown
+  rotate: false
+  xy: 105, 9
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/leginnerup
+  rotate: true
+  xy: 471, 452
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/legoutdown
+  rotate: false
+  xy: 382, 403
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/legoutup
+  rotate: true
+  xy: 418, 443
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/shipin
+  rotate: true
+  xy: 233, 104
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/shipin1
+  rotate: false
+  xy: 489, 493
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/toushi
+  rotate: false
+  xy: 382, 448
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Skin01_1/weapon
+  rotate: false
+  xy: 2, 278
+  size: 255, 232
+  orig: 255, 232
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyebrow
+  rotate: false
+  xy: 259, 280
+  size: 69, 15
+  orig: 69, 15
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyehard
+  rotate: true
+  xy: 368, 334
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyehard1
+  rotate: true
+  xy: 386, 337
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyehard2
+  rotate: false
+  xy: 132, 121
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyehard3
+  rotate: false
+  xy: 129, 104
+  size: 63, 15
+  orig: 63, 15
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyesffuer
+  rotate: true
+  xy: 338, 329
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyeyun
+  rotate: false
+  xy: 418, 483
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/face
+  rotate: false
+  xy: 132, 136
+  size: 118, 140
+  orig: 118, 140
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/hair1
+  rotate: false
+  xy: 259, 324
+  size: 77, 186
+  orig: 77, 186
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/hair2
+  rotate: true
+  xy: 2, 4
+  size: 43, 101
+  orig: 43, 101
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/hair3
+  rotate: false
+  xy: 338, 400
+  size: 42, 110
+  orig: 42, 110
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/hairinner
+  rotate: false
+  xy: 2, 124
+  size: 128, 152
+  orig: 128, 152
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/mouth01
+  rotate: false
+  xy: 129, 50
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/mouth02
+  rotate: false
+  xy: 199, 64
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 259, 297
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+Harpy.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Harpy/R_wingout_1
+  rotate: true
+  xy: 2, 2
+  size: 70, 136
+  orig: 70, 136
+  offset: 0, 0
+  index: -1
+Harpy/R_wingout_2
+  rotate: false
+  xy: 2, 74
+  size: 107, 104
+  orig: 107, 104
+  offset: 0, 0
+  index: -1
+Harpy/R_wingout_3
+  rotate: true
+  xy: 267, 367
+  size: 44, 109
+  orig: 44, 109
+  offset: 0, 0
+  index: -1
+Harpy/lian
+  rotate: true
+  xy: 390, 409
+  size: 90, 113
+  orig: 90, 113
+  offset: 0, 0
+  index: -1
+Harpy/shenti
+  rotate: true
+  xy: 116, 184
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+Harpy/tou_3
+  rotate: false
+  xy: 2, 332
+  size: 142, 167
+  orig: 142, 167
+  offset: 0, 0
+  index: -1
+Harpy/toufa_1
+  rotate: true
+  xy: 267, 413
+  size: 86, 121
+  orig: 86, 121
+  offset: 0, 0
+  index: -1
+Harpy/toufa_2
+  rotate: true
+  xy: 146, 251
+  size: 38, 103
+  orig: 38, 103
+  offset: 0, 0
+  index: -1
+Harpy/toufa_3
+  rotate: true
+  xy: 387, 290
+  size: 18, 49
+  orig: 18, 49
+  offset: 0, 0
+  index: -1
+Harpy/weiba
+  rotate: false
+  xy: 191, 188
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+Harpy/wingout_1
+  rotate: false
+  xy: 2, 180
+  size: 112, 150
+  orig: 112, 150
+  offset: 0, 0
+  index: -1
+Harpy/wingout_2
+  rotate: false
+  xy: 254, 293
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+Harpy/wingout_3
+  rotate: false
+  xy: 146, 382
+  size: 119, 117
+  orig: 119, 117
+  offset: 0, 0
+  index: -1
+Harpy/wingout_4
+  rotate: true
+  xy: 146, 291
+  size: 89, 106
+  orig: 89, 106
+  offset: 0, 0
+  index: -1
+Harpy/yan_1
+  rotate: false
+  xy: 378, 376
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+Harpy/yan_2
+  rotate: true
+  xy: 111, 99
+  size: 79, 18
+  orig: 79, 18
+  offset: 0, 0
+  index: -1
+Harpy/yan_3
+  rotate: true
+  xy: 116, 261
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Harpy/youtui_1
+  rotate: true
+  xy: 131, 104
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Harpy/youtui_2
+  rotate: true
+  xy: 450, 372
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+Harpy/zui_1
+  rotate: true
+  xy: 504, 391
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Harpy/zui_2
+  rotate: true
+  xy: 111, 78
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Harpy/zuotui(1)
+  rotate: false
+  xy: 387, 310
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+Harpy/zuotui2
+  rotate: false
+  xy: 435, 333
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Harpy/zuotui3
+  rotate: false
+  xy: 464, 337
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+Harpy/zuotui4
+  rotate: false
+  xy: 131, 132
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 347, 291
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

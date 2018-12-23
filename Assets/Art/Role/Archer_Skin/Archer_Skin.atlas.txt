@@ -1,0 +1,181 @@
+
+Archer_Skin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Archer/Archer_skin/Archer_skin01/body
+  rotate: false
+  xy: 2, 57
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/eyehard
+  rotate: false
+  xy: 294, 275
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/face
+  rotate: false
+  xy: 299, 408
+  size: 125, 102
+  orig: 125, 102
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/handinner
+  rotate: true
+  xy: 377, 303
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/handout
+  rotate: true
+  xy: 382, 349
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/hatout
+  rotate: false
+  xy: 2, 258
+  size: 239, 142
+  orig: 239, 142
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/leginnerdown
+  rotate: false
+  xy: 476, 306
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/leginnerup
+  rotate: true
+  xy: 80, 36
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/legoutdown
+  rotate: true
+  xy: 216, 50
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/legoutup
+  rotate: false
+  xy: 436, 303
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/mouth01
+  rotate: true
+  xy: 448, 374
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/weapon
+  rotate: false
+  xy: 2, 159
+  size: 272, 97
+  orig: 272, 97
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/weapon1
+  rotate: false
+  xy: 80, 138
+  size: 147, 19
+  orig: 147, 19
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin01/weapon2
+  rotate: false
+  xy: 299, 395
+  size: 153, 11
+  orig: 153, 11
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin02/jianjiainner
+  rotate: false
+  xy: 216, 82
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin02/jianjiaout
+  rotate: true
+  xy: 454, 350
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin02/pifenginner
+  rotate: true
+  xy: 426, 422
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin02/pifengout
+  rotate: true
+  xy: 80, 65
+  size: 71, 94
+  orig: 71, 94
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin02/toushi
+  rotate: true
+  xy: 243, 284
+  size: 116, 49
+  orig: 116, 49
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin02/toushi1
+  rotate: false
+  xy: 2, 2
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+Archer/Archer_skin/Archer_skin02/weapon
+  rotate: false
+  xy: 2, 402
+  size: 295, 108
+  orig: 295, 108
+  offset: 0, 0
+  index: -1
+Archer/eyesffuer
+  rotate: false
+  xy: 294, 349
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+Archer/eyeyun
+  rotate: false
+  xy: 294, 302
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 176, 62
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 123, 37
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,356 @@
+
+Fana_HawkKnight.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fana/Fana_HawkKnight/Fana_hawkknight_1/body
+  rotate: true
+  xy: 2, 2
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/eyebrow
+  rotate: true
+  xy: 1014, 336
+  size: 61, 8
+  orig: 61, 8
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/eyehard
+  rotate: true
+  xy: 407, 165
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/eyehard1
+  rotate: false
+  xy: 178, 17
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/eyehard2
+  rotate: false
+  xy: 765, 216
+  size: 66, 14
+  orig: 66, 14
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/eyehard3
+  rotate: false
+  xy: 178, 4
+  size: 65, 11
+  orig: 65, 11
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/eyesuffer
+  rotate: true
+  xy: 623, 146
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/eyeyun
+  rotate: false
+  xy: 71, 23
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/face
+  rotate: true
+  xy: 275, 75
+  size: 101, 127
+  orig: 101, 127
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/hair3
+  rotate: true
+  xy: 146, 188
+  size: 55, 128
+  orig: 55, 128
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/hair4
+  rotate: true
+  xy: 134, 39
+  size: 43, 127
+  orig: 43, 127
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/hair5
+  rotate: true
+  xy: 276, 178
+  size: 53, 129
+  orig: 53, 129
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/hair8
+  rotate: true
+  xy: 263, 30
+  size: 43, 118
+  orig: 43, 118
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/hairback
+  rotate: false
+  xy: 429, 204
+  size: 141, 140
+  orig: 141, 140
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/handinner
+  rotate: false
+  xy: 874, 309
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/handinner1
+  rotate: false
+  xy: 404, 124
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/handout
+  rotate: false
+  xy: 463, 418
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/handout1
+  rotate: false
+  xy: 849, 312
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/jianjia1
+  rotate: true
+  xy: 383, 29
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/jianjiainner
+  rotate: false
+  xy: 404, 85
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/jianjiainner1
+  rotate: true
+  xy: 71, 3
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/jianjiaout
+  rotate: false
+  xy: 497, 157
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/legoutdown
+  rotate: true
+  xy: 132, 2
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/legoutup
+  rotate: true
+  xy: 448, 133
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/mouth01
+  rotate: true
+  xy: 268, 453
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/mouth02
+  rotate: true
+  xy: 134, 215
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/mouth04
+  rotate: true
+  xy: 660, 328
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/toushi
+  rotate: true
+  xy: 634, 346
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/weapon
+  rotate: false
+  xy: 2, 467
+  size: 492, 43
+  orig: 492, 43
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/weapon_Ribbon1
+  rotate: true
+  xy: 787, 297
+  size: 118, 60
+  orig: 118, 60
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/weapon_Ribbon2
+  rotate: false
+  xy: 463, 346
+  size: 169, 70
+  orig: 169, 70
+  offset: 0, 0
+  index: -1
+Fana/Fana_HawkKnight/Fana_hawkknight_1/yaojia
+  rotate: false
+  xy: 562, 147
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_body
+  rotate: false
+  xy: 276, 362
+  size: 185, 103
+  orig: 185, 103
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_head
+  rotate: false
+  xy: 665, 325
+  size: 120, 90
+  orig: 120, 90
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_leginner1
+  rotate: false
+  xy: 876, 339
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_legout1
+  rotate: false
+  xy: 765, 232
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_legout2
+  rotate: false
+  xy: 945, 331
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_neck
+  rotate: false
+  xy: 660, 213
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_weiba
+  rotate: true
+  xy: 572, 204
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner3
+  rotate: true
+  xy: 876, 399
+  size: 111, 143
+  orig: 111, 143
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner4
+  rotate: true
+  xy: 134, 84
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout1
+  rotate: false
+  xy: 2, 52
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout3
+  rotate: false
+  xy: 276, 233
+  size: 151, 127
+  orig: 151, 127
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout4
+  rotate: true
+  xy: 146, 245
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+Mount/eagle/Feather
+  rotate: false
+  xy: 429, 162
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingdown
+  rotate: true
+  xy: 688, 417
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+Mount/eagle/winginnerup
+  rotate: true
+  xy: 496, 418
+  size: 92, 190
+  orig: 92, 190
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingout2
+  rotate: false
+  xy: 2, 230
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 849, 341
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: false
+  xy: 2, 406
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1

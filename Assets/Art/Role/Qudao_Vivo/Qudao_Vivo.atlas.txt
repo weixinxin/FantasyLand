@@ -1,0 +1,118 @@
+
+Qudao_Vivo.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 231, 108
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/body
+  rotate: false
+  xy: 179, 168
+  size: 73, 86
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/eyehard
+  rotate: false
+  xy: 2, 16
+  size: 105, 22
+  orig: 105, 22
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/eyesffuer
+  rotate: true
+  xy: 121, 2
+  size: 88, 34
+  orig: 88, 34
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/eyeyun
+  rotate: false
+  xy: 338, 211
+  size: 94, 43
+  orig: 94, 43
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/face
+  rotate: false
+  xy: 2, 92
+  size: 175, 162
+  orig: 175, 162
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/gaoguang
+  rotate: false
+  xy: 179, 84
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/handinner
+  rotate: true
+  xy: 254, 148
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/handout
+  rotate: true
+  xy: 434, 206
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/handout1
+  rotate: false
+  xy: 157, 24
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/jianjiaout
+  rotate: false
+  xy: 254, 198
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/leginnerdown
+  rotate: false
+  xy: 307, 114
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/leginnerup
+  rotate: false
+  xy: 275, 72
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/legoutdown
+  rotate: true
+  xy: 231, 76
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/legoutup
+  rotate: false
+  xy: 225, 33
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Vivo/weapon
+  rotate: false
+  xy: 2, 40
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,356 @@
+
+McEvoy_Spear.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ledin/Ledin_qb/Ledin_General02/arminnerup
+  rotate: false
+  xy: 202, 239
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_qb/Ledin_General02/armoutup
+  rotate: false
+  xy: 200, 200
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/arminnerdown
+  rotate: false
+  xy: 201, 138
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/armoutdown
+  rotate: true
+  xy: 133, 2
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/body
+  rotate: false
+  xy: 56, 32
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/hudang
+  rotate: false
+  xy: 420, 312
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/jianjiainner
+  rotate: false
+  xy: 154, 123
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/jianjiaout
+  rotate: false
+  xy: 56, 99
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/leginnerdown
+  rotate: true
+  xy: 431, 341
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/leginnerup
+  rotate: false
+  xy: 173, 2
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/legoutdown
+  rotate: false
+  xy: 484, 394
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/legoutup
+  rotate: true
+  xy: 368, 316
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/toushi
+  rotate: true
+  xy: 2, 21
+  size: 129, 52
+  orig: 129, 52
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/weapon
+  rotate: false
+  xy: 2, 439
+  size: 368, 71
+  orig: 368, 71
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/weapon2
+  rotate: false
+  xy: 372, 439
+  size: 114, 71
+  orig: 114, 71
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/weapon2_1
+  rotate: false
+  xy: 140, 32
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/yaodai
+  rotate: true
+  xy: 123, 99
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/yaojia1
+  rotate: false
+  xy: 141, 306
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/yaojiainner
+  rotate: false
+  xy: 140, 48
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General/yaojiaout
+  rotate: false
+  xy: 431, 372
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General_2/eyehard
+  rotate: true
+  xy: 133, 171
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General_2/eyesffuer
+  rotate: true
+  xy: 107, 32
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+McEvoy/eyesffuer
+  rotate: true
+  xy: 107, 32
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General_2/eyeyun
+  rotate: false
+  xy: 133, 244
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+McEvoy/eyeyun
+  rotate: false
+  xy: 133, 244
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General_2/face
+  rotate: false
+  xy: 141, 349
+  size: 106, 88
+  orig: 106, 88
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General_2/handinner
+  rotate: true
+  xy: 200, 175
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General_2/handout
+  rotate: false
+  xy: 488, 486
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General_2/mouth01
+  rotate: false
+  xy: 154, 115
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+McEvoy/mouth01
+  rotate: false
+  xy: 154, 115
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General_2/mouth02
+  rotate: true
+  xy: 2, 2
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+McEvoy/mouth02
+  rotate: true
+  xy: 2, 2
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General_2/mouth03
+  rotate: true
+  xy: 133, 152
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+McEvoy/mouth03
+  rotate: true
+  xy: 133, 152
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+McEvoy/McEvoy_Spear/McEvoy_General_2/mouth04
+  rotate: true
+  xy: 488, 439
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+McEvoy/mouth04
+  rotate: true
+  xy: 488, 439
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+McEvoy/dd
+  rotate: false
+  xy: 357, 354
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+McEvoy/eyebrow
+  rotate: true
+  xy: 187, 174
+  size: 68, 11
+  orig: 68, 11
+  offset: 0, 0
+  index: -1
+McEvoy/eyehard
+  rotate: true
+  xy: 160, 171
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+McEvoy/eyehard1
+  rotate: false
+  xy: 223, 316
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+McEvoy/eyehard2
+  rotate: false
+  xy: 56, 2
+  size: 75, 28
+  orig: 75, 28
+  offset: 0, 0
+  index: -1
+McEvoy/eyehard3
+  rotate: false
+  xy: 297, 322
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+McEvoy/face
+  rotate: false
+  xy: 249, 349
+  size: 106, 88
+  orig: 106, 88
+  offset: 0, 0
+  index: -1
+McEvoy/hair1
+  rotate: false
+  xy: 357, 360
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+McEvoy/hair2
+  rotate: false
+  xy: 86, 152
+  size: 45, 130
+  orig: 45, 130
+  offset: 0, 0
+  index: -1
+McEvoy/hair3
+  rotate: false
+  xy: 2, 152
+  size: 82, 130
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+McEvoy/handinner
+  rotate: true
+  xy: 484, 369
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+McEvoy/handout
+  rotate: false
+  xy: 488, 460
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+McEvoy/hatout
+  rotate: false
+  xy: 2, 284
+  size: 137, 153
+  orig: 137, 153
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 141, 279
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

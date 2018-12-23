@@ -1,0 +1,181 @@
+
+Vampire.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: true
+  xy: 922, 749
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 1635, 1626
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: true
+  xy: 2032, 2023
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 748
+  size: 918, 1293
+  orig: 918, 1293
+  offset: 0, 0
+  index: -1
+ear_2
+  rotate: false
+  xy: 773, 643
+  size: 142, 103
+  orig: 142, 103
+  offset: 0, 0
+  index: -1
+eye_2_Battle_Weak
+  rotate: false
+  xy: 2, 2
+  size: 104, 52
+  orig: 104, 52
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: true
+  xy: 502, 160
+  size: 101, 50
+  orig: 101, 50
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: false
+  xy: 594, 448
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: false
+  xy: 1653, 1789
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 502, 500
+  size: 269, 246
+  orig: 269, 246
+  offset: 0, 0
+  index: -1
+hair_2_1
+  rotate: true
+  xy: 922, 761
+  size: 122, 260
+  orig: 122, 260
+  offset: 0, 0
+  index: -1
+hair_2_2
+  rotate: true
+  xy: 1184, 820
+  size: 63, 176
+  orig: 63, 176
+  offset: 0, 0
+  index: -1
+hair_2_3
+  rotate: false
+  xy: 502, 263
+  size: 90, 235
+  orig: 90, 235
+  offset: 0, 0
+  index: -1
+lingzi_inner_1
+  rotate: false
+  xy: 1483, 1841
+  size: 337, 200
+  orig: 337, 200
+  offset: 0, 0
+  index: -1
+lingzi_inner_2
+  rotate: false
+  xy: 1483, 1556
+  size: 150, 87
+  orig: 150, 87
+  offset: 0, 0
+  index: -1
+lingzi_out
+  rotate: true
+  xy: 1822, 1888
+  size: 153, 208
+  orig: 153, 208
+  offset: 0, 0
+  index: -1
+mouth_2_Battle_Weak
+  rotate: false
+  xy: 1362, 852
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 1483, 1525
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 773, 608
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 1184, 784
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 1822, 1849
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1483, 1645
+  size: 168, 194
+  orig: 168, 194
+  offset: 0, 0
+  index: -1
+pifeng_inner
+  rotate: false
+  xy: 2, 56
+  size: 498, 690
+  orig: 498, 690
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 2032, 2016
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+xiongjia
+  rotate: false
+  xy: 922, 885
+  size: 559, 1156
+  orig: 559, 1156
+  offset: 0, 0
+  index: -1

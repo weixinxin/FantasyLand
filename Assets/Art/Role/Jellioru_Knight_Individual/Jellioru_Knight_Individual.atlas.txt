@@ -1,0 +1,552 @@
+
+Jellioru_Knight_Individual.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Horse/Ornament/gray/horse_tunjia
+  rotate: false
+  xy: 505, 136
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Horse/Ornament/gray/horse_xiongjia
+  rotate: false
+  xy: 306, 146
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_1/grayhorse_1/horse_guajian1
+  rotate: true
+  xy: 806, 342
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_1/grayhorse_1/horse_guajian2
+  rotate: false
+  xy: 765, 206
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_1/grayhorse_1/horse_head
+  rotate: true
+  xy: 422, 237
+  size: 115, 128
+  orig: 115, 128
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_1/grayhorse_1/horse_neck
+  rotate: false
+  xy: 581, 137
+  size: 70, 101
+  orig: 70, 101
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_backlegdown
+  rotate: true
+  xy: 950, 295
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_backlegup
+  rotate: false
+  xy: 475, 28
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_body
+  rotate: false
+  xy: 148, 155
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_frontlegdown
+  rotate: false
+  xy: 766, 155
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_frontlegup
+  rotate: true
+  xy: 536, 2
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_head
+  rotate: true
+  xy: 140, 30
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_neck
+  rotate: false
+  xy: 396, 33
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_weiba
+  rotate: true
+  xy: 552, 240
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/body
+  rotate: true
+  xy: 397, 151
+  size: 84, 106
+  orig: 84, 106
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/face
+  rotate: false
+  xy: 148, 250
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/handinner
+  rotate: true
+  xy: 719, 196
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/handinner1
+  rotate: false
+  xy: 719, 136
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/handout
+  rotate: false
+  xy: 536, 56
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/handout1
+  rotate: false
+  xy: 657, 2
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/horse_guajian1
+  rotate: false
+  xy: 615, 332
+  size: 92, 95
+  orig: 92, 95
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/horse_head
+  rotate: true
+  xy: 874, 406
+  size: 104, 136
+  orig: 104, 136
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/horse_mana
+  rotate: true
+  xy: 266, 28
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/horse_mana1
+  rotate: false
+  xy: 432, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/horse_neck
+  rotate: true
+  xy: 297, 263
+  size: 89, 123
+  orig: 89, 123
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/jianjiainner
+  rotate: false
+  xy: 657, 68
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/jianjiainner1
+  rotate: false
+  xy: 712, 73
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/jianjiaout1
+  rotate: false
+  xy: 709, 344
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/weapon
+  rotate: false
+  xy: 2, 399
+  size: 317, 111
+  orig: 317, 111
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/weapon1
+  rotate: false
+  xy: 2, 9
+  size: 140, 19
+  orig: 140, 19
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/weapon2
+  rotate: false
+  xy: 2, 166
+  size: 144, 231
+  orig: 144, 231
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/yaojia
+  rotate: true
+  xy: 866, 332
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_HighRider_2/body
+  rotate: false
+  xy: 950, 330
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_HighRider_2/handout
+  rotate: true
+  xy: 793, 261
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_HighRider_2/jianjiainner
+  rotate: false
+  xy: 800, 171
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_HighRider_2/jianjiaout1
+  rotate: false
+  xy: 706, 264
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_HighRider_2/yaojia
+  rotate: false
+  xy: 608, 7
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/body
+  rotate: false
+  xy: 597, 59
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/handinner
+  rotate: true
+  xy: 587, 370
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/handout
+  rotate: true
+  xy: 866, 303
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/jianjiainner
+  rotate: true
+  xy: 800, 135
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/jianjiainner1
+  rotate: false
+  xy: 779, 115
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/jianjiaout1
+  rotate: true
+  xy: 712, 15
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/jianjiaout2
+  rotate: false
+  xy: 331, 2
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/legdownout
+  rotate: true
+  xy: 800, 106
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/legupout
+  rotate: true
+  xy: 396, 2
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/yaojia
+  rotate: false
+  xy: 793, 291
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+JellioruLela/dd
+  rotate: false
+  xy: 315, 393
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Leon/dd
+  rotate: false
+  xy: 315, 393
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/dd
+  rotate: false
+  xy: 315, 393
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+JellioruLela/eyebrow
+  rotate: false
+  xy: 266, 146
+  size: 31, 7
+  orig: 31, 7
+  offset: 0, 0
+  index: -1
+JellioruLela/eyehard
+  rotate: true
+  xy: 297, 363
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+JellioruLela/eyehard1
+  rotate: true
+  xy: 997, 294
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+JellioruLela/eyehard2
+  rotate: true
+  xy: 779, 79
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+JellioruLela/eyehard3
+  rotate: false
+  xy: 766, 144
+  size: 32, 9
+  orig: 32, 9
+  offset: 0, 0
+  index: -1
+JellioruLela/eyesffuer
+  rotate: true
+  xy: 916, 294
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+JellioruLela/eyeyun
+  rotate: true
+  xy: 840, 135
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+JellioruLela/face
+  rotate: false
+  xy: 2, 30
+  size: 136, 134
+  orig: 136, 134
+  offset: 0, 0
+  index: -1
+JellioruLela/hair1
+  rotate: false
+  xy: 653, 139
+  size: 64, 99
+  orig: 64, 99
+  offset: 0, 0
+  index: -1
+JellioruLela/mouth01
+  rotate: false
+  xy: 712, 2
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian1
+  rotate: false
+  xy: 761, 87
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian2
+  rotate: false
+  xy: 397, 112
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_mana
+  rotate: true
+  xy: 615, 240
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_neck1
+  rotate: false
+  xy: 770, 257
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: true
+  xy: 839, 307
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/jianjiaout4
+  rotate: false
+  xy: 587, 354
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 321, 354
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/weapon1
+  rotate: false
+  xy: 600, 429
+  size: 272, 81
+  orig: 272, 81
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/weapon2
+  rotate: false
+  xy: 144, 12
+  size: 108, 16
+  orig: 108, 16
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/weapon1
+  rotate: false
+  xy: 321, 415
+  size: 277, 95
+  orig: 277, 95
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 709, 317
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/handinner1
+  rotate: false
+  xy: 842, 99
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/handout1
+  rotate: true
+  xy: 797, 214
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/legupout
+  rotate: false
+  xy: 840, 173
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_2/legdownout
+  rotate: true
+  xy: 293, 2
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_3/legdownout
+  rotate: true
+  xy: 254, 2
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/mouth02
+  rotate: false
+  xy: 397, 246
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/mouth04
+  rotate: true
+  xy: 866, 408
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1

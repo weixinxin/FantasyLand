@@ -1,0 +1,251 @@
+
+Elf.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elf/arm_inner_down
+  rotate: true
+  xy: 750, 629
+  size: 103, 204
+  orig: 103, 204
+  offset: 0, 0
+  index: -1
+Elf/arm_inner_up
+  rotate: true
+  xy: 2, 16
+  size: 104, 232
+  orig: 104, 232
+  offset: 0, 0
+  index: -1
+Elf/arm_out_down
+  rotate: false
+  xy: 246, 211
+  size: 156, 339
+  orig: 156, 339
+  offset: 0, 0
+  index: -1
+Elf/arm_out_up
+  rotate: false
+  xy: 774, 734
+  size: 175, 288
+  orig: 175, 288
+  offset: 0, 0
+  index: -1
+Elf/blood
+  rotate: false
+  xy: 541, 384
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Elf/body
+  rotate: false
+  xy: 2, 552
+  size: 267, 470
+  orig: 267, 470
+  offset: 0, 0
+  index: -1
+Elf/ear_2
+  rotate: true
+  xy: 746, 284
+  size: 135, 78
+  orig: 135, 78
+  offset: 0, 0
+  index: -1
+Elf/eye_2_Battle_Weak
+  rotate: true
+  xy: 951, 803
+  size: 109, 27
+  orig: 109, 27
+  offset: 0, 0
+  index: -1
+Elf/eye_2_Normal_1
+  rotate: true
+  xy: 951, 914
+  size: 108, 31
+  orig: 108, 31
+  offset: 0, 0
+  index: -1
+Elf/eye_2_Normal_2
+  rotate: true
+  xy: 984, 920
+  size: 102, 31
+  orig: 102, 31
+  offset: 0, 0
+  index: -1
+Elf/eye_2_Normal_3
+  rotate: false
+  xy: 408, 2
+  size: 98, 33
+  orig: 98, 33
+  offset: 0, 0
+  index: -1
+Elf/face_2
+  rotate: false
+  xy: 510, 772
+  size: 262, 250
+  orig: 262, 250
+  offset: 0, 0
+  index: -1
+Elf/hair_2_1
+  rotate: true
+  xy: 396, 116
+  size: 88, 166
+  orig: 88, 166
+  offset: 0, 0
+  index: -1
+Elf/hair_2_2
+  rotate: true
+  xy: 408, 37
+  size: 77, 144
+  orig: 77, 144
+  offset: 0, 0
+  index: -1
+Elf/hair_2_3
+  rotate: false
+  xy: 747, 447
+  size: 104, 180
+  orig: 104, 180
+  offset: 0, 0
+  index: -1
+Elf/hair_2_4
+  rotate: false
+  xy: 853, 465
+  size: 107, 162
+  orig: 107, 162
+  offset: 0, 0
+  index: -1
+Elf/hair_2_5
+  rotate: true
+  xy: 246, 107
+  size: 102, 148
+  orig: 102, 148
+  offset: 0, 0
+  index: -1
+Elf/hair_2_6
+  rotate: false
+  xy: 271, 639
+  size: 237, 383
+  orig: 237, 383
+  offset: 0, 0
+  index: -1
+Elf/hand_inner
+  rotate: false
+  xy: 564, 115
+  size: 37, 89
+  orig: 37, 89
+  offset: 0, 0
+  index: -1
+Elf/jianjia_inner
+  rotate: false
+  xy: 746, 175
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: -1
+Elf/jianjia_out_1
+  rotate: false
+  xy: 404, 206
+  size: 216, 146
+  orig: 216, 146
+  offset: 0, 0
+  index: -1
+Elf/jianjia_out_2
+  rotate: false
+  xy: 236, 21
+  size: 170, 84
+  orig: 170, 84
+  offset: 0, 0
+  index: -1
+Elf/jingshi
+  rotate: false
+  xy: 510, 643
+  size: 238, 127
+  orig: 238, 127
+  offset: 0, 0
+  index: -1
+Elf/leg_inner
+  rotate: false
+  xy: 404, 354
+  size: 135, 283
+  orig: 135, 283
+  offset: 0, 0
+  index: -1
+Elf/leg_out
+  rotate: false
+  xy: 541, 421
+  size: 204, 220
+  orig: 204, 220
+  offset: 0, 0
+  index: -1
+Elf/mouth_2_Battle_Weak
+  rotate: false
+  xy: 951, 783
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Elf/mouth_2_Normal_A
+  rotate: false
+  xy: 853, 448
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+Elf/mouth_2_Normal_B
+  rotate: true
+  xy: 381, 614
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Elf/mouth_2_Normal_C
+  rotate: false
+  xy: 508, 16
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+Elf/mouth_2_Normal_D
+  rotate: false
+  xy: 750, 748
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Elf/neck
+  rotate: true
+  xy: 271, 564
+  size: 73, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+Elf/point
+  rotate: true
+  xy: 1017, 1008
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Elf/yaodai
+  rotate: true
+  xy: 622, 138
+  size: 281, 122
+  orig: 281, 122
+  offset: 0, 0
+  index: -1
+Elf/yaodai_1
+  rotate: false
+  xy: 747, 426
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Elf/yaojia_out
+  rotate: false
+  xy: 2, 122
+  size: 242, 428
+  orig: 242, 428
+  offset: 0, 0
+  index: -1

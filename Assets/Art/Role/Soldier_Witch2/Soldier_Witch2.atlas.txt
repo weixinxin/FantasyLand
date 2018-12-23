@@ -1,0 +1,307 @@
+
+Soldier_Witch2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 185, 31
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/arminnerdown
+  rotate: false
+  xy: 467, 70
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/arminnerup
+  rotate: false
+  xy: 440, 37
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/armoutdown
+  rotate: true
+  xy: 395, 18
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/armoutup
+  rotate: true
+  xy: 311, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/body
+  rotate: false
+  xy: 137, 2
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/eyebrow
+  rotate: true
+  xy: 396, 50
+  size: 61, 11
+  orig: 61, 11
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/eyehard
+  rotate: true
+  xy: 409, 55
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/eyehard1
+  rotate: false
+  xy: 440, 96
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/eyehard2
+  rotate: true
+  xy: 119, 5
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/eyehard3
+  rotate: true
+  xy: 429, 54
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/eyesffuer
+  rotate: false
+  xy: 255, 80
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/eyeyun
+  rotate: false
+  xy: 443, 116
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/face
+  rotate: false
+  xy: 137, 71
+  size: 116, 130
+  orig: 116, 130
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/g
+  rotate: false
+  xy: 444, 148
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/hair
+  rotate: true
+  xy: 185, 2
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/hair1
+  rotate: true
+  xy: 2, 2
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/hair2
+  rotate: true
+  xy: 444, 211
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/hair3
+  rotate: false
+  xy: 401, 170
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/hair4
+  rotate: true
+  xy: 277, 114
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/hair5
+  rotate: false
+  xy: 255, 132
+  size: 20, 69
+  orig: 20, 69
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/hairinner
+  rotate: false
+  xy: 2, 69
+  size: 133, 132
+  orig: 133, 132
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/handinner1
+  rotate: false
+  xy: 273, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/handinner2
+  rotate: true
+  xy: 467, 42
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/handout
+  rotate: false
+  xy: 315, 84
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/jianjiainner
+  rotate: false
+  xy: 348, 113
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/jianjiaout
+  rotate: false
+  xy: 261, 34
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/leginnerdown
+  rotate: true
+  xy: 62, 6
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/leginnerup
+  rotate: true
+  xy: 348, 47
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/legoutdown
+  rotate: true
+  xy: 348, 77
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/legoutup
+  rotate: false
+  xy: 321, 46
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/mouth01
+  rotate: false
+  xy: 62, 2
+  size: 13, 2
+  orig: 13, 2
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/mouth02
+  rotate: false
+  xy: 395, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/mouth03
+  rotate: false
+  xy: 255, 123
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/mouth04
+  rotate: true
+  xy: 507, 193
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/pifeng
+  rotate: false
+  xy: 278, 150
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/toushi
+  rotate: false
+  xy: 2, 33
+  size: 115, 34
+  orig: 115, 34
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/weapon
+  rotate: false
+  xy: 2, 203
+  size: 274, 51
+  orig: 274, 51
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/yaojiainner
+  rotate: true
+  xy: 401, 119
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/yaojiainnerinner
+  rotate: false
+  xy: 440, 63
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/yaojiaout
+  rotate: true
+  xy: 347, 2
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Soldier_Witch2/Selia_Magician_1/yaojiaoutinner
+  rotate: false
+  xy: 238, 2
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 255, 74
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

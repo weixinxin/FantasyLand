@@ -1,0 +1,216 @@
+
+Dragon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragon/body
+  rotate: true
+  xy: 776, 866
+  size: 155, 229
+  orig: 155, 229
+  offset: 0, 0
+  index: -1
+Dragon/handinner
+  rotate: true
+  xy: 433, 465
+  size: 63, 106
+  orig: 63, 106
+  offset: 0, 0
+  index: -1
+Dragon/handinner1
+  rotate: true
+  xy: 550, 529
+  size: 133, 78
+  orig: 133, 78
+  offset: 0, 0
+  index: -1
+Dragon/handout
+  rotate: false
+  xy: 321, 131
+  size: 117, 105
+  orig: 117, 105
+  offset: 0, 0
+  index: -1
+Dragon/handout1
+  rotate: false
+  xy: 342, 424
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+Dragon/handout2
+  rotate: false
+  xy: 294, 29
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+Dragon/head
+  rotate: false
+  xy: 97, 652
+  size: 286, 138
+  orig: 286, 138
+  offset: 0, 0
+  index: -1
+Dragon/jaw
+  rotate: false
+  xy: 409, 410
+  size: 96, 53
+  orig: 96, 53
+  offset: 0, 0
+  index: -1
+Dragon/jianjia
+  rotate: false
+  xy: 541, 427
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+Dragon/jianjiainner
+  rotate: true
+  xy: 385, 666
+  size: 124, 67
+  orig: 124, 67
+  offset: 0, 0
+  index: -1
+Dragon/leginnerdown
+  rotate: true
+  xy: 2, 2
+  size: 120, 139
+  orig: 120, 139
+  offset: 0, 0
+  index: -1
+Dragon/leginnerup
+  rotate: true
+  xy: 326, 484
+  size: 166, 105
+  orig: 166, 105
+  offset: 0, 0
+  index: -1
+Dragon/legoutdown
+  rotate: false
+  xy: 433, 530
+  size: 115, 132
+  orig: 115, 132
+  offset: 0, 0
+  index: -1
+Dragon/legoutup
+  rotate: false
+  xy: 295, 238
+  size: 113, 148
+  orig: 113, 148
+  offset: 0, 0
+  index: -1
+Dragon/neck
+  rotate: false
+  xy: 143, 16
+  size: 149, 113
+  orig: 149, 113
+  offset: 0, 0
+  index: -1
+Dragon/thorn
+  rotate: false
+  xy: 601, 665
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+Dragon/thorn1
+  rotate: true
+  xy: 412, 29
+  size: 100, 24
+  orig: 100, 24
+  offset: 0, 0
+  index: -1
+Dragon/thorn2
+  rotate: false
+  xy: 454, 664
+  size: 145, 32
+  orig: 145, 32
+  offset: 0, 0
+  index: -1
+Dragon/weiba
+  rotate: false
+  xy: 2, 792
+  size: 450, 229
+  orig: 450, 229
+  offset: 0, 0
+  index: -1
+Dragon/winginner
+  rotate: false
+  xy: 94, 208
+  size: 199, 178
+  orig: 199, 178
+  offset: 0, 0
+  index: -1
+Dragon/winginner1
+  rotate: true
+  xy: 454, 698
+  size: 50, 220
+  orig: 50, 220
+  offset: 0, 0
+  index: -1
+Dragon/winginner2
+  rotate: false
+  xy: 2, 124
+  size: 90, 311
+  orig: 90, 311
+  offset: 0, 0
+  index: -1
+Dragon/winginner3
+  rotate: true
+  xy: 454, 750
+  size: 81, 282
+  orig: 81, 282
+  offset: 0, 0
+  index: -1
+Dragon/winginner4
+  rotate: true
+  xy: 94, 131
+  size: 75, 225
+  orig: 75, 225
+  offset: 0, 0
+  index: -1
+Dragon/wingout
+  rotate: false
+  xy: 97, 478
+  size: 227, 172
+  orig: 227, 172
+  offset: 0, 0
+  index: -1
+Dragon/wingout1
+  rotate: true
+  xy: 454, 833
+  size: 73, 299
+  orig: 73, 299
+  offset: 0, 0
+  index: -1
+Dragon/wingout2
+  rotate: false
+  xy: 2, 437
+  size: 93, 353
+  orig: 93, 353
+  offset: 0, 0
+  index: -1
+Dragon/wingout3
+  rotate: true
+  xy: 454, 908
+  size: 113, 320
+  orig: 113, 320
+  offset: 0, 0
+  index: -1
+Dragon/wingout4
+  rotate: false
+  xy: 97, 388
+  size: 243, 88
+  orig: 243, 88
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 676, 710
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

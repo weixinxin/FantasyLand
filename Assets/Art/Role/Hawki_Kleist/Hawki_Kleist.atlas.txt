@@ -1,0 +1,293 @@
+
+Hawki_Kleist.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hawki/blood_1
+  rotate: true
+  xy: 869, 2
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Hawki/blood_2
+  rotate: false
+  xy: 977, 405
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+Hawki/blood_3
+  rotate: true
+  xy: 818, 272
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+Hawki/body_1
+  rotate: false
+  xy: 296, 166
+  size: 246, 289
+  orig: 246, 289
+  offset: 0, 0
+  index: -1
+Hawki/body_2
+  rotate: false
+  xy: 492, 715
+  size: 255, 307
+  orig: 255, 307
+  offset: 0, 0
+  index: -1
+Hawki/body_3
+  rotate: false
+  xy: 2, 473
+  size: 304, 549
+  orig: 304, 549
+  offset: 0, 0
+  index: -1
+Hawki/eye_Normal
+  rotate: true
+  xy: 980, 786
+  size: 119, 28
+  orig: 119, 28
+  offset: 0, 0
+  index: -1
+Hawki/eye_Weak
+  rotate: true
+  xy: 980, 907
+  size: 115, 33
+  orig: 115, 33
+  offset: 0, 0
+  index: -1
+Hawki/hair
+  rotate: true
+  xy: 279, 105
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+Hawki/mouth_Normal
+  rotate: true
+  xy: 507, 103
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+Hawki/mouth_Weak
+  rotate: false
+  xy: 869, 30
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Hawki/point
+  rotate: true
+  xy: 869, 277
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Kleist/arm_inner_up
+  rotate: false
+  xy: 308, 457
+  size: 174, 163
+  orig: 174, 163
+  offset: 0, 0
+  index: -1
+Kleist/arm_out_up
+  rotate: true
+  xy: 937, 83
+  size: 88, 75
+  orig: 88, 75
+  offset: 0, 0
+  index: -1
+Kleist/blood_1
+  rotate: false
+  xy: 985, 42
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Kleist/blood_2
+  rotate: false
+  xy: 937, 173
+  size: 30, 118
+  orig: 30, 118
+  offset: 0, 0
+  index: -1
+Kleist/blood_3
+  rotate: false
+  xy: 998, 701
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Kleist/body_up
+  rotate: true
+  xy: 749, 715
+  size: 307, 229
+  orig: 307, 229
+  offset: 0, 0
+  index: -1
+Kleist/cloth_inner
+  rotate: false
+  xy: 492, 529
+  size: 327, 184
+  orig: 327, 184
+  offset: 0, 0
+  index: -1
+Kleist/cloth_out
+  rotate: false
+  xy: 308, 622
+  size: 182, 400
+  orig: 182, 400
+  offset: 0, 0
+  index: -1
+Kleist/eye_1_Hurt
+  rotate: false
+  xy: 411, 2
+  size: 113, 53
+  orig: 113, 53
+  offset: 0, 0
+  index: -1
+Kleist/eye_1_Normal_1
+  rotate: true
+  xy: 217, 14
+  size: 113, 60
+  orig: 113, 60
+  offset: 0, 0
+  index: -1
+Kleist/eye_1_Normal_2
+  rotate: true
+  xy: 876, 178
+  size: 113, 59
+  orig: 113, 59
+  offset: 0, 0
+  index: -1
+Kleist/eye_1_Normal_3
+  rotate: true
+  xy: 876, 63
+  size: 113, 59
+  orig: 113, 59
+  offset: 0, 0
+  index: -1
+Kleist/face
+  rotate: true
+  xy: 544, 42
+  size: 228, 244
+  orig: 228, 244
+  offset: 0, 0
+  index: -1
+Kleist/hair_1_1
+  rotate: true
+  xy: 2, 6
+  size: 121, 213
+  orig: 121, 213
+  offset: 0, 0
+  index: -1
+Kleist/hair_1_2
+  rotate: false
+  xy: 790, 70
+  size: 84, 200
+  orig: 84, 200
+  offset: 0, 0
+  index: -1
+Kleist/huzi
+  rotate: false
+  xy: 790, 29
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+Kleist/jianjia_inner
+  rotate: false
+  xy: 544, 272
+  size: 272, 255
+  orig: 272, 255
+  offset: 0, 0
+  index: -1
+Kleist/jianjia_out
+  rotate: true
+  xy: 2, 129
+  size: 342, 292
+  orig: 342, 292
+  offset: 0, 0
+  index: -1
+Kleist/lingzi_inner
+  rotate: true
+  xy: 821, 528
+  size: 185, 170
+  orig: 185, 170
+  offset: 0, 0
+  index: -1
+Kleist/lingzi_out
+  rotate: false
+  xy: 296, 2
+  size: 113, 162
+  orig: 113, 162
+  offset: 0, 0
+  index: -1
+Kleist/mouth_1_Hurt
+  rotate: true
+  xy: 977, 484
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+Kleist/mouth_1_Normal_A
+  rotate: true
+  xy: 977, 440
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+Kleist/mouth_1_Normal_B
+  rotate: true
+  xy: 507, 59
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+Kleist/mouth_1_Normal_C
+  rotate: false
+  xy: 980, 734
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Kleist/mouth_1_Normal_D
+  rotate: false
+  xy: 980, 759
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+Kleist/neck
+  rotate: false
+  xy: 411, 57
+  size: 94, 107
+  orig: 94, 107
+  offset: 0, 0
+  index: -1
+Kleist/nose
+  rotate: true
+  xy: 937, 47
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Kleist/weijin_inner
+  rotate: true
+  xy: 484, 467
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+Kleist/weijin_out
+  rotate: true
+  xy: 818, 293
+  size: 233, 157
+  orig: 233, 157
+  offset: 0, 0
+  index: -1

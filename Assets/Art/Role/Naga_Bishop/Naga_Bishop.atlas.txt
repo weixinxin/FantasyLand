@@ -1,0 +1,223 @@
+
+Naga_Bishop.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hein/Hein_Bishop/Hein_BISHOP_2/weapon
+  rotate: false
+  xy: 303, 235
+  size: 90, 19
+  orig: 90, 19
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/weapon0
+  rotate: false
+  xy: 142, 181
+  size: 159, 73
+  orig: 159, 73
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/arminnerdown
+  rotate: false
+  xy: 141, 59
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/arminnerup
+  rotate: false
+  xy: 351, 144
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/armoutdown
+  rotate: true
+  xy: 287, 141
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/armoutup
+  rotate: false
+  xy: 360, 102
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/body
+  rotate: true
+  xy: 2, 13
+  size: 94, 119
+  orig: 94, 119
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/bodyinner
+  rotate: true
+  xy: 334, 95
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/jianjiainner
+  rotate: true
+  xy: 282, 97
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/jianjiaout
+  rotate: false
+  xy: 142, 121
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/jianjiaoutinner
+  rotate: false
+  xy: 389, 201
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/leginnerdown
+  rotate: false
+  xy: 421, 201
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/leginnerup
+  rotate: true
+  xy: 123, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/legoutdown
+  rotate: false
+  xy: 169, 9
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/legoutup
+  rotate: false
+  xy: 471, 207
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/Naga_Bishop_1/xiongshi
+  rotate: false
+  xy: 447, 204
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/dd
+  rotate: false
+  xy: 389, 229
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/eyebrow
+  rotate: true
+  xy: 123, 38
+  size: 69, 16
+  orig: 69, 16
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/eyehard
+  rotate: false
+  xy: 215, 123
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/eyehard1
+  rotate: false
+  xy: 303, 179
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/eyehard2
+  rotate: false
+  xy: 142, 105
+  size: 65, 14
+  orig: 65, 14
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/eyehard3
+  rotate: false
+  xy: 2, 3
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/eyesffuer
+  rotate: false
+  xy: 215, 144
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/eyeyun
+  rotate: false
+  xy: 303, 200
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/face
+  rotate: false
+  xy: 2, 109
+  size: 138, 145
+  orig: 138, 145
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/huzi
+  rotate: false
+  xy: 141, 42
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/mouth01
+  rotate: true
+  xy: 375, 201
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/mouth02
+  rotate: true
+  xy: 370, 179
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/mouth03
+  rotate: false
+  xy: 188, 42
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+Naga/Naga_Bishop/mouth04
+  rotate: false
+  xy: 169, 2
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 395, 229
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

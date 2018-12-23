@@ -1,0 +1,279 @@
+
+Aniki_Cut.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aniki/Aniki/Effect1
+  rotate: false
+  xy: 2, 322
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/Effect2
+  rotate: false
+  xy: 2, 132
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/Effect3
+  rotate: false
+  xy: 184, 322
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/Effect4
+  rotate: false
+  xy: 184, 132
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/Effect5
+  rotate: false
+  xy: 366, 322
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/arminnerdown
+  rotate: true
+  xy: 856, 308
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/arminnerdown1
+  rotate: false
+  xy: 2, 49
+  size: 119, 81
+  orig: 119, 81
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/arminnerup
+  rotate: false
+  xy: 252, 62
+  size: 115, 68
+  orig: 115, 68
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/armoutdown
+  rotate: true
+  xy: 548, 302
+  size: 74, 110
+  orig: 74, 110
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/armoutdown1
+  rotate: false
+  xy: 635, 221
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/armoutdown2
+  rotate: false
+  xy: 366, 239
+  size: 117, 81
+  orig: 117, 81
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/armoutup
+  rotate: false
+  xy: 366, 159
+  size: 116, 78
+  orig: 116, 78
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/body
+  rotate: true
+  xy: 548, 378
+  size: 132, 222
+  orig: 132, 222
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/body02
+  rotate: true
+  xy: 772, 378
+  size: 132, 222
+  orig: 132, 222
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/face
+  rotate: true
+  xy: 660, 296
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/face1
+  rotate: true
+  xy: 758, 297
+  size: 79, 96
+  orig: 79, 96
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/handinner
+  rotate: false
+  xy: 199, 7
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/handinner1
+  rotate: false
+  xy: 2, 2
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/handinner2
+  rotate: true
+  xy: 953, 315
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/handout
+  rotate: false
+  xy: 255, 10
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/handout1
+  rotate: false
+  xy: 65, 4
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/handout2
+  rotate: false
+  xy: 717, 217
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/heart
+  rotate: true
+  xy: 485, 261
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/hongyun
+  rotate: false
+  xy: 485, 246
+  size: 53, 13
+  orig: 53, 13
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/huawen1
+  rotate: false
+  xy: 470, 120
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/huawen2
+  rotate: false
+  xy: 470, 139
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/huawen3
+  rotate: false
+  xy: 996, 382
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/leginnerdown
+  rotate: true
+  xy: 124, 11
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/leginnerdown1
+  rotate: false
+  xy: 322, 8
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/leginnerup
+  rotate: false
+  xy: 369, 63
+  size: 99, 94
+  orig: 99, 94
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/legoutdown
+  rotate: true
+  xy: 548, 253
+  size: 47, 85
+  orig: 47, 85
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/legoutdown1
+  rotate: false
+  xy: 785, 238
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/legoutup
+  rotate: true
+  xy: 123, 60
+  size: 70, 127
+  orig: 70, 127
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/mouth01
+  rotate: false
+  xy: 826, 234
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/mouth02
+  rotate: false
+  xy: 821, 209
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/mouth03
+  rotate: true
+  xy: 996, 401
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/mouth04
+  rotate: true
+  xy: 826, 261
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Aniki/Aniki/mouth05
+  rotate: false
+  xy: 785, 211
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 996, 436
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

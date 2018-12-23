@@ -1,0 +1,363 @@
+
+Tialice_Magic.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jessica/Jessica_fs/Jessica_1/arminner1
+  rotate: false
+  xy: 309, 293
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/arminner2
+  rotate: true
+  xy: 222, 282
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/armout1
+  rotate: false
+  xy: 314, 341
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/armout2
+  rotate: false
+  xy: 152, 169
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/body
+  rotate: false
+  xy: 264, 386
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/handinner1
+  rotate: true
+  xy: 284, 288
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/handinner2
+  rotate: false
+  xy: 284, 320
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/handout
+  rotate: false
+  xy: 192, 290
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/hudang
+  rotate: false
+  xy: 316, 399
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/hudanginner
+  rotate: true
+  xy: 345, 339
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/leginnerdown
+  rotate: false
+  xy: 260, 277
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/leginnerup
+  rotate: true
+  xy: 264, 350
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/legoutdown
+  rotate: false
+  xy: 471, 407
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/legoutup
+  rotate: false
+  xy: 156, 115
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/qunziyinner
+  rotate: false
+  xy: 111, 232
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/weapon
+  rotate: false
+  xy: 2, 446
+  size: 259, 21
+  orig: 259, 21
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_1/yaojiaout
+  rotate: true
+  xy: 341, 321
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_2/lingzi
+  rotate: true
+  xy: 111, 169
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_2/pifeng
+  rotate: true
+  xy: 2, 167
+  size: 134, 107
+  orig: 134, 107
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_2/toushi1
+  rotate: false
+  xy: 92, 73
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_2/weapon
+  rotate: false
+  xy: 2, 469
+  size: 284, 41
+  orig: 284, 41
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_2/yaodai
+  rotate: true
+  xy: 447, 399
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_2/yaodai2
+  rotate: true
+  xy: 191, 170
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/Jessica_2/yaojiainner
+  rotate: true
+  xy: 312, 318
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/dd
+  rotate: false
+  xy: 111, 297
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 92, 91
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Magic/Tialice_ArcMage_2/toushi
+  rotate: true
+  xy: 70, 73
+  size: 92, 20
+  orig: 92, 20
+  offset: 0, 0
+  index: -1
+Tialice/eyebrow
+  rotate: false
+  xy: 200, 341
+  size: 68, 7
+  orig: 68, 7
+  offset: 0, 0
+  index: -1
+Tialice/eyehard
+  rotate: false
+  xy: 221, 317
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1
+Tialice/eyehard1
+  rotate: false
+  xy: 316, 375
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1
+Tialice/eyehard2
+  rotate: false
+  xy: 379, 382
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Tialice/eyehard3
+  rotate: false
+  xy: 314, 365
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
+Tialice/eyesffuer
+  rotate: true
+  xy: 469, 446
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Tialice/eyeyun
+  rotate: true
+  xy: 119, 103
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+Tialice/face
+  rotate: false
+  xy: 2, 303
+  size: 113, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+Tialice/hair1
+  rotate: false
+  xy: 78, 2
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+Tialice/hair2
+  rotate: true
+  xy: 389, 444
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+Tialice/hair3
+  rotate: false
+  xy: 200, 350
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1
+Tialice/hair4
+  rotate: false
+  xy: 2, 6
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+Tialice/hair7
+  rotate: true
+  xy: 376, 400
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+Tialice/hairinner1
+  rotate: false
+  xy: 2, 69
+  size: 66, 96
+  orig: 66, 96
+  offset: 0, 0
+  index: -1
+Tialice/hairinner2
+  rotate: true
+  xy: 117, 312
+  size: 27, 102
+  orig: 27, 102
+  offset: 0, 0
+  index: -1
+Tialice/hairinner3
+  rotate: true
+  xy: 288, 459
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+Tialice/hairinner4
+  rotate: false
+  xy: 117, 341
+  size: 81, 103
+  orig: 81, 103
+  offset: 0, 0
+  index: -1
+Tialice/mouth01
+  rotate: false
+  xy: 263, 461
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Tialice/mouth02
+  rotate: false
+  xy: 119, 91
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Tialice/mouth04
+  rotate: true
+  xy: 442, 383
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Tialice/toushi1
+  rotate: false
+  xy: 190, 218
+  size: 16, 70
+  orig: 16, 70
+  offset: 0, 0
+  index: -1
+Tialice/toushi2
+  rotate: true
+  xy: 117, 290
+  size: 20, 73
+  orig: 20, 73
+  offset: 0, 0
+  index: -1
+Tialice/toushi3
+  rotate: false
+  xy: 133, 4
+  size: 18, 67
+  orig: 18, 67
+  offset: 0, 0
+  index: -1
+Tialice/toushi4
+  rotate: false
+  xy: 164, 218
+  size: 24, 70
+  orig: 24, 70
+  offset: 0, 0
+  index: -1

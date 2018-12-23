@@ -1,0 +1,230 @@
+
+Puppet_Knight.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 531, 220
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/armline1
+  rotate: true
+  xy: 820, 261
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/armline2
+  rotate: false
+  xy: 964, 388
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/armline3
+  rotate: false
+  xy: 964, 468
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/armout
+  rotate: false
+  xy: 726, 255
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/armout2
+  rotate: false
+  xy: 268, 294
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/handout
+  rotate: true
+  xy: 576, 107
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/head
+  rotate: true
+  xy: 2, 14
+  size: 265, 198
+  orig: 265, 198
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/head2
+  rotate: true
+  xy: 202, 76
+  size: 203, 94
+  orig: 203, 94
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/leginner1
+  rotate: true
+  xy: 298, 2
+  size: 101, 124
+  orig: 101, 124
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/leginner2
+  rotate: false
+  xy: 787, 270
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/leginner3
+  rotate: false
+  xy: 879, 265
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/legout1
+  rotate: true
+  xy: 298, 105
+  size: 90, 137
+  orig: 90, 137
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/legout2
+  rotate: false
+  xy: 953, 284
+  size: 69, 102
+  orig: 69, 102
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/legout3
+  rotate: false
+  xy: 964, 426
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_1/weapon
+  rotate: false
+  xy: 535, 480
+  size: 399, 30
+  orig: 399, 30
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_2/armout
+  rotate: true
+  xy: 202, 21
+  size: 53, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_2/bashou1
+  rotate: true
+  xy: 639, 253
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_2/bashou2
+  rotate: false
+  xy: 442, 214
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_2/head
+  rotate: false
+  xy: 268, 312
+  size: 265, 198
+  orig: 265, 198
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_2/leginner1
+  rotate: true
+  xy: 424, 2
+  size: 101, 124
+  orig: 101, 124
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_2/leginner2
+  rotate: false
+  xy: 576, 159
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_2/legout1
+  rotate: true
+  xy: 437, 105
+  size: 90, 137
+  orig: 90, 137
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_2/legout2
+  rotate: true
+  xy: 535, 260
+  size: 69, 102
+  orig: 69, 102
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_2/weapon1
+  rotate: false
+  xy: 535, 405
+  size: 289, 73
+  orig: 289, 73
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_2/weapon2
+  rotate: false
+  xy: 825, 352
+  size: 126, 34
+  orig: 126, 34
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_3/head
+  rotate: false
+  xy: 2, 281
+  size: 264, 229
+  orig: 264, 229
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_3/leginner1
+  rotate: true
+  xy: 550, 2
+  size: 101, 124
+  orig: 101, 124
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_3/legout1
+  rotate: true
+  xy: 826, 388
+  size: 90, 136
+  orig: 90, 136
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_3/weapon1
+  rotate: false
+  xy: 535, 331
+  size: 288, 72
+  orig: 288, 72
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/Puppet_Knight_3/weapon2
+  rotate: false
+  xy: 825, 315
+  size: 123, 35
+  orig: 123, 35
+  offset: 0, 0
+  index: -1
+Puppet/Puppet_Knight/yy
+  rotate: false
+  xy: 298, 197
+  size: 142, 113
+  orig: 142, 113
+  offset: 0, 0
+  index: -1

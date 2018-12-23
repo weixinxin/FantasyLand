@@ -1,0 +1,314 @@
+
+Soldier_Enemy_BowKnight.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enemygeneral/Soldier_BowKnight/BowKnight/arminnerup
+  rotate: false
+  xy: 409, 160
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/armoutup
+  rotate: true
+  xy: 375, 104
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/armoutup1
+  rotate: true
+  xy: 446, 264
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/body
+  rotate: false
+  xy: 316, 100
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/handinner
+  rotate: true
+  xy: 416, 117
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/handout
+  rotate: true
+  xy: 469, 359
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/handout2
+  rotate: true
+  xy: 404, 219
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/hatout
+  rotate: false
+  xy: 2, 200
+  size: 154, 139
+  orig: 154, 139
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/jianjiainner
+  rotate: true
+  xy: 443, 221
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/jianjiaout1
+  rotate: false
+  xy: 404, 345
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/legoutdown
+  rotate: false
+  xy: 277, 51
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/legoutup
+  rotate: true
+  xy: 362, 353
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/weapon
+  rotate: false
+  xy: 2, 341
+  size: 180, 169
+  orig: 180, 169
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/weapon1
+  rotate: false
+  xy: 184, 353
+  size: 176, 16
+  orig: 176, 16
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/weapon2
+  rotate: false
+  xy: 97, 73
+  size: 75, 125
+  orig: 75, 125
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/BowKnight/yaojia
+  rotate: false
+  xy: 469, 310
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/Enemy_BowKnight/hatout
+  rotate: false
+  xy: 184, 371
+  size: 153, 139
+  orig: 153, 139
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/Enemy_BowKnight/jianjiainner
+  rotate: false
+  xy: 234, 57
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+Enemygeneral/Soldier_BowKnight/Enemy_BowKnight/jianjiaout1
+  rotate: false
+  xy: 399, 304
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+Enemygeneral/eyehard
+  rotate: false
+  xy: 474, 226
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+Enemygeneral/eyesffuer
+  rotate: false
+  xy: 474, 250
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Enemygeneral/eyeyun
+  rotate: false
+  xy: 474, 279
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Enemygeneral/face
+  rotate: false
+  xy: 97, 2
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+Enemygeneral/mouth01
+  rotate: true
+  xy: 503, 493
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+Enemygeneral/mouth02
+  rotate: false
+  xy: 78, 26
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Enemygeneral/mouth04
+  rotate: false
+  xy: 184, 345
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Horse/Ornament/white/horse_tuijia
+  rotate: true
+  xy: 247, 185
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+Horse/Ornament/white/horse_tunjia1
+  rotate: false
+  xy: 416, 90
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Horse/Ornament/white/horse_xiongjia
+  rotate: false
+  xy: 158, 215
+  size: 87, 124
+  orig: 87, 124
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_backlegdown
+  rotate: true
+  xy: 399, 269
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_backlegup
+  rotate: false
+  xy: 338, 269
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_body
+  rotate: true
+  xy: 2, 42
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_frontlegdown
+  rotate: false
+  xy: 375, 146
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_frontlegup
+  rotate: false
+  xy: 350, 197
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_guajian1
+  rotate: true
+  xy: 404, 201
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_guajian2
+  rotate: true
+  xy: 464, 414
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_head
+  rotate: false
+  xy: 339, 386
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_mana
+  rotate: false
+  xy: 247, 262
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_neck
+  rotate: false
+  xy: 237, 106
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_neck1
+  rotate: true
+  xy: 174, 78
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_weiba
+  rotate: true
+  xy: 174, 101
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Lyatt/eyebrow
+  rotate: false
+  xy: 237, 88
+  size: 54, 16
+  orig: 54, 16
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 464, 304
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

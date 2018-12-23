@@ -1,0 +1,118 @@
+
+Anglestatue.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angelstatue/body
+  rotate: false
+  xy: 731, 321
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+Angelstatue/hair
+  rotate: true
+  xy: 884, 429
+  size: 81, 110
+  orig: 81, 110
+  offset: 0, 0
+  index: -1
+Angelstatue/hand1
+  rotate: false
+  xy: 228, 31
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Angelstatue/head
+  rotate: false
+  xy: 413, 294
+  size: 158, 216
+  orig: 158, 216
+  offset: 0, 0
+  index: -1
+Angelstatue/leg
+  rotate: false
+  xy: 573, 308
+  size: 156, 115
+  orig: 156, 115
+  offset: 0, 0
+  index: -1
+Angelstatue/statue1
+  rotate: false
+  xy: 2, 68
+  size: 409, 442
+  orig: 409, 442
+  offset: 0, 0
+  index: -1
+Angelstatue/stone1
+  rotate: false
+  xy: 807, 354
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+Angelstatue/stone2
+  rotate: false
+  xy: 286, 27
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Angelstatue/stone3
+  rotate: false
+  xy: 765, 408
+  size: 117, 102
+  orig: 117, 102
+  offset: 0, 0
+  index: -1
+Angelstatue/stone4
+  rotate: true
+  xy: 152, 2
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Angelstatue/stone5
+  rotate: true
+  xy: 731, 408
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Angelstatue/stone6
+  rotate: false
+  xy: 2, 7
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+Angelstatue/weapon1
+  rotate: true
+  xy: 89, 11
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+Angelstatue/wing_inner
+  rotate: false
+  xy: 573, 425
+  size: 190, 85
+  orig: 190, 85
+  offset: 0, 0
+  index: -1
+Angelstatue/wing_out
+  rotate: true
+  xy: 413, 81
+  size: 211, 122
+  orig: 211, 122
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 152, 28
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

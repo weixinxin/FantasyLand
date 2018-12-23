@@ -1,0 +1,181 @@
+
+DarkElf_skin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DarkElf/DarkElf_skin01/body
+  rotate: false
+  xy: 275, 278
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin01/hairinner
+  rotate: false
+  xy: 97, 134
+  size: 151, 82
+  orig: 151, 82
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin01/handinner
+  rotate: false
+  xy: 275, 220
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin01/handout
+  rotate: false
+  xy: 367, 291
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin01/hatout
+  rotate: false
+  xy: 97, 218
+  size: 176, 155
+  orig: 176, 155
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin01/leginnerdown
+  rotate: false
+  xy: 415, 318
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin01/leginnerup
+  rotate: false
+  xy: 320, 233
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin01/legoutdown
+  rotate: false
+  xy: 278, 172
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin01/legoutup
+  rotate: false
+  xy: 438, 317
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin01/weapon
+  rotate: true
+  xy: 2, 91
+  size: 282, 93
+  orig: 282, 93
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin01/yaodai
+  rotate: true
+  xy: 250, 165
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin02/handout
+  rotate: true
+  xy: 367, 362
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin02/qunzi
+  rotate: false
+  xy: 282, 356
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin02/qunziinner
+  rotate: false
+  xy: 2, 37
+  size: 86, 52
+  orig: 86, 52
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin02/shipin
+  rotate: false
+  xy: 282, 434
+  size: 186, 75
+  orig: 186, 75
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin02/toushi
+  rotate: true
+  xy: 97, 35
+  size: 97, 102
+  orig: 97, 102
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin02/weapon
+  rotate: false
+  xy: 2, 375
+  size: 278, 134
+  orig: 278, 134
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf_skin02/weapon1
+  rotate: false
+  xy: 282, 411
+  size: 154, 21
+  orig: 154, 21
+  offset: 0, 0
+  index: -1
+DarkElf/eyehard
+  rotate: true
+  xy: 329, 274
+  size: 80, 36
+  orig: 80, 36
+  offset: 0, 0
+  index: -1
+DarkElf/eyesffuer
+  rotate: true
+  xy: 438, 361
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1
+DarkElf/eyeyun
+  rotate: false
+  xy: 2, 2
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+DarkElf/face
+  rotate: false
+  xy: 201, 32
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+DarkElf/mouth01
+  rotate: false
+  xy: 250, 134
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+DarkElf/mouth02
+  rotate: false
+  xy: 250, 147
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 470, 435
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

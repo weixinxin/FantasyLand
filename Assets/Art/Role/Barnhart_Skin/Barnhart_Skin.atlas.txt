@@ -1,0 +1,433 @@
+
+Barnhart_Skin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barnhart/Barnhart_Skin/arminnerdown
+  rotate: false
+  xy: 787, 285
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/armoutdown1
+  rotate: true
+  xy: 625, 250
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/body
+  rotate: false
+  xy: 57, 12
+  size: 75, 98
+  orig: 75, 98
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/body1
+  rotate: false
+  xy: 628, 412
+  size: 75, 98
+  orig: 75, 98
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/daiziinner
+  rotate: true
+  xy: 476, 313
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/daiziinnerinner
+  rotate: false
+  xy: 249, 109
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/daiziout
+  rotate: false
+  xy: 150, 108
+  size: 97, 63
+  orig: 97, 63
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/daizioutinner
+  rotate: false
+  xy: 341, 217
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/eyebrow
+  rotate: false
+  xy: 249, 357
+  size: 136, 27
+  orig: 136, 27
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/eyehard
+  rotate: false
+  xy: 244, 259
+  size: 67, 15
+  orig: 67, 15
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/eyehard1
+  rotate: false
+  xy: 784, 326
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/eyehard2
+  rotate: false
+  xy: 313, 258
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/face
+  rotate: true
+  xy: 406, 383
+  size: 127, 144
+  orig: 127, 144
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/hair1
+  rotate: false
+  xy: 888, 342
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/hair2
+  rotate: false
+  xy: 150, 173
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/hair3
+  rotate: false
+  xy: 648, 353
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/hair4
+  rotate: true
+  xy: 240, 186
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/hair5
+  rotate: true
+  xy: 321, 273
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/hairinner
+  rotate: false
+  xy: 389, 314
+  size: 85, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/handinner
+  rotate: false
+  xy: 790, 218
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/handout
+  rotate: false
+  xy: 727, 272
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/hudang
+  rotate: true
+  xy: 790, 251
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/hudanginner
+  rotate: false
+  xy: 249, 149
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/jianjiainner
+  rotate: false
+  xy: 552, 360
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/jianjiainner1
+  rotate: false
+  xy: 718, 367
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/jianjiaout
+  rotate: false
+  xy: 389, 263
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/jianjiaout1
+  rotate: true
+  xy: 2, 2
+  size: 108, 53
+  orig: 108, 53
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/leginnerdown
+  rotate: false
+  xy: 985, 315
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/leginnerup
+  rotate: true
+  xy: 726, 225
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/legoutdown
+  rotate: true
+  xy: 550, 250
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/legoutup
+  rotate: false
+  xy: 625, 286
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/maoinner
+  rotate: false
+  xy: 475, 249
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/maoinner1
+  rotate: false
+  xy: 550, 297
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/maoout
+  rotate: false
+  xy: 244, 276
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/maoout1
+  rotate: false
+  xy: 705, 425
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/maooutinner
+  rotate: false
+  xy: 134, 2
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/toushi
+  rotate: true
+  xy: 134, 57
+  size: 49, 109
+  orig: 49, 109
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/toushi1
+  rotate: false
+  xy: 552, 409
+  size: 74, 101
+  orig: 74, 101
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/weapon
+  rotate: false
+  xy: 2, 264
+  size: 240, 114
+  orig: 240, 114
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/yaojiainner
+  rotate: false
+  xy: 302, 217
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin/yaojiaout
+  rotate: true
+  xy: 676, 287
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/arminner1
+  rotate: false
+  xy: 212, 13
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/arminnerup
+  rotate: true
+  xy: 727, 318
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/arminnerup1
+  rotate: true
+  xy: 678, 248
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/armoutup
+  rotate: false
+  xy: 240, 215
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/handinner1
+  rotate: false
+  xy: 257, 83
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/handout1
+  rotate: false
+  xy: 826, 253
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pifeng
+  rotate: false
+  xy: 2, 380
+  size: 245, 130
+  orig: 245, 130
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pifeng1
+  rotate: true
+  xy: 888, 388
+  size: 39, 111
+  orig: 39, 111
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pifeng2
+  rotate: false
+  xy: 2, 112
+  size: 146, 150
+  orig: 146, 150
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pifengout1
+  rotate: true
+  xy: 249, 386
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pijianout
+  rotate: true
+  xy: 795, 428
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pijianout1
+  rotate: true
+  xy: 795, 371
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/eyehard3
+  rotate: true
+  xy: 784, 358
+  size: 65, 9
+  orig: 65, 9
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/eyesffuer
+  rotate: false
+  xy: 888, 470
+  size: 133, 40
+  orig: 133, 40
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/eyeyun
+  rotate: false
+  xy: 888, 429
+  size: 133, 39
+  orig: 133, 39
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/mouth01
+  rotate: true
+  xy: 852, 299
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/mouth02
+  rotate: true
+  xy: 826, 282
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/mouth03
+  rotate: true
+  xy: 245, 64
+  size: 42, 10
+  orig: 42, 10
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/mouth04
+  rotate: false
+  xy: 57, 3
+  size: 32, 7
+  orig: 32, 7
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 795, 344
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

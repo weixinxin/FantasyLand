@@ -1,0 +1,412 @@
+
+Bozel_Skin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bozel_Skin1/arm_inner_down
+  rotate: true
+  xy: 1735, 400
+  size: 66, 187
+  orig: 66, 187
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/arm_inner_up
+  rotate: false
+  xy: 1037, 102
+  size: 114, 286
+  orig: 114, 286
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/arm_out_down
+  rotate: false
+  xy: 1409, 433
+  size: 172, 450
+  orig: 172, 450
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/arm_out_up
+  rotate: false
+  xy: 1221, 437
+  size: 186, 446
+  orig: 186, 446
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/arm_out_up_1
+  rotate: true
+  xy: 1518, 1446
+  size: 186, 528
+  orig: 186, 528
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/blood_1
+  rotate: false
+  xy: 892, 963
+  size: 21, 69
+  orig: 21, 69
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/blood_2
+  rotate: false
+  xy: 1166, 907
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/body_up
+  rotate: true
+  xy: 1471, 1634
+  size: 407, 497
+  orig: 407, 497
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/eye_1_Angry
+  rotate: true
+  xy: 2032, 2031
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/eye_1_Battle_Weak
+  rotate: true
+  xy: 2032, 1434
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/face
+  rotate: false
+  xy: 1800, 288
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/hair_1_1
+  rotate: true
+  xy: 1583, 464
+  size: 47, 150
+  orig: 47, 150
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/hair_1_2
+  rotate: true
+  xy: 636, 6
+  size: 75, 243
+  orig: 75, 243
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/hair_1_3
+  rotate: false
+  xy: 1623, 299
+  size: 99, 163
+  orig: 99, 163
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/hair_1_4
+  rotate: false
+  xy: 1990, 837
+  size: 56, 175
+  orig: 56, 175
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/hair_1_5
+  rotate: false
+  xy: 1342, 183
+  size: 61, 252
+  orig: 61, 252
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/hair_1_6
+  rotate: false
+  xy: 1153, 74
+  size: 93, 316
+  orig: 93, 316
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/hand_inner_1
+  rotate: true
+  xy: 2, 27
+  size: 904, 259
+  orig: 904, 259
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/hand_inner_3
+  rotate: false
+  xy: 1927, 1014
+  size: 119, 127
+  orig: 119, 127
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/hand_out
+  rotate: false
+  xy: 1623, 141
+  size: 106, 156
+  orig: 106, 156
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/jianjia_inner_1
+  rotate: false
+  xy: 452, 1034
+  size: 466, 337
+  orig: 466, 337
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/jianjia_inner_2
+  rotate: true
+  xy: 1248, 120
+  size: 315, 92
+  orig: 315, 92
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/jianjia_out
+  rotate: true
+  xy: 920, 901
+  size: 470, 244
+  orig: 470, 244
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mao_inner1
+  rotate: false
+  xy: 892, 390
+  size: 228, 509
+  orig: 228, 509
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mao_inner2
+  rotate: true
+  xy: 445, 355
+  size: 576, 138
+  orig: 576, 138
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mao_out_1
+  rotate: true
+  xy: 1161, 1378
+  size: 251, 355
+  orig: 251, 355
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mao_out_2
+  rotate: false
+  xy: 1584, 883
+  size: 341, 231
+  orig: 341, 231
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mao_out_3
+  rotate: false
+  xy: 1584, 1116
+  size: 322, 328
+  orig: 322, 328
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mao_out_4
+  rotate: true
+  xy: 1754, 468
+  size: 110, 215
+  orig: 110, 215
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mao_out_5
+  rotate: false
+  xy: 1405, 179
+  size: 123, 252
+  orig: 123, 252
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mao_out_6
+  rotate: true
+  xy: 1530, 178
+  size: 253, 91
+  orig: 253, 91
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mouth_1_Angry
+  rotate: false
+  xy: 1518, 1378
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mouth_1_Battle_Injury
+  rotate: false
+  xy: 882, 95
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mouth_1_Battle_Mighty
+  rotate: false
+  xy: 1518, 1412
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mouth_1_Battle_Weak
+  rotate: true
+  xy: 1553, 1378
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mouth_1_Normal
+  rotate: false
+  xy: 2, 4
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mouth_1_Smile
+  rotate: false
+  xy: 1970, 1682
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/mouth_1_Surprise
+  rotate: false
+  xy: 1248, 98
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/neck
+  rotate: true
+  xy: 452, 933
+  size: 99, 120
+  orig: 99, 120
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/pifeng_1
+  rotate: false
+  xy: 1908, 1143
+  size: 122, 301
+  orig: 122, 301
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/pifeng_2
+  rotate: false
+  xy: 440, 2
+  size: 194, 351
+  orig: 194, 351
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/pifeng_4
+  rotate: true
+  xy: 1166, 922
+  size: 454, 222
+  orig: 454, 222
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/pifeng_5
+  rotate: true
+  xy: 452, 1373
+  size: 256, 707
+  orig: 256, 707
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/shalou
+  rotate: true
+  xy: 585, 359
+  size: 132, 204
+  orig: 132, 204
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/suolian
+  rotate: false
+  xy: 1970, 1707
+  size: 60, 334
+  orig: 60, 334
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/suolian_inner
+  rotate: false
+  xy: 1724, 315
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/toushi_inner_1
+  rotate: true
+  xy: 882, 119
+  size: 269, 153
+  orig: 269, 153
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/toushi_out
+  rotate: true
+  xy: 636, 83
+  size: 274, 244
+  orig: 274, 244
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/weapon_1
+  rotate: false
+  xy: 452, 1631
+  size: 1017, 410
+  orig: 1017, 410
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/weapon_2
+  rotate: false
+  xy: 2, 933
+  size: 448, 1108
+  orig: 448, 1108
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/xiongjia_1
+  rotate: true
+  xy: 1754, 580
+  size: 301, 234
+  orig: 301, 234
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/xiongjia_2
+  rotate: false
+  xy: 585, 493
+  size: 222, 539
+  orig: 222, 539
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/xiongjia_3
+  rotate: false
+  xy: 263, 369
+  size: 180, 562
+  orig: 180, 562
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/xiongjia_4
+  rotate: false
+  xy: 1122, 392
+  size: 97, 507
+  orig: 97, 507
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/xiongjia_5
+  rotate: false
+  xy: 809, 405
+  size: 81, 627
+  orig: 81, 627
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/xiuzi_inner_2
+  rotate: false
+  xy: 1583, 513
+  size: 169, 368
+  orig: 169, 368
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/xiuzi_out
+  rotate: true
+  xy: 263, 6
+  size: 361, 175
+  orig: 361, 175
+  offset: 0, 0
+  index: -1
+Bozel_Skin1/xizou_inner_1
+  rotate: false
+  xy: 1390, 885
+  size: 192, 491
+  orig: 192, 491
+  offset: 0, 0
+  index: -1

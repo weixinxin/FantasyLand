@@ -1,0 +1,524 @@
+
+Soldier_Enemy_SerpentKnight.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 500, 4
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtHigh/body
+  rotate: true
+  xy: 641, 254
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtHigh/handinner
+  rotate: true
+  xy: 673, 44
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtHigh/handinner1
+  rotate: true
+  xy: 648, 24
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtHigh/handout
+  rotate: true
+  xy: 339, 422
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtHigh/handout1
+  rotate: true
+  xy: 605, 25
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtHigh/hatout
+  rotate: true
+  xy: 523, 371
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtHigh/jianjiainner
+  rotate: false
+  xy: 734, 156
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtHigh/jianjiaout
+  rotate: false
+  xy: 540, 25
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtHigh/legoutdown
+  rotate: false
+  xy: 998, 335
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtHigh/legoutup
+  rotate: false
+  xy: 805, 324
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtHigh/yaojia
+  rotate: false
+  xy: 682, 199
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtgeneral/body
+  rotate: true
+  xy: 403, 283
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtgeneral/handinner
+  rotate: true
+  xy: 914, 337
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtgeneral/handinner1
+  rotate: false
+  xy: 956, 333
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtgeneral/handout
+  rotate: true
+  xy: 616, 67
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtgeneral/handout1
+  rotate: false
+  xy: 830, 335
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtgeneral/hatout
+  rotate: false
+  xy: 261, 283
+  size: 140, 131
+  orig: 140, 131
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtgeneral/jianjiainner
+  rotate: false
+  xy: 674, 156
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtgeneral/jianjiaout
+  rotate: true
+  xy: 522, 80
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtgeneral/legoutdown
+  rotate: false
+  xy: 998, 300
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtgeneral/legoutup
+  rotate: false
+  xy: 772, 109
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_HawkKningtgeneral/yaojia
+  rotate: false
+  xy: 724, 108
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentHigh/Dragon_backlegout
+  rotate: false
+  xy: 566, 76
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentHigh/Dragon_frontlegout
+  rotate: true
+  xy: 728, 316
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentHigh/Dragon_head
+  rotate: false
+  xy: 225, 153
+  size: 142, 128
+  orig: 142, 128
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentHigh/Dragon_weiba1
+  rotate: true
+  xy: 339, 450
+  size: 60, 182
+  orig: 60, 182
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentHigh/Dragon_xiongshi
+  rotate: false
+  xy: 427, 175
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentHigh/weapon1
+  rotate: false
+  xy: 2, 287
+  size: 257, 127
+  orig: 257, 127
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_backlegout
+  rotate: false
+  xy: 668, 102
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_backlegout2
+  rotate: false
+  xy: 551, 263
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_body
+  rotate: false
+  xy: 2, 78
+  size: 205, 104
+  orig: 205, 104
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_frontleginner
+  rotate: true
+  xy: 533, 146
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_frontleginner1
+  rotate: true
+  xy: 369, 147
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_frontlegout
+  rotate: false
+  xy: 447, 2
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_frontlegout1
+  rotate: true
+  xy: 956, 370
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_head
+  rotate: false
+  xy: 209, 23
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_kaijia
+  rotate: false
+  xy: 506, 338
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_neck
+  rotate: false
+  xy: 351, 29
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_tuijia
+  rotate: false
+  xy: 782, 164
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_weiba
+  rotate: false
+  xy: 551, 313
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_weiba1
+  rotate: true
+  xy: 2, 23
+  size: 53, 182
+  orig: 53, 182
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/Dragon_xiongshi
+  rotate: false
+  xy: 403, 338
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/an
+  rotate: false
+  xy: 447, 80
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/beiqi
+  rotate: false
+  xy: 646, 308
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/water
+  rotate: false
+  xy: 2, 416
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Soldier_Enemy_SerpentKnight/weapon
+  rotate: false
+  xy: 2, 184
+  size: 221, 101
+  orig: 221, 101
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtHigh/body
+  rotate: true
+  xy: 608, 202
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtHigh/handinner
+  rotate: false
+  xy: 673, 12
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtHigh/handinner1
+  rotate: false
+  xy: 402, 4
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtHigh/handout
+  rotate: true
+  xy: 351, 2
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtHigh/handout1
+  rotate: true
+  xy: 872, 335
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtHigh/hatout
+  rotate: true
+  xy: 670, 370
+  size: 140, 143
+  orig: 140, 143
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtHigh/jianjiainner
+  rotate: true
+  xy: 723, 204
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtHigh/jianjiaout
+  rotate: true
+  xy: 616, 94
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtHigh/legoutdown
+  rotate: true
+  xy: 668, 76
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtHigh/legoutup
+  rotate: true
+  xy: 830, 310
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtHigh/yaojia
+  rotate: false
+  xy: 715, 254
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtgeneral/body
+  rotate: true
+  xy: 477, 283
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtgeneral/handout
+  rotate: false
+  xy: 799, 117
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtgeneral/hatout
+  rotate: false
+  xy: 815, 376
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtgeneral/jianjiainner
+  rotate: true
+  xy: 755, 256
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtgeneral/jianjiaout
+  rotate: false
+  xy: 608, 158
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtgeneral/legoutdown
+  rotate: true
+  xy: 703, 76
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Soldier_HawkKningtgeneral/yaojia
+  rotate: false
+  xy: 772, 208
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 351, 147
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+eyehard
+  rotate: false
+  xy: 952, 309
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: false
+  xy: 876, 306
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: false
+  xy: 914, 306
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 533, 192
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 608, 254
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 209, 165
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+mouth03
+  rotate: true
+  xy: 522, 155
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+mouth04
+  rotate: false
+  xy: 728, 308
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1

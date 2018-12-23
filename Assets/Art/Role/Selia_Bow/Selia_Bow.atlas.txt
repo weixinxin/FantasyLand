@@ -1,0 +1,293 @@
+
+Selia_Bow.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anna/Bow/Anna_Sniper_2/dd
+  rotate: false
+  xy: 497, 425
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Anna/Bow/Anna_Sniper_2/pifeng2
+  rotate: false
+  xy: 282, 418
+  size: 155, 92
+  orig: 155, 92
+  offset: 0, 0
+  index: -1
+Anna/Bow/Anna_Sniper_2/pifenginner
+  rotate: false
+  xy: 140, 332
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+Anna/Bow/Anna_Sniper_2/pifengout
+  rotate: true
+  xy: 140, 293
+  size: 37, 91
+  orig: 37, 91
+  offset: 0, 0
+  index: -1
+Anna/Bow/Anna_Sniper_2/weapon
+  rotate: false
+  xy: 2, 425
+  size: 278, 85
+  orig: 278, 85
+  offset: 0, 0
+  index: -1
+Anna/Bow/Anna_Sniper_2/weapon1
+  rotate: false
+  xy: 228, 392
+  size: 184, 24
+  orig: 184, 24
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/jianjiainner
+  rotate: false
+  xy: 248, 144
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/arminnerdown
+  rotate: false
+  xy: 314, 311
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/arminnerup
+  rotate: true
+  xy: 414, 392
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/armoutdown
+  rotate: true
+  xy: 154, 138
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/armoutup
+  rotate: true
+  xy: 279, 195
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/body
+  rotate: false
+  xy: 139, 224
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/handinner
+  rotate: true
+  xy: 175, 115
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/handout
+  rotate: true
+  xy: 224, 145
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/jianjiaout
+  rotate: false
+  xy: 224, 166
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/leginnerdown
+  rotate: false
+  xy: 192, 173
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/leginnerup
+  rotate: false
+  xy: 148, 103
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/legoutdown
+  rotate: false
+  xy: 154, 169
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/legoutup
+  rotate: false
+  xy: 148, 72
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/qunzi1
+  rotate: true
+  xy: 186, 226
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/qunzi2
+  rotate: true
+  xy: 192, 145
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Selia/Selia_Bow/Selia_Sniper_2/qunzi3
+  rotate: true
+  xy: 280, 250
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+Selia/eyebrow
+  rotate: true
+  xy: 497, 431
+  size: 79, 8
+  orig: 79, 8
+  offset: 0, 0
+  index: -1
+Selia/eyehard
+  rotate: true
+  xy: 111, 141
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Selia/eyehard1
+  rotate: true
+  xy: 125, 67
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Selia/eyehard2
+  rotate: true
+  xy: 134, 141
+  size: 72, 18
+  orig: 72, 18
+  offset: 0, 0
+  index: -1
+Selia/eyehard3
+  rotate: true
+  xy: 125, 2
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+Selia/eyesffuer
+  rotate: true
+  xy: 111, 215
+  size: 79, 26
+  orig: 79, 26
+  offset: 0, 0
+  index: -1
+Selia/eyeyun
+  rotate: false
+  xy: 233, 311
+  size: 79, 25
+  orig: 79, 25
+  offset: 0, 0
+  index: -1
+Selia/face
+  rotate: false
+  xy: 2, 296
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1
+Selia/hair1
+  rotate: false
+  xy: 439, 402
+  size: 56, 108
+  orig: 56, 108
+  offset: 0, 0
+  index: -1
+Selia/hair2
+  rotate: true
+  xy: 224, 196
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Selia/hair3
+  rotate: true
+  xy: 345, 331
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+Selia/hair4
+  rotate: false
+  xy: 2, 141
+  size: 107, 153
+  orig: 107, 153
+  offset: 0, 0
+  index: -1
+Selia/hair5
+  rotate: false
+  xy: 234, 250
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+Selia/hair6
+  rotate: true
+  xy: 228, 338
+  size: 52, 115
+  orig: 52, 115
+  offset: 0, 0
+  index: -1
+Selia/hairinner
+  rotate: false
+  xy: 2, 2
+  size: 121, 137
+  orig: 121, 137
+  offset: 0, 0
+  index: -1
+Selia/mouth01
+  rotate: false
+  xy: 228, 418
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Selia/mouth02
+  rotate: true
+  xy: 317, 294
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Selia/mouth04
+  rotate: true
+  xy: 507, 494
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 234, 223
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

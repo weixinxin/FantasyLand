@@ -1,0 +1,139 @@
+
+Qudao_huawei01.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 137, 3
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/body
+  rotate: false
+  xy: 2, 2
+  size: 67, 75
+  orig: 67, 75
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/eyebrow
+  rotate: false
+  xy: 178, 83
+  size: 79, 14
+  orig: 79, 14
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/eyehard
+  rotate: false
+  xy: 419, 227
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/eyesffuer
+  rotate: false
+  xy: 338, 171
+  size: 79, 40
+  orig: 79, 40
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/eyeyun
+  rotate: false
+  xy: 338, 213
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/handinner
+  rotate: true
+  xy: 262, 105
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/handout
+  rotate: true
+  xy: 178, 99
+  size: 51, 82
+  orig: 51, 82
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/handout1
+  rotate: false
+  xy: 71, 2
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/hatout
+  rotate: false
+  xy: 2, 79
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/leginnerdown
+  rotate: false
+  xy: 333, 114
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/leginnerup
+  rotate: false
+  xy: 465, 156
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/legoutdown
+  rotate: true
+  xy: 378, 148
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/legoutup
+  rotate: true
+  xy: 419, 162
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/mouth01
+  rotate: true
+  xy: 353, 117
+  size: 24, 5
+  orig: 24, 5
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/tail
+  rotate: false
+  xy: 419, 200
+  size: 82, 25
+  orig: 82, 25
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_huawei01/weapon
+  rotate: false
+  xy: 178, 152
+  size: 158, 102
+  orig: 158, 102
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 360, 121
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 338, 143
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

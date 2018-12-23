@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<Unit ID="100001" ModelName="Role/Elwin" Radius="0.5" MaxHP="10" Attack="2" MoveSpeed="1.0" AttackDuration="1.0" AttackRange="1" VisualRange="8.0" Bullet="200001" Skills="300001" Animator="1"/>
+	<Unit ID="100002" ModelName="Role/Leon" Radius="1" MaxHP="10" Attack="2" MoveSpeed="2.0" AttackDuration="1.0" AttackRange="1" VisualRange="8.0" Bullet="200001" Skills="" Animator="1"/>
+	<Unit ID="100003" ModelName="Role/Soldier_Witch2" Radius="0.5" MaxHP="10" Attack="2" MoveSpeed="1.0" AttackDuration="1.0" AttackRange="4" VisualRange="8.0" Bullet="200001" Skills="300003" Animator="1"/>
+	<Unit ID="100004" ModelName="Role/Archer" Radius="0.5" MaxHP="10" Attack="2" MoveSpeed="1.0" AttackDuration="1.0" AttackRange="4" VisualRange="8.0" Bullet="200001" Skills="300004" Animator="1"/>
+	<Unit ID="100005" ModelName="Role/SwordMan" Radius="0.5" MaxHP="10" Attack="2" MoveSpeed="1.0" AttackDuration="1.0" AttackRange="1" VisualRange="8.0" Bullet="200001" Skills="300005" Animator="1"/>
+</root>

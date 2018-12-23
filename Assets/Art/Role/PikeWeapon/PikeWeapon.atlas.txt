@@ -1,0 +1,167 @@
+
+PikeWeapon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/Pike10
+  rotate: false
+  xy: 2, 359
+  size: 405, 72
+  orig: 405, 72
+  offset: 0, 0
+  index: -1
+Weapon/Pike11
+  rotate: false
+  xy: 2, 29
+  size: 295, 63
+  orig: 295, 63
+  offset: 0, 0
+  index: -1
+Weapon/Pike12
+  rotate: false
+  xy: 2, 171
+  size: 309, 76
+  orig: 309, 76
+  offset: 0, 0
+  index: -1
+Weapon/Pike13
+  rotate: false
+  xy: 2, 249
+  size: 325, 108
+  orig: 325, 108
+  offset: 0, 0
+  index: -1
+Weapon/Pike14
+  rotate: false
+  xy: 613, 254
+  size: 237, 58
+  orig: 237, 58
+  offset: 0, 0
+  index: -1
+Weapon/Pike15
+  rotate: false
+  xy: 613, 194
+  size: 237, 58
+  orig: 237, 58
+  offset: 0, 0
+  index: -1
+Weapon/Pike16
+  rotate: false
+  xy: 313, 136
+  size: 267, 43
+  orig: 267, 43
+  offset: 0, 0
+  index: -1
+Weapon/Pike18
+  rotate: false
+  xy: 706, 314
+  size: 257, 58
+  orig: 257, 58
+  offset: 0, 0
+  index: -1
+Weapon/Pike19
+  rotate: false
+  xy: 812, 453
+  size: 172, 53
+  orig: 172, 53
+  offset: 0, 0
+  index: -1
+Weapon/Pike2
+  rotate: false
+  xy: 719, 374
+  size: 259, 17
+  orig: 259, 17
+  offset: 0, 0
+  index: -1
+Weapon/Pike20
+  rotate: false
+  xy: 2, 2
+  size: 287, 25
+  orig: 287, 25
+  offset: 0, 0
+  index: -1
+Weapon/Pike21
+  rotate: false
+  xy: 409, 378
+  size: 308, 52
+  orig: 308, 52
+  offset: 0, 0
+  index: -1
+Weapon/Pike22
+  rotate: false
+  xy: 2, 94
+  size: 296, 75
+  orig: 296, 75
+  offset: 0, 0
+  index: -1
+Weapon/Pike23
+  rotate: false
+  xy: 329, 263
+  size: 280, 63
+  orig: 280, 63
+  offset: 0, 0
+  index: -1
+Weapon/Pike24
+  rotate: false
+  xy: 411, 432
+  size: 319, 42
+  orig: 319, 42
+  offset: 0, 0
+  index: -1
+Weapon/Pike3
+  rotate: false
+  xy: 732, 393
+  size: 259, 58
+  orig: 259, 58
+  offset: 0, 0
+  index: -1
+Weapon/Pike4
+  rotate: false
+  xy: 299, 12
+  size: 262, 61
+  orig: 262, 61
+  offset: 0, 0
+  index: -1
+Weapon/Pike5
+  rotate: false
+  xy: 409, 328
+  size: 295, 48
+  orig: 295, 48
+  offset: 0, 0
+  index: -1
+Weapon/Pike6
+  rotate: false
+  xy: 313, 181
+  size: 275, 38
+  orig: 275, 38
+  offset: 0, 0
+  index: -1
+Weapon/Pike7
+  rotate: false
+  xy: 329, 221
+  size: 282, 40
+  orig: 282, 40
+  offset: 0, 0
+  index: -1
+Weapon/Pike8
+  rotate: false
+  xy: 411, 476
+  size: 399, 30
+  orig: 399, 30
+  offset: 0, 0
+  index: -1
+Weapon/Pike9
+  rotate: false
+  xy: 2, 433
+  size: 407, 73
+  orig: 407, 73
+  offset: 0, 0
+  index: -1
+Weapon/PikeWeapon1
+  rotate: false
+  xy: 300, 75
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1

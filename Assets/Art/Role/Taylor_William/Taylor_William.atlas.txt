@@ -1,0 +1,335 @@
+
+Taylor_William.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC_Bust/Taylor/blood_1
+  rotate: false
+  xy: 899, 364
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/blood_2
+  rotate: true
+  xy: 270, 535
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/blood_3
+  rotate: false
+  xy: 855, 242
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/body_1
+  rotate: false
+  xy: 508, 87
+  size: 117, 192
+  orig: 117, 192
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/body_2
+  rotate: true
+  xy: 271, 71
+  size: 208, 235
+  orig: 208, 235
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/body_3
+  rotate: false
+  xy: 2, 560
+  size: 312, 462
+  orig: 312, 462
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/eye_Firm
+  rotate: false
+  xy: 696, 295
+  size: 100, 41
+  orig: 100, 41
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/eye_Normal
+  rotate: true
+  xy: 963, 790
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/eye_Weak
+  rotate: false
+  xy: 868, 745
+  size: 100, 37
+  orig: 100, 37
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/hair_1
+  rotate: true
+  xy: 508, 71
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/hair_2
+  rotate: true
+  xy: 855, 174
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/mouth_Firm
+  rotate: true
+  xy: 949, 502
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/mouth_Normal
+  rotate: true
+  xy: 899, 486
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/mouth_Weak
+  rotate: false
+  xy: 798, 295
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+NPC_Bust/Taylor/point
+  rotate: false
+  xy: 663, 710
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/arm_inner_up
+  rotate: false
+  xy: 627, 124
+  size: 134, 158
+  orig: 134, 158
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/blood_1
+  rotate: false
+  xy: 970, 760
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/blood_2
+  rotate: false
+  xy: 857, 295
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/blood_3
+  rotate: true
+  xy: 301, 13
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/body_up
+  rotate: false
+  xy: 316, 532
+  size: 372, 167
+  orig: 372, 167
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/eye_1_Hurt
+  rotate: true
+  xy: 963, 892
+  size: 130, 52
+  orig: 130, 52
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/eye_1_Normal_1
+  rotate: false
+  xy: 2, 3
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/eye_1_Normal_2
+  rotate: false
+  xy: 136, 3
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/eye_1_Normal_3
+  rotate: false
+  xy: 627, 76
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/face
+  rotate: false
+  xy: 270, 281
+  size: 246, 249
+  orig: 246, 249
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/hair_1_1
+  rotate: false
+  xy: 814, 335
+  size: 83, 198
+  orig: 83, 198
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/hair_1_2
+  rotate: false
+  xy: 803, 535
+  size: 89, 182
+  orig: 89, 182
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/huzi
+  rotate: true
+  xy: 899, 412
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/jianjia_inner_1
+  rotate: false
+  xy: 663, 719
+  size: 203, 303
+  orig: 203, 303
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/jianjia_inner_2
+  rotate: false
+  xy: 763, 59
+  size: 97, 111
+  orig: 97, 111
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/jianjia_inner_3
+  rotate: true
+  xy: 894, 561
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/jianjia_out
+  rotate: false
+  xy: 316, 701
+  size: 345, 321
+  orig: 345, 321
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/lingzi_inner_1
+  rotate: false
+  xy: 894, 644
+  size: 72, 99
+  orig: 72, 99
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/lingzi_inner_2
+  rotate: true
+  xy: 763, 172
+  size: 121, 90
+  orig: 121, 90
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/lingzi_out
+  rotate: true
+  xy: 696, 338
+  size: 194, 116
+  orig: 194, 116
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/mouth_1_Hurt
+  rotate: false
+  xy: 271, 40
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/mouth_1_Normal_A
+  rotate: false
+  xy: 899, 338
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/mouth_1_Normal_B
+  rotate: false
+  xy: 324, 41
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/mouth_1_Normal_C
+  rotate: false
+  xy: 902, 305
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/mouth_1_Normal_D
+  rotate: true
+  xy: 855, 190
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/neck
+  rotate: true
+  xy: 690, 534
+  size: 183, 111
+  orig: 183, 111
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/nose
+  rotate: false
+  xy: 270, 2
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/pijian_inner
+  rotate: false
+  xy: 518, 284
+  size: 176, 246
+  orig: 176, 246
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/pijian_out
+  rotate: false
+  xy: 2, 51
+  size: 267, 181
+  orig: 267, 181
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/point
+  rotate: false
+  xy: 376, 50
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/weijin
+  rotate: true
+  xy: 868, 784
+  size: 238, 93
+  orig: 238, 93
+  offset: 0, 0
+  index: -1
+NPC_Bust/William/xiongjia
+  rotate: true
+  xy: 2, 234
+  size: 324, 266
+  orig: 324, 266
+  offset: 0, 0
+  index: -1

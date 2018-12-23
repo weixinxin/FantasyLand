@@ -1,0 +1,356 @@
+
+Witch_Skin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 482, 211
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Witch/Witch_01/eyebrow
+  rotate: false
+  xy: 76, 12
+  size: 70, 12
+  orig: 70, 12
+  offset: 0, 0
+  index: -1
+Witch/Witch_01/eyehard
+  rotate: false
+  xy: 641, 236
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+Witch/Witch_01/face
+  rotate: true
+  xy: 222, 196
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+Witch/Witch_01/mouth01
+  rotate: true
+  xy: 499, 379
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Witch/Witch_02/eyebrow
+  rotate: true
+  xy: 700, 169
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Witch/Witch_02/eyehard
+  rotate: false
+  xy: 2, 2
+  size: 72, 22
+  orig: 72, 22
+  offset: 0, 0
+  index: -1
+Witch/Witch_02/face
+  rotate: false
+  xy: 740, 286
+  size: 107, 93
+  orig: 107, 93
+  offset: 0, 0
+  index: -1
+Witch/Witch_02/mouth01
+  rotate: false
+  xy: 148, 14
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/body
+  rotate: true
+  xy: 558, 206
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/hair
+  rotate: true
+  xy: 319, 246
+  size: 149, 159
+  orig: 149, 159
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/hair1
+  rotate: true
+  xy: 719, 169
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/hair2
+  rotate: true
+  xy: 221, 116
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/hairinner
+  rotate: true
+  xy: 696, 381
+  size: 129, 169
+  orig: 129, 169
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/handinner
+  rotate: false
+  xy: 284, 115
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/handout
+  rotate: false
+  xy: 429, 146
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/hatinner
+  rotate: false
+  xy: 519, 379
+  size: 175, 131
+  orig: 175, 131
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/hatout
+  rotate: false
+  xy: 480, 251
+  size: 159, 126
+  orig: 159, 126
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/leginnerdown
+  rotate: false
+  xy: 529, 168
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/legoutdown
+  rotate: false
+  xy: 500, 164
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/qunbai
+  rotate: false
+  xy: 318, 165
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/saoba
+  rotate: false
+  xy: 2, 304
+  size: 315, 93
+  orig: 315, 93
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/shipin
+  rotate: true
+  xy: 480, 379
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin01/Witch_skin01/weapon
+  rotate: true
+  xy: 849, 294
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/body
+  rotate: false
+  xy: 337, 101
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/hair
+  rotate: true
+  xy: 867, 371
+  size: 139, 151
+  orig: 139, 151
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/hair1
+  rotate: true
+  xy: 318, 208
+  size: 36, 80
+  orig: 36, 80
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/hairinner
+  rotate: false
+  xy: 2, 26
+  size: 164, 155
+  orig: 164, 155
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/handinner
+  rotate: false
+  xy: 385, 98
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/handout
+  rotate: false
+  xy: 385, 143
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/hat
+  rotate: false
+  xy: 334, 397
+  size: 183, 113
+  orig: 183, 113
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/hatinner
+  rotate: false
+  xy: 2, 183
+  size: 218, 119
+  orig: 218, 119
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/jianjiainner
+  rotate: false
+  xy: 290, 161
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/jianjiaout
+  rotate: true
+  xy: 808, 257
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/leginner
+  rotate: false
+  xy: 605, 162
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/legout
+  rotate: true
+  xy: 558, 178
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/pifeng
+  rotate: false
+  xy: 400, 209
+  size: 80, 35
+  orig: 80, 35
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/pifeng1
+  rotate: false
+  xy: 719, 196
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/qunbaiinner
+  rotate: true
+  xy: 939, 294
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/saoba
+  rotate: false
+  xy: 2, 399
+  size: 330, 111
+  orig: 330, 111
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/shipin1
+  rotate: true
+  xy: 168, 26
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/weapon
+  rotate: false
+  xy: 641, 269
+  size: 97, 108
+  orig: 97, 108
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/yaodai
+  rotate: true
+  xy: 781, 196
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/yibaiinner
+  rotate: false
+  xy: 468, 145
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+Witch/Witch_skin02/Witch_skin02/yibaiout
+  rotate: false
+  xy: 168, 106
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+Witch/eyesffuer
+  rotate: false
+  xy: 740, 253
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+Witch/eyeyun
+  rotate: false
+  xy: 222, 165
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+Witch/huo0000
+  rotate: false
+  xy: 631, 169
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Witch/mouth02
+  rotate: true
+  xy: 718, 253
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Witch/mouth03
+  rotate: false
+  xy: 849, 376
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1

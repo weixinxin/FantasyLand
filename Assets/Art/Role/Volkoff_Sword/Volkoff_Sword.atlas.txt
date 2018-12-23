@@ -1,0 +1,272 @@
+
+Volkoff_Sword.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Elwin_zs/Elwin_1/arm_out1
+  rotate: true
+  xy: 365, 63
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/handinner1
+  rotate: true
+  xy: 444, 68
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/leginnerup
+  rotate: true
+  xy: 301, 81
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/legoutup
+  rotate: true
+  xy: 234, 7
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/weapon_1
+  rotate: true
+  xy: 268, 211
+  size: 43, 150
+  orig: 43, 150
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/weapon_2
+  rotate: false
+  xy: 268, 195
+  size: 72, 14
+  orig: 72, 14
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/weapon_3
+  rotate: true
+  xy: 357, 123
+  size: 10, 67
+  orig: 10, 67
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/pifenginner
+  rotate: true
+  xy: 126, 45
+  size: 148, 110
+  orig: 148, 110
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/pifengout1
+  rotate: true
+  xy: 127, 20
+  size: 23, 72
+  orig: 23, 72
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/pifengout2
+  rotate: false
+  xy: 238, 82
+  size: 61, 111
+  orig: 61, 111
+  offset: 0, 0
+  index: -1
+Elwin/Pike
+  rotate: false
+  xy: 2, 195
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 392, 135
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/arminnerdown
+  rotate: false
+  xy: 328, 2
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/armoutdown
+  rotate: true
+  xy: 78, 3
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/body
+  rotate: true
+  xy: 420, 198
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/handinner
+  rotate: false
+  xy: 472, 114
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/handout
+  rotate: false
+  xy: 416, 66
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/hudang
+  rotate: true
+  xy: 238, 42
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/jianjiainner
+  rotate: false
+  xy: 419, 145
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/jianjiaout
+  rotate: false
+  xy: 301, 125
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/leginnerdown
+  rotate: false
+  xy: 474, 143
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/legoutdown
+  rotate: true
+  xy: 427, 111
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/yaojiainner
+  rotate: true
+  xy: 201, 19
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Volkoff/Volkoff_Sword/Volkoff_Fighter_1/yaojiaout
+  rotate: false
+  xy: 289, 2
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Volkoff/eyebrow
+  rotate: false
+  xy: 289, 62
+  size: 74, 17
+  orig: 74, 17
+  offset: 0, 0
+  index: -1
+Volkoff/eyehard
+  rotate: false
+  xy: 289, 43
+  size: 69, 17
+  orig: 69, 17
+  offset: 0, 0
+  index: -1
+Volkoff/eyehard1
+  rotate: false
+  xy: 356, 104
+  size: 69, 17
+  orig: 69, 17
+  offset: 0, 0
+  index: -1
+Volkoff/eyehard2
+  rotate: false
+  xy: 127, 3
+  size: 69, 15
+  orig: 69, 15
+  offset: 0, 0
+  index: -1
+Volkoff/eyehard3
+  rotate: false
+  xy: 356, 95
+  size: 63, 7
+  orig: 63, 7
+  offset: 0, 0
+  index: -1
+Volkoff/eyesffuer
+  rotate: false
+  xy: 2, 7
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+Volkoff/eyeyun
+  rotate: true
+  xy: 357, 135
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+Volkoff/face
+  rotate: false
+  xy: 2, 44
+  size: 122, 149
+  orig: 122, 149
+  offset: 0, 0
+  index: -1
+Volkoff/hair1
+  rotate: true
+  xy: 472, 93
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Volkoff/hair2
+  rotate: true
+  xy: 198, 2
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+Volkoff/mouth01
+  rotate: true
+  xy: 498, 221
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+Volkoff/mouth02
+  rotate: true
+  xy: 352, 8
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+Volkoff/mouth03
+  rotate: false
+  xy: 427, 93
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+Volkoff/mouth04
+  rotate: true
+  xy: 498, 108
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,314 @@
+
+Lana_Skin03.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aimeeda/Aimeeda_Pilgrim/dd
+  rotate: false
+  xy: 320, 347
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/arminner1
+  rotate: false
+  xy: 211, 225
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/arminner2
+  rotate: true
+  xy: 137, 132
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/armout1
+  rotate: true
+  xy: 488, 482
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/armout2
+  rotate: false
+  xy: 471, 364
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/body
+  rotate: false
+  xy: 2, 7
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/body1
+  rotate: false
+  xy: 51, 7
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/eyebrow
+  rotate: true
+  xy: 409, 297
+  size: 65, 10
+  orig: 65, 10
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/eyehard
+  rotate: false
+  xy: 384, 425
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/eyehard1
+  rotate: false
+  xy: 139, 261
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/eyehard2
+  rotate: true
+  xy: 100, 4
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/eyehard3
+  rotate: false
+  xy: 216, 257
+  size: 69, 31
+  orig: 69, 31
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/eyesffuer
+  rotate: true
+  xy: 432, 359
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/eyeyun
+  rotate: true
+  xy: 290, 272
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/face
+  rotate: false
+  xy: 213, 338
+  size: 105, 85
+  orig: 105, 85
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/hair
+  rotate: false
+  xy: 190, 213
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/hair1
+  rotate: false
+  xy: 376, 299
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/hairback
+  rotate: true
+  xy: 384, 450
+  size: 60, 102
+  orig: 60, 102
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/hairback1
+  rotate: false
+  xy: 139, 286
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/hairout
+  rotate: false
+  xy: 2, 263
+  size: 135, 143
+  orig: 135, 143
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/handinner
+  rotate: false
+  xy: 253, 219
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/handinner2
+  rotate: false
+  xy: 375, 270
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/handout
+  rotate: true
+  xy: 488, 454
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/hatinner
+  rotate: false
+  xy: 2, 408
+  size: 209, 102
+  orig: 209, 102
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/hatout
+  rotate: false
+  xy: 213, 425
+  size: 169, 85
+  orig: 169, 85
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/leginnerdown
+  rotate: false
+  xy: 137, 159
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/leginnerup
+  rotate: false
+  xy: 287, 227
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/legoutdown
+  rotate: false
+  xy: 110, 140
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/legoutup
+  rotate: false
+  xy: 169, 165
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/mouth01
+  rotate: true
+  xy: 461, 434
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/mouth02
+  rotate: true
+  xy: 404, 279
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/mouth03
+  rotate: false
+  xy: 2, 2
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/mouth04
+  rotate: false
+  xy: 190, 204
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/shipin
+  rotate: false
+  xy: 211, 205
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/shipin1
+  rotate: true
+  xy: 326, 270
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/shipin2
+  rotate: true
+  xy: 471, 397
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/toushi
+  rotate: false
+  xy: 2, 138
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/weapon
+  rotate: true
+  xy: 320, 353
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/weapon1
+  rotate: false
+  xy: 374, 364
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/weapon2
+  rotate: false
+  xy: 137, 204
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/yaojia
+  rotate: false
+  xy: 2, 81
+  size: 104, 55
+  orig: 104, 55
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/yaojiainner
+  rotate: false
+  xy: 213, 290
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+Lana/lana_Skin03/yaojiaout
+  rotate: false
+  xy: 326, 301
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 110, 187
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

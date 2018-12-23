@@ -1,0 +1,125 @@
+
+MagicGolem.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 447, 428
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 503, 558
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: false
+  xy: 2, 2
+  size: 92, 21
+  orig: 92, 21
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 666, 605
+  size: 92, 21
+  orig: 92, 21
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 878, 844
+  size: 92, 21
+  orig: 92, 21
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 994, 929
+  size: 92, 21
+  orig: 92, 21
+  offset: 0, 0
+  index: -1
+face_inner
+  rotate: false
+  xy: 666, 826
+  size: 210, 195
+  orig: 210, 195
+  offset: 0, 0
+  index: -1
+face_out
+  rotate: false
+  xy: 2, 25
+  size: 185, 198
+  orig: 185, 198
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: false
+  xy: 2, 225
+  size: 317, 376
+  orig: 317, 376
+  offset: 0, 0
+  index: -1
+jianjia_out_3
+  rotate: false
+  xy: 447, 489
+  size: 54, 112
+  orig: 54, 112
+  offset: 0, 0
+  index: -1
+lingzi_inner_1
+  rotate: false
+  xy: 321, 239
+  size: 95, 164
+  orig: 95, 164
+  offset: 0, 0
+  index: -1
+lingzi_inner_2
+  rotate: false
+  xy: 189, 59
+  size: 96, 164
+  orig: 96, 164
+  offset: 0, 0
+  index: -1
+lingzi_out_1
+  rotate: false
+  xy: 321, 405
+  size: 124, 196
+  orig: 124, 196
+  offset: 0, 0
+  index: -1
+lingzi_out_2
+  rotate: false
+  xy: 666, 628
+  size: 124, 196
+  orig: 124, 196
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 603
+  size: 662, 418
+  orig: 662, 418
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 792, 728
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 878, 867
+  size: 154, 114
+  orig: 154, 114
+  offset: 0, 0
+  index: -1

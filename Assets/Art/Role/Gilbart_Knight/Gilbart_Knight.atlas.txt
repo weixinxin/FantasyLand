@@ -1,0 +1,349 @@
+
+Gilbart_Knight.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/body
+  rotate: true
+  xy: 214, 106
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/body1
+  rotate: false
+  xy: 356, 2
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/eyebrow
+  rotate: false
+  xy: 2, 8
+  size: 79, 12
+  orig: 79, 12
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/eyehard
+  rotate: true
+  xy: 491, 382
+  size: 65, 16
+  orig: 65, 16
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/eyehard1
+  rotate: false
+  xy: 189, 9
+  size: 65, 16
+  orig: 65, 16
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/eyehard2
+  rotate: true
+  xy: 389, 195
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/eyehard3
+  rotate: true
+  xy: 356, 41
+  size: 65, 10
+  orig: 65, 10
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/eyesffuer
+  rotate: true
+  xy: 373, 103
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/eyeyun
+  rotate: true
+  xy: 330, 27
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/face
+  rotate: false
+  xy: 111, 219
+  size: 121, 151
+  orig: 121, 151
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/hair1
+  rotate: false
+  xy: 399, 105
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/hair2
+  rotate: false
+  xy: 491, 353
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/handinner
+  rotate: true
+  xy: 399, 60
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/handinner1
+  rotate: false
+  xy: 449, 227
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/handout
+  rotate: false
+  xy: 368, 45
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/handout1
+  rotate: false
+  xy: 401, 223
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/jianjiainner
+  rotate: true
+  xy: 463, 159
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/jianjiaout1
+  rotate: true
+  xy: 310, 113
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/legdownout
+  rotate: true
+  xy: 455, 265
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/legoutup
+  rotate: false
+  xy: 483, 230
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/legupout
+  rotate: false
+  xy: 449, 192
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/mouth01
+  rotate: false
+  xy: 2, 2
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/pifeng
+  rotate: false
+  xy: 234, 256
+  size: 143, 52
+  orig: 143, 52
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/pifenginner
+  rotate: true
+  xy: 397, 269
+  size: 22, 56
+  orig: 22, 56
+  offset: 0, 0
+  index: -1
+Gilbart/Gilbart_Knight/Gilbart_KnightMaster_3/yaojia
+  rotate: false
+  xy: 399, 151
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_backlegdown
+  rotate: true
+  xy: 401, 189
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_backlegup
+  rotate: false
+  xy: 268, 18
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_body
+  rotate: true
+  xy: 2, 22
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_frontlegdown
+  rotate: false
+  xy: 234, 321
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_frontlegup
+  rotate: false
+  xy: 335, 184
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_weiba
+  rotate: false
+  xy: 398, 449
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_head
+  rotate: true
+  xy: 268, 310
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_neck
+  rotate: false
+  xy: 189, 27
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse3/Horse_toukui1
+  rotate: false
+  xy: 111, 116
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian1
+  rotate: false
+  xy: 379, 261
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian2
+  rotate: false
+  xy: 400, 293
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_mana
+  rotate: false
+  xy: 97, 25
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_neck1
+  rotate: true
+  xy: 97, 2
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia
+  rotate: true
+  xy: 234, 180
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: true
+  xy: 436, 154
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_xiongjia
+  rotate: false
+  xy: 400, 332
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/jianjiaout4
+  rotate: false
+  xy: 97, 164
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 2, 372
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 346, 108
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_3/weapon1
+  rotate: false
+  xy: 2, 433
+  size: 394, 77
+  orig: 394, 77
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_3/weapon2
+  rotate: false
+  xy: 2, 180
+  size: 107, 190
+  orig: 107, 190
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/dd
+  rotate: false
+  xy: 28, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/mouth02
+  rotate: true
+  xy: 399, 41
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/mouth04
+  rotate: false
+  xy: 491, 345
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1

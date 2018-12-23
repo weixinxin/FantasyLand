@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<Skill ID="300001" Desc="范围一次性伤害技能" Cost = "1" CD="5.0"  Duration="0" AutoCast="true"/>
+	<Skill ID="300002" Desc="范围持续百分比伤血技能" Cost="1" CD = "5.0" Duration="0" AutoCast="true"/>
+	<Skill ID="300003" Desc="物理免疫一段时间" Cost="1" CD = "5.0" Duration="0" AutoCast="true"/>
+	<Skill ID="300004" Desc="魔法免疫一段时间" Cost="1" CD = "5.0" Duration="0" AutoCast="true"/>
+	<Skill ID="300005" Desc="减免伤害" Cost="1" CD = "5.0" Duration="0" AutoCast="true"/>
+</root>

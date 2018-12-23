@@ -1,0 +1,111 @@
+
+Thief.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_up
+  rotate: false
+  xy: 2, 120
+  size: 210, 274
+  orig: 210, 274
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 453, 746
+  size: 235, 276
+  orig: 235, 276
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 2, 2
+  size: 27, 67
+  orig: 27, 67
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 71, 2
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 698
+  size: 449, 324
+  orig: 449, 324
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: false
+  xy: 453, 710
+  size: 123, 34
+  orig: 123, 34
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 963, 891
+  size: 131, 34
+  orig: 131, 34
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 379, 269
+  size: 125, 33
+  orig: 125, 33
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 888, 694
+  size: 122, 32
+  orig: 122, 32
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 690, 653
+  size: 196, 163
+  orig: 196, 163
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 690, 818
+  size: 271, 204
+  orig: 271, 204
+  offset: 0, 0
+  index: -1
+kouzi
+  rotate: true
+  xy: 2, 31
+  size: 87, 164
+  orig: 87, 164
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 168, 113
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+weijin_inner
+  rotate: true
+  xy: 214, 82
+  size: 312, 163
+  orig: 312, 163
+  offset: 0, 0
+  index: -1
+weijin_out
+  rotate: false
+  xy: 2, 396
+  size: 444, 300
+  orig: 444, 300
+  offset: 0, 0
+  index: -1

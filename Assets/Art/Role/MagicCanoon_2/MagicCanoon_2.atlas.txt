@@ -1,0 +1,34 @@
+
+MagicCanoon_2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MagicCanoon_2/backlegup
+  rotate: false
+  xy: 403, 94
+  size: 85, 102
+  orig: 85, 102
+  offset: 0, 0
+  index: -1
+MagicCanoon_2/body
+  rotate: true
+  xy: 2, 2
+  size: 194, 291
+  orig: 194, 291
+  offset: 0, 0
+  index: -1
+MagicCanoon_2/frontlegup
+  rotate: false
+  xy: 403, 14
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+MagicCanoon_2/paotong
+  rotate: false
+  xy: 295, 45
+  size: 106, 151
+  orig: 106, 151
+  offset: 0, 0
+  index: -1

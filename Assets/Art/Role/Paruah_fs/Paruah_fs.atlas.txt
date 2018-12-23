@@ -1,0 +1,223 @@
+
+Paruah_fs.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Paruah/Paruah_wizard_3/arminner1
+  rotate: true
+  xy: 72, 209
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/arminner2
+  rotate: false
+  xy: 110, 213
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/armout1
+  rotate: false
+  xy: 203, 342
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/armout2
+  rotate: true
+  xy: 454, 483
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/body
+  rotate: false
+  xy: 72, 240
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/eyebrow
+  rotate: true
+  xy: 30, 53
+  size: 76, 11
+  orig: 76, 11
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/eyehard
+  rotate: false
+  xy: 284, 469
+  size: 69, 14
+  orig: 69, 14
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/eyehard1
+  rotate: true
+  xy: 43, 60
+  size: 69, 14
+  orig: 69, 14
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/eyehard2
+  rotate: false
+  xy: 355, 474
+  size: 69, 9
+  orig: 69, 9
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/eyehard3
+  rotate: true
+  xy: 59, 60
+  size: 69, 8
+  orig: 69, 8
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/eyesffuer
+  rotate: false
+  xy: 203, 440
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/eyeyun
+  rotate: true
+  xy: 2, 53
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/face
+  rotate: false
+  xy: 2, 303
+  size: 146, 163
+  orig: 146, 163
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/hair1
+  rotate: false
+  xy: 2, 211
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/hair2
+  rotate: false
+  xy: 150, 365
+  size: 51, 101
+  orig: 51, 101
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/handinner1
+  rotate: true
+  xy: 69, 78
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/handinner2
+  rotate: false
+  xy: 69, 143
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/handout
+  rotate: false
+  xy: 203, 320
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/hudang
+  rotate: false
+  xy: 2, 131
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/jianjiainner
+  rotate: false
+  xy: 245, 402
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/jianjiaout
+  rotate: false
+  xy: 150, 319
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/leginnerdown
+  rotate: false
+  xy: 69, 110
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/leginnerup
+  rotate: false
+  xy: 2, 2
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/legoutdown
+  rotate: false
+  xy: 69, 173
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/legoutup
+  rotate: false
+  xy: 203, 384
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/mouth01
+  rotate: false
+  xy: 136, 296
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/mouth02
+  rotate: false
+  xy: 150, 303
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/mouth04
+  rotate: true
+  xy: 36, 35
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/toushi
+  rotate: true
+  xy: 284, 485
+  size: 25, 92
+  orig: 25, 92
+  offset: 0, 0
+  index: -1
+Paruah/Paruah_wizard_3/weapon
+  rotate: false
+  xy: 2, 468
+  size: 280, 42
+  orig: 280, 42
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 378, 485
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

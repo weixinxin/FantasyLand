@@ -1,0 +1,272 @@
+
+Illzach_Shield.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Illzach/dd
+  rotate: false
+  xy: 210, 403
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Illzach/eyebrow
+  rotate: false
+  xy: 210, 292
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+Illzach/eyehard
+  rotate: false
+  xy: 322, 349
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+Illzach/eyehard1
+  rotate: true
+  xy: 285, 227
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+Illzach/eyehard2
+  rotate: true
+  xy: 490, 358
+  size: 63, 16
+  orig: 63, 16
+  offset: 0, 0
+  index: -1
+Illzach/eyehard3
+  rotate: true
+  xy: 500, 444
+  size: 64, 7
+  orig: 64, 7
+  offset: 0, 0
+  index: -1
+Illzach/eyesffuer
+  rotate: false
+  xy: 160, 14
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+Illzach/eyeyun
+  rotate: true
+  xy: 226, 212
+  size: 78, 30
+  orig: 78, 30
+  offset: 0, 0
+  index: -1
+Illzach/face
+  rotate: false
+  xy: 2, 123
+  size: 128, 167
+  orig: 128, 167
+  offset: 0, 0
+  index: -1
+Illzach/hair1
+  rotate: true
+  xy: 322, 368
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+Illzach/hair2
+  rotate: true
+  xy: 410, 423
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: -1
+Illzach/hairinner
+  rotate: false
+  xy: 160, 48
+  size: 104, 111
+  orig: 104, 111
+  offset: 0, 0
+  index: -1
+Illzach/huzi
+  rotate: false
+  xy: 2, 2
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+Illzach/toushi
+  rotate: false
+  xy: 2, 17
+  size: 156, 104
+  orig: 156, 104
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield02/arminnerup
+  rotate: false
+  xy: 240, 6
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield02/armoutup
+  rotate: false
+  xy: 132, 125
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield02/handinner
+  rotate: false
+  xy: 347, 225
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield02/handout
+  rotate: false
+  xy: 370, 213
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield02/weapon1
+  rotate: false
+  xy: 227, 430
+  size: 181, 78
+  orig: 181, 78
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/arminnerdown
+  rotate: false
+  xy: 266, 66
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/armoutdown
+  rotate: false
+  xy: 266, 93
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/body
+  rotate: true
+  xy: 227, 363
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/hudang
+  rotate: true
+  xy: 318, 308
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/jianjiainner
+  rotate: false
+  xy: 210, 312
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/jianjiaout
+  rotate: false
+  xy: 406, 364
+  size: 82, 57
+  orig: 82, 57
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/jianjiaoutinner
+  rotate: true
+  xy: 340, 251
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/leginnerdown
+  rotate: true
+  xy: 304, 224
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/leginnerup
+  rotate: false
+  xy: 226, 162
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/legoutdown
+  rotate: false
+  xy: 256, 166
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/legoutup
+  rotate: false
+  xy: 304, 247
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/pidai
+  rotate: true
+  xy: 370, 259
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/pifeng
+  rotate: false
+  xy: 2, 292
+  size: 206, 115
+  orig: 206, 115
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/weapon1
+  rotate: false
+  xy: 2, 409
+  size: 223, 99
+  orig: 223, 99
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/weapon2
+  rotate: false
+  xy: 132, 161
+  size: 92, 129
+  orig: 92, 129
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/yaojiainner
+  rotate: false
+  xy: 266, 122
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/yaojiaout
+  rotate: false
+  xy: 275, 314
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_qb/Ledin_General02/handout
+  rotate: false
+  xy: 370, 235
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 258, 216
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

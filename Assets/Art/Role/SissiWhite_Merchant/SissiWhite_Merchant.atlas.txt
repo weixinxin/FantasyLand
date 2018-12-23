@@ -1,0 +1,279 @@
+
+SissiWhite_Merchant.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 91, 97
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/arminnerdown
+  rotate: false
+  xy: 124, 68
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/armoutdown
+  rotate: true
+  xy: 340, 390
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/armoutup
+  rotate: true
+  xy: 326, 327
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/bao
+  rotate: false
+  xy: 87, 2
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/body
+  rotate: false
+  xy: 185, 328
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 58, 6
+  orig: 58, 6
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/eyehard
+  rotate: false
+  xy: 233, 362
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/eyehard1
+  rotate: false
+  xy: 233, 335
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/eyehard2
+  rotate: false
+  xy: 240, 389
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/eyehard3
+  rotate: false
+  xy: 233, 317
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/eyesffuer
+  rotate: true
+  xy: 91, 36
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/eyeyun
+  rotate: true
+  xy: 151, 184
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/face
+  rotate: false
+  xy: 340, 416
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/hair1
+  rotate: true
+  xy: 2, 10
+  size: 37, 83
+  orig: 37, 83
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/hair2
+  rotate: false
+  xy: 240, 411
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/hair3
+  rotate: false
+  xy: 421, 380
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/hair4
+  rotate: false
+  xy: 307, 330
+  size: 17, 57
+  orig: 17, 57
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/hair5
+  rotate: false
+  xy: 469, 422
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/hair6
+  rotate: false
+  xy: 2, 309
+  size: 125, 201
+  orig: 125, 201
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/handinner
+  rotate: true
+  xy: 118, 97
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/hanout
+  rotate: false
+  xy: 458, 392
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/hanout1
+  rotate: true
+  xy: 135, 41
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/jianinner
+  rotate: true
+  xy: 326, 352
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/jianout
+  rotate: false
+  xy: 315, 389
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/maozi1
+  rotate: true
+  xy: 2, 173
+  size: 134, 106
+  orig: 134, 106
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/maozi2
+  rotate: false
+  xy: 2, 49
+  size: 87, 122
+  orig: 87, 122
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/mouth02
+  rotate: false
+  xy: 360, 374
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/mouth04
+  rotate: false
+  xy: 185, 323
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/mouth1
+  rotate: true
+  xy: 139, 97
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/pidai
+  rotate: true
+  xy: 124, 36
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/pifeng2
+  rotate: false
+  xy: 129, 400
+  size: 109, 110
+  orig: 109, 110
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/pifenginner1
+  rotate: false
+  xy: 110, 182
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/pifenginner2
+  rotate: false
+  xy: 110, 230
+  size: 33, 77
+  orig: 33, 77
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/pifengout1
+  rotate: true
+  xy: 381, 387
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/pifengout2
+  rotate: false
+  xy: 432, 416
+  size: 35, 94
+  orig: 35, 94
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/qunzi1
+  rotate: false
+  xy: 118, 115
+  size: 28, 65
+  orig: 28, 65
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/qunzi2
+  rotate: false
+  xy: 145, 247
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+SissiWhite/SissiWhite_Merchant/qunzi3
+  rotate: false
+  xy: 129, 318
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,314 @@
+
+Emily_Knight.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Emily/Emily_Knight/Emily_Knight_01/arminnerdown
+  rotate: false
+  xy: 444, 297
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/arminnerup
+  rotate: true
+  xy: 398, 296
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/armoutdown
+  rotate: true
+  xy: 398, 327
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/armoutup
+  rotate: false
+  xy: 444, 331
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/body
+  rotate: true
+  xy: 184, 139
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/eyebrow
+  rotate: false
+  xy: 281, 410
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/eyehard
+  rotate: false
+  xy: 252, 3
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/eyehard1
+  rotate: true
+  xy: 486, 448
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/eyehard2
+  rotate: true
+  xy: 486, 384
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/eyehard3
+  rotate: true
+  xy: 337, 346
+  size: 62, 11
+  orig: 62, 11
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/eyesffuer
+  rotate: false
+  xy: 268, 379
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/eyeyun
+  rotate: false
+  xy: 268, 349
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/face
+  rotate: false
+  xy: 2, 121
+  size: 116, 127
+  orig: 116, 127
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/hair1
+  rotate: false
+  xy: 131, 68
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/hair2
+  rotate: false
+  xy: 251, 197
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/hair3
+  rotate: true
+  xy: 252, 28
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/hair4
+  rotate: false
+  xy: 260, 118
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/hair5
+  rotate: false
+  xy: 182, 2
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/hair6
+  rotate: true
+  xy: 182, 70
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/hair7
+  rotate: false
+  xy: 266, 301
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/legoutdown
+  rotate: false
+  xy: 316, 307
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/legoutup
+  rotate: true
+  xy: 350, 323
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/mouth01
+  rotate: true
+  xy: 444, 373
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/yaodai
+  rotate: false
+  xy: 266, 284
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+Emily/Emily_Knight/Emily_Knight_01/yaojia
+  rotate: true
+  xy: 350, 353
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Knight/EmmaLink_Knight_1/dd
+  rotate: false
+  xy: 251, 191
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Knight/EmmaLink_Knight_1/mouth02
+  rotate: true
+  xy: 120, 136
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Knight/EmmaLink_Knight_1/mouth03
+  rotate: false
+  xy: 160, 269
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Knight/EmmaLink_Knight_1/mouth04
+  rotate: false
+  xy: 266, 279
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Knight/EmmaLink_Knight_1/weapon
+  rotate: false
+  xy: 2, 415
+  size: 277, 95
+  orig: 277, 95
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Knight/EmmaLink_Knight_1/weapon1
+  rotate: true
+  xy: 120, 152
+  size: 96, 62
+  orig: 96, 62
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_1/grayhorse_1/horse_guajian1
+  rotate: false
+  xy: 372, 389
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_1/grayhorse_1/horse_guajian2
+  rotate: true
+  xy: 131, 36
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_mana
+  rotate: false
+  xy: 281, 421
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_1/horse_body
+  rotate: false
+  xy: 2, 250
+  size: 156, 102
+  orig: 156, 102
+  offset: 0, 0
+  index: -1
+Leon/Leon_1/horse_head
+  rotate: true
+  xy: 2, 4
+  size: 115, 127
+  orig: 115, 127
+  offset: 0, 0
+  index: -1
+Leon/Leon_1/horse_neck
+  rotate: true
+  xy: 160, 279
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegdown
+  rotate: true
+  xy: 397, 355
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegup
+  rotate: false
+  xy: 184, 191
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegdown
+  rotate: true
+  xy: 131, 2
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegup
+  rotate: true
+  xy: 257, 64
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_weiba
+  rotate: false
+  xy: 372, 449
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 2, 354
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 459, 373
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

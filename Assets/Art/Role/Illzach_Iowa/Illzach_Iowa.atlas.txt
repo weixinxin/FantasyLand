@@ -1,0 +1,188 @@
+
+Illzach_Iowa.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC_Bust/Illzach/blood_1
+  rotate: true
+  xy: 864, 409
+  size: 63, 96
+  orig: 63, 96
+  offset: 0, 0
+  index: -1
+NPC_Bust/Illzach/blood_2
+  rotate: false
+  xy: 2, 10
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+NPC_Bust/Illzach/body_1
+  rotate: false
+  xy: 243, 74
+  size: 230, 284
+  orig: 230, 284
+  offset: 0, 0
+  index: -1
+NPC_Bust/Illzach/body_2
+  rotate: false
+  xy: 2, 53
+  size: 239, 305
+  orig: 239, 305
+  offset: 0, 0
+  index: -1
+NPC_Bust/Illzach/body_3
+  rotate: false
+  xy: 2, 360
+  size: 390, 661
+  orig: 390, 661
+  offset: 0, 0
+  index: -1
+NPC_Bust/Illzach/eye_Normal
+  rotate: true
+  xy: 767, 129
+  size: 108, 55
+  orig: 108, 55
+  offset: 0, 0
+  index: -1
+NPC_Bust/Illzach/eye_Weak
+  rotate: true
+  xy: 964, 760
+  size: 101, 52
+  orig: 101, 52
+  offset: 0, 0
+  index: -1
+NPC_Bust/Illzach/hair_1
+  rotate: true
+  xy: 427, 360
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+NPC_Bust/Illzach/hair_2
+  rotate: false
+  xy: 678, 518
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+NPC_Bust/Illzach/point
+  rotate: true
+  xy: 646, 122
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/blood_1
+  rotate: false
+  xy: 394, 360
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/blood_2
+  rotate: false
+  xy: 767, 101
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/body_up
+  rotate: false
+  xy: 475, 136
+  size: 178, 256
+  orig: 178, 256
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/eye_1_Hurt
+  rotate: false
+  xy: 705, 410
+  size: 157, 62
+  orig: 157, 62
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/eye_1_Normal
+  rotate: true
+  xy: 964, 863
+  size: 158, 57
+  orig: 158, 57
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/face
+  rotate: true
+  xy: 680, 769
+  size: 252, 282
+  orig: 252, 282
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/hair_inner_1
+  rotate: true
+  xy: 475, 47
+  size: 87, 169
+  orig: 87, 169
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/hair_inner_2
+  rotate: false
+  xy: 767, 239
+  size: 85, 169
+  orig: 85, 169
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/huzi_1
+  rotate: true
+  xy: 678, 551
+  size: 141, 239
+  orig: 141, 239
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/huzi_2
+  rotate: true
+  xy: 680, 694
+  size: 73, 252
+  orig: 73, 252
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/huzi_3
+  rotate: true
+  xy: 705, 474
+  size: 75, 249
+  orig: 75, 249
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/lingzi_1
+  rotate: false
+  xy: 394, 509
+  size: 282, 255
+  orig: 282, 255
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/lingzi_2
+  rotate: false
+  xy: 394, 766
+  size: 284, 255
+  orig: 284, 255
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/point
+  rotate: false
+  xy: 243, 55
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/weijin_1
+  rotate: false
+  xy: 655, 85
+  size: 110, 307
+  orig: 110, 307
+  offset: 0, 0
+  index: -1
+NPC_Bust/Iowa/weijin_2
+  rotate: true
+  xy: 394, 394
+  size: 113, 309
+  orig: 113, 309
+  offset: 0, 0
+  index: -1

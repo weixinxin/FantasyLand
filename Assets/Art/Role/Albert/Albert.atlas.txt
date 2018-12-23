@@ -1,0 +1,83 @@
+
+Albert.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 428, 76
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 376, 20
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 428, 102
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 278, 58
+  size: 148, 194
+  orig: 148, 194
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 278, 254
+  size: 200, 256
+  orig: 200, 256
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 2, 21
+  size: 274, 489
+  orig: 274, 489
+  offset: 0, 0
+  index: -1
+eye_Normal
+  rotate: true
+  xy: 428, 153
+  size: 99, 36
+  orig: 99, 36
+  offset: 0, 0
+  index: -1
+eye_Weak
+  rotate: false
+  xy: 278, 22
+  size: 96, 34
+  orig: 96, 34
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 2, 2
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 480, 477
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 466, 238
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

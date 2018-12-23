@@ -1,0 +1,167 @@
+
+Cordy.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cordy/arm_inner_up
+  rotate: true
+  xy: 715, 399
+  size: 111, 243
+  orig: 111, 243
+  offset: 0, 0
+  index: -1
+Cordy/arm_out_up
+  rotate: true
+  xy: 715, 329
+  size: 68, 221
+  orig: 68, 221
+  offset: 0, 0
+  index: -1
+Cordy/blood_1
+  rotate: false
+  xy: 472, 256
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Cordy/blood_2
+  rotate: false
+  xy: 2, 2
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Cordy/body_up
+  rotate: false
+  xy: 229, 249
+  size: 241, 261
+  orig: 241, 261
+  offset: 0, 0
+  index: -1
+Cordy/eye_1_Hurt
+  rotate: false
+  xy: 229, 18
+  size: 107, 50
+  orig: 107, 50
+  offset: 0, 0
+  index: -1
+Cordy/eye_1_Normal_1
+  rotate: false
+  xy: 338, 17
+  size: 105, 51
+  orig: 105, 51
+  offset: 0, 0
+  index: -1
+Cordy/eye_1_Normal_2
+  rotate: false
+  xy: 536, 224
+  size: 105, 51
+  orig: 105, 51
+  offset: 0, 0
+  index: -1
+Cordy/eye_1_Normal_3
+  rotate: false
+  xy: 536, 171
+  size: 105, 51
+  orig: 105, 51
+  offset: 0, 0
+  index: -1
+Cordy/face
+  rotate: false
+  xy: 472, 277
+  size: 241, 233
+  orig: 241, 233
+  offset: 0, 0
+  index: -1
+Cordy/hair_1_1
+  rotate: false
+  xy: 420, 82
+  size: 114, 165
+  orig: 114, 165
+  offset: 0, 0
+  index: -1
+Cordy/hair_1_2
+  rotate: true
+  xy: 862, 259
+  size: 68, 93
+  orig: 68, 93
+  offset: 0, 0
+  index: -1
+Cordy/hair_1_3
+  rotate: true
+  xy: 715, 256
+  size: 71, 145
+  orig: 71, 145
+  offset: 0, 0
+  index: -1
+Cordy/hair_1_4
+  rotate: false
+  xy: 643, 199
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+Cordy/hair_1_inner
+  rotate: false
+  xy: 2, 28
+  size: 225, 482
+  orig: 225, 482
+  offset: 0, 0
+  index: -1
+Cordy/mouth_1_Hurt
+  rotate: false
+  xy: 938, 376
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Cordy/mouth_1_Normal_A
+  rotate: true
+  xy: 87, 2
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Cordy/mouth_1_Normal_B
+  rotate: true
+  xy: 68, 2
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Cordy/mouth_1_Normal_C
+  rotate: true
+  xy: 48, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Cordy/mouth_1_Normal_D
+  rotate: true
+  xy: 26, 2
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Cordy/neck
+  rotate: false
+  xy: 960, 422
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+Cordy/pifeng
+  rotate: false
+  xy: 229, 70
+  size: 189, 177
+  orig: 189, 177
+  offset: 0, 0
+  index: -1
+Cordy/point
+  rotate: false
+  xy: 960, 405
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+Torland_Shield.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Elwin_qb/Elwin_General/weapon1
+  rotate: false
+  xy: 327, 211
+  size: 115, 42
+  orig: 115, 42
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_qb/Elwin_General/weapon2
+  rotate: false
+  xy: 226, 85
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_qb/Elwin_General/weapon3
+  rotate: false
+  xy: 314, 99
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_qb/Elwin_Lord/weapon
+  rotate: false
+  xy: 136, 107
+  size: 148, 7
+  orig: 148, 7
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 413, 135
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/arm_inner
+  rotate: true
+  xy: 373, 113
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/arm_inner1
+  rotate: false
+  xy: 409, 108
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/arm_out
+  rotate: true
+  xy: 474, 162
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/arm_out1
+  rotate: true
+  xy: 336, 110
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/body
+  rotate: false
+  xy: 263, 141
+  size: 62, 112
+  orig: 62, 112
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/eyebrow
+  rotate: false
+  xy: 136, 88
+  size: 88, 17
+  orig: 88, 17
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/eyehard
+  rotate: true
+  xy: 122, 8
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/eyehard1
+  rotate: false
+  xy: 141, 69
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/eyehard2
+  rotate: false
+  xy: 263, 127
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/eyehard3
+  rotate: false
+  xy: 263, 117
+  size: 71, 8
+  orig: 71, 8
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/eyesffuer
+  rotate: false
+  xy: 327, 177
+  size: 84, 32
+  orig: 84, 32
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/eyeyun
+  rotate: false
+  xy: 327, 144
+  size: 84, 31
+  orig: 84, 31
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/face
+  rotate: false
+  xy: 136, 116
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/hairback
+  rotate: false
+  xy: 2, 81
+  size: 132, 172
+  orig: 132, 172
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/hand_inner
+  rotate: true
+  xy: 286, 93
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/hand_out
+  rotate: false
+  xy: 335, 87
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/jianjiainner
+  rotate: false
+  xy: 440, 139
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/jianjiaout
+  rotate: true
+  xy: 444, 198
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/leginnerdown
+  rotate: true
+  xy: 473, 112
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/leginnerup
+  rotate: false
+  xy: 180, 20
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/legoutdown
+  rotate: true
+  xy: 474, 135
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/legoutup
+  rotate: false
+  xy: 141, 18
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/shield
+  rotate: true
+  xy: 2, 2
+  size: 77, 118
+  orig: 77, 118
+  offset: 0, 0
+  index: -1
+Torland/torland_Guardian_2/yaojiaout
+  rotate: false
+  xy: 444, 108
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

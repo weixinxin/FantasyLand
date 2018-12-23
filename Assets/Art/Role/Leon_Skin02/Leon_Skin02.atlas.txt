@@ -1,0 +1,342 @@
+
+Leon_Skin02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leon/Leon_1/horse_neck
+  rotate: true
+  xy: 238, 263
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/eyebrow
+  rotate: false
+  xy: 342, 143
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/eyehard
+  rotate: false
+  xy: 270, 123
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/eyehard1
+  rotate: false
+  xy: 460, 240
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/eyehard2
+  rotate: false
+  xy: 342, 164
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/eyehard3
+  rotate: false
+  xy: 411, 215
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/eyesffuer
+  rotate: true
+  xy: 309, 112
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/eyeyun
+  rotate: true
+  xy: 308, 153
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/face
+  rotate: false
+  xy: 2, 259
+  size: 139, 149
+  orig: 139, 149
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegdown
+  rotate: true
+  xy: 280, 195
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegup
+  rotate: true
+  xy: 121, 122
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_body
+  rotate: true
+  xy: 143, 252
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegdown
+  rotate: true
+  xy: 292, 229
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegup
+  rotate: false
+  xy: 230, 51
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_weiba
+  rotate: false
+  xy: 121, 189
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/jianjiaout4
+  rotate: true
+  xy: 395, 218
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/mouth01
+  rotate: true
+  xy: 381, 180
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/mouth02
+  rotate: true
+  xy: 395, 232
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/mouth03
+  rotate: true
+  xy: 500, 400
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/mouth04
+  rotate: true
+  xy: 504, 489
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/mouth05
+  rotate: false
+  xy: 288, 27
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin/legoutup
+  rotate: true
+  xy: 342, 228
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/arminnerdown
+  rotate: false
+  xy: 235, 195
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/arminnerup
+  rotate: true
+  xy: 327, 195
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/armoutdown
+  rotate: false
+  xy: 460, 270
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/armoutup
+  rotate: false
+  xy: 361, 195
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/body
+  rotate: false
+  xy: 413, 338
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/hairback
+  rotate: true
+  xy: 411, 245
+  size: 91, 47
+  orig: 91, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/handout
+  rotate: true
+  xy: 284, 51
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/horse_guajian1
+  rotate: false
+  xy: 209, 123
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/horse_head
+  rotate: true
+  xy: 2, 5
+  size: 115, 127
+  orig: 115, 127
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/horse_mana
+  rotate: false
+  xy: 412, 421
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/horse_tunjia
+  rotate: true
+  xy: 182, 2
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/horse_xiongjia
+  rotate: true
+  xy: 344, 257
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/jianjiainner
+  rotate: true
+  xy: 284, 74
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/jianjiaout
+  rotate: true
+  xy: 131, 8
+  size: 112, 49
+  orig: 112, 49
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/jianjiaout1
+  rotate: true
+  xy: 182, 43
+  size: 77, 46
+  orig: 77, 46
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/legoutdown
+  rotate: true
+  xy: 341, 122
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/pifeng
+  rotate: false
+  xy: 238, 338
+  size: 173, 73
+  orig: 173, 73
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/shipin
+  rotate: false
+  xy: 309, 72
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/shipin1
+  rotate: false
+  xy: 270, 152
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/toushi
+  rotate: false
+  xy: 238, 235
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/weapon
+  rotate: false
+  xy: 2, 122
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/weapon1
+  rotate: false
+  xy: 233, 413
+  size: 177, 97
+  orig: 177, 97
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/weapon2
+  rotate: false
+  xy: 2, 410
+  size: 229, 100
+  orig: 229, 100
+  offset: 0, 0
+  index: -1
+Leon/Leon_Skin02/yaojia
+  rotate: true
+  xy: 230, 2
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+Leon/dd
+  rotate: false
+  xy: 280, 229
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 473, 345
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

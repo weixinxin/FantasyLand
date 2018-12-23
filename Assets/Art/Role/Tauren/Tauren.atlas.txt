@@ -1,0 +1,167 @@
+
+Tauren.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tauren_arm_in_down
+  rotate: false
+  xy: 489, 628
+  size: 243, 349
+  orig: 243, 349
+  offset: 0, 0
+  index: -1
+Tauren_arm_in_up
+  rotate: false
+  xy: 2, 2
+  size: 319, 507
+  orig: 319, 507
+  offset: 0, 0
+  index: -1
+Tauren_arm_out_down
+  rotate: false
+  xy: 580, 1262
+  size: 377, 413
+  orig: 377, 413
+  offset: 0, 0
+  index: -1
+Tauren_arm_out_up
+  rotate: false
+  xy: 2, 511
+  size: 485, 636
+  orig: 485, 636
+  offset: 0, 0
+  index: -1
+Tauren_body
+  rotate: false
+  xy: 2, 1149
+  size: 576, 896
+  orig: 576, 896
+  offset: 0, 0
+  index: -1
+Tauren_ear
+  rotate: false
+  xy: 323, 9
+  size: 154, 69
+  orig: 154, 69
+  offset: 0, 0
+  index: -1
+Tauren_eye_1
+  rotate: false
+  xy: 734, 649
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Tauren_eye_2
+  rotate: false
+  xy: 489, 1071
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+Tauren_eyelid
+  rotate: false
+  xy: 1447, 1693
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+Tauren_hair_in
+  rotate: true
+  xy: 1859, 1750
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+Tauren_hair_out
+  rotate: false
+  xy: 489, 522
+  size: 167, 104
+  orig: 167, 104
+  offset: 0, 0
+  index: -1
+Tauren_hand_inner
+  rotate: false
+  xy: 1167, 1431
+  size: 259, 254
+  orig: 259, 254
+  offset: 0, 0
+  index: -1
+Tauren_hand_out
+  rotate: true
+  xy: 734, 673
+  size: 304, 244
+  orig: 304, 244
+  offset: 0, 0
+  index: -1
+Tauren_head
+  rotate: true
+  xy: 1055, 1687
+  size: 358, 390
+  orig: 358, 390
+  offset: 0, 0
+  index: -1
+Tauren_jiao_in
+  rotate: true
+  xy: 959, 1274
+  size: 122, 234
+  orig: 122, 234
+  offset: 0, 0
+  index: -1
+Tauren_jiao_out
+  rotate: false
+  xy: 959, 1398
+  size: 206, 277
+  orig: 206, 277
+  offset: 0, 0
+  index: -1
+Tauren_leg_inner
+  rotate: false
+  xy: 1447, 1739
+  size: 410, 306
+  orig: 410, 306
+  offset: 0, 0
+  index: -1
+Tauren_leg_out
+  rotate: true
+  xy: 323, 80
+  size: 429, 244
+  orig: 429, 244
+  offset: 0, 0
+  index: -1
+Tauren_neck
+  rotate: false
+  xy: 580, 1677
+  size: 473, 368
+  orig: 473, 368
+  offset: 0, 0
+  index: -1
+Tauren_qunzi
+  rotate: false
+  xy: 580, 979
+  size: 372, 281
+  orig: 372, 281
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 1859, 1805
+  size: 178, 240
+  orig: 178, 240
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 2039, 2031
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 1195, 1315
+  size: 154, 114
+  orig: 154, 114
+  offset: 0, 0
+  index: -1

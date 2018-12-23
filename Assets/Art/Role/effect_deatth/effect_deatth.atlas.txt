@@ -1,0 +1,314 @@
+
+effect_deatth.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/fire/huo0000
+  rotate: true
+  xy: 1904, 11
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+effect/fire/huo0001
+  rotate: false
+  xy: 2, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0002
+  rotate: false
+  xy: 2, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0003
+  rotate: false
+  xy: 204, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0004
+  rotate: false
+  xy: 204, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0005
+  rotate: false
+  xy: 406, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0006
+  rotate: false
+  xy: 406, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0007
+  rotate: false
+  xy: 608, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0008
+  rotate: false
+  xy: 608, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0009
+  rotate: false
+  xy: 810, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0010
+  rotate: false
+  xy: 810, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0011
+  rotate: false
+  xy: 1012, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0012
+  rotate: false
+  xy: 1012, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0013
+  rotate: false
+  xy: 1214, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0014
+  rotate: false
+  xy: 1214, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0015
+  rotate: false
+  xy: 1416, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0016
+  rotate: false
+  xy: 1416, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/huo0017
+  rotate: false
+  xy: 1742, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fire/y0001
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/fire/y0002
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/fire/y0003
+  rotate: false
+  xy: 206, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/fire/y0004
+  rotate: false
+  xy: 308, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/fire/y0005
+  rotate: false
+  xy: 410, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/fire/y0006
+  rotate: false
+  xy: 512, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/fire/y0007
+  rotate: false
+  xy: 614, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/fire/y0008
+  rotate: false
+  xy: 716, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/lightning/k
+  rotate: false
+  xy: 1618, 386
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect/lightning/l0001
+  rotate: true
+  xy: 818, 22
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0002
+  rotate: true
+  xy: 950, 22
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0003
+  rotate: true
+  xy: 1082, 22
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0004
+  rotate: true
+  xy: 1214, 22
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0005
+  rotate: true
+  xy: 1346, 22
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0006
+  rotate: true
+  xy: 1478, 22
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0007
+  rotate: true
+  xy: 1610, 22
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0008
+  rotate: false
+  xy: 1944, 376
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0009
+  rotate: false
+  xy: 1944, 244
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0010
+  rotate: false
+  xy: 1618, 112
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0011
+  rotate: false
+  xy: 1700, 112
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0012
+  rotate: true
+  xy: 1782, 224
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0013
+  rotate: true
+  xy: 1914, 162
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0014
+  rotate: true
+  xy: 1782, 142
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/l0015
+  rotate: true
+  xy: 1914, 80
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+effect/lightning/sd0001
+  rotate: false
+  xy: 1618, 264
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect/lightning/sd0002
+  rotate: false
+  xy: 1782, 20
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

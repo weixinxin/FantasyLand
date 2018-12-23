@@ -1,0 +1,83 @@
+
+Sika.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: true
+  xy: 984, 958
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 474, 376
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 551, 704
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+blood_4
+  rotate: false
+  xy: 2, 2
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 724
+  size: 708, 277
+  orig: 708, 277
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 551, 75
+  size: 190, 586
+  orig: 190, 586
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 80
+  size: 470, 322
+  orig: 470, 322
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 743, 70
+  size: 172, 591
+  orig: 172, 591
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 2, 404
+  size: 547, 318
+  orig: 547, 318
+  offset: 0, 0
+  index: -1
+body_5
+  rotate: true
+  xy: 712, 663
+  size: 338, 270
+  orig: 338, 270
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 917, 656
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

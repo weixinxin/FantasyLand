@@ -1,0 +1,41 @@
+
+flag1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flag/Flag1
+  rotate: false
+  xy: 619, 644
+  size: 197, 327
+  orig: 197, 327
+  offset: 0, 0
+  index: -1
+Flag/Flag1-1
+  rotate: false
+  xy: 432, 599
+  size: 185, 372
+  orig: 185, 372
+  offset: 0, 0
+  index: -1
+Flag/Flag2
+  rotate: false
+  xy: 47, 41
+  size: 304, 410
+  orig: 304, 410
+  offset: 0, 0
+  index: -1
+Flag/Flag2-1
+  rotate: false
+  xy: 47, 453
+  size: 383, 518
+  orig: 383, 518
+  offset: 0, 0
+  index: -1
+Flag/Flagpole
+  rotate: false
+  xy: 2, 2
+  size: 43, 969
+  orig: 43, 969
+  offset: 0, 0
+  index: -1
